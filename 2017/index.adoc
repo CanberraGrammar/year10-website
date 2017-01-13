@@ -1,5 +1,6 @@
-:page-layout: standard
+:page-layout: standard_fork
 :page-title: Year 10 IST 2017 - Course Overview
+:icons: font
 
 = Year 10 IST - iOS Application Development
 
@@ -44,7 +45,5 @@ matthew.purcell@cgs.act.edu.au
 .^|Monday 15 May 2017 (Week 14)
 .^|Thursday 5 June 2017 (Week 17)
 ^.^|35%
-
-|===
 
 |===
