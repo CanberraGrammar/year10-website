@@ -1,7 +1,4 @@
 language: ruby
-before_install:
-  - "export TRAVIS_COMMIT_MSG=\"$(git log --format=%B --no-merges -n 1)\""
-  - echo "$TRAVIS_COMMIT_MSG" | grep '\[skip build\]'; export CGS_DO_BUILD$?; true
 script: ./build.sh
 branches:
   only:
