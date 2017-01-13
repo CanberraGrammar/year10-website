@@ -18,6 +18,8 @@ rm -rf ../year10.cgscomputing.com.gh-pages
 #clone `gh-pages' branch of the repository using encrypted GH_TOKEN for authentication
 git clone -b gh-pages https://${GH_TOKEN}@github.com/CanberraGrammar/year10-website.git ../year10.cgscomputing.com.gh-pages
 
+ls
+
 # delete all files in cloned copy (in case this commit has deleted files)
 rm -rf ../year10.cgscomputing.com.gh-pages/*
 
