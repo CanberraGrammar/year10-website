@@ -9,25 +9,21 @@ fi
 # enable error reporting to the console
 set -e
 
+# currently in /home/travis/build/CanberraGrammar/year10-website
+
 # build site with jekyll, by default to `_site' folder
 bundle exec jekyll build
-
-pwd
-ls
 
 # cleanup
 rm -rf ../year10.cgscomputing.com
 
-# clone repository using encrypted GH_TOKEN for authentication
+# clone repository into /home/travis/build/CanberraGrammar/year10.cgscomputing.com
 git clone https://${GH_TOKEN}@github.com/CanberraGrammar/year10-website.git ../year10.cgscomputing.com
 
 # change to the gh-pages branch
 cd ../year10.cgscomputing.com
 git checkout gh-pages
-cd ..
-
-pwd
-ls
+cd ../year10-website
 
 # delete all files in cloned copy (in case this commit has deleted files)
 rm -rf ../year10.cgscomputing.com/*
