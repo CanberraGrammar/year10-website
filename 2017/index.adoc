@@ -1,0 +1,50 @@
+:page-layout: standard
+:page-title: Year 10 IST 2017 - Course Overview
+
+= Year 10 IST - iOS Application Development
+
+==== Canberra Grammar School
+
+Matthew Purcell +
+matthew.purcell@cgs.act.edu.au
+
+==== Course Documents
+
+- Need help? Visit the https://forum.cgscomputing.com[Year 10 forum^].
+
+- <<course_overview/course_overview.adoc#,Course Outline>>
+
+==== Lesson Summaries
+
+- http://it1001.work[IT1001 Google Doc^]
+- http://it1002.work[IT1002 Google Doc^]
+
+==== Assessment Tasks
+
+[cols="5,5,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Assignment: Swift Playgrounds*
+.^|Monday 20 February 2017 (Week 4)
+.^|Tuesday 28 March 2017 (Week 9) by 8:45am
+^.^|30%
+
+.^|*Assignment: Game Development*
+.^|Monday 3 April 2017 (Week 10)
+.^|Thursday 18 May 2017 (Week 14) by 8:45am
+^.^|35%
+
+.^|*Common Test: iOS and Swift Development*
+.^|Monday 15 May 2017 (Week 14)
+.^|Thursday 5 June 2017 (Week 17)
+^.^|35%
+
+|===
+
+|===
