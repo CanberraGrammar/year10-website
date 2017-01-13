@@ -1,7 +1,7 @@
 :page-layout: standard
 :page-title: Year 10 IST 2017 - Course Overview
 
-= Year 10 IST - iOS Application Development
+= Year 10 IST - iOS Application Development1
 
 ==== Canberra Grammar School
 
