@@ -2,8 +2,14 @@
 
 # only proceed script when started not by pull request (PR)
 if [ $TRAVIS_PULL_REQUEST == "true" ]; then
-  echo "this is PR, exiting"
+  echo "This is a PR, exiting"
   exit 0
+fi
+
+# only proceed if we have not said to skip the build with [skip build] in the commit message
+if [ $CGS_DO_BUILD != "true"]; then
+	echo "Skip build, exiting"
+	exit 0
 fi
 
 # enable error reporting to the console
