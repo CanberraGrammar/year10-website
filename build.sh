@@ -19,7 +19,9 @@ rm -rf ../year10.cgscomputing.com
 git clone https://${GH_TOKEN}@github.com/CanberraGrammar/year10-website.git ../year10.cgscomputing.com
 
 # change to the gh-pages branch
+cd ../year10.cgscomputing.com
 git checkout gh-pages
+cd ..
 
 # delete all files in cloned copy (in case this commit has deleted files)
 rm -rf ../year10.cgscomputing.com/*
@@ -29,7 +31,7 @@ cp -rf _site/* ../year10.cgscomputing.com
 
 # commit and push generated content to `gh-pages' branch
 # since repository was cloned in write mode with token auth - we can push there
-cd ../year10.cgscomputing.com.gh-pages
+cd ../year10.cgscomputing.com
 git config user.email "cgscomputing@cgs.act.edu.au"
 git config user.name "CGSComputing"
 git add -A .
