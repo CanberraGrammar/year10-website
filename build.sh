@@ -31,12 +31,6 @@ rm -rf ../year10.cgscomputing.com/*
 # copy generated HTML site to `gh-pages' branch
 cp -rf _site/* ../year10.cgscomputing.com
 
-# delete build script
-rm ../year10.cgscomputing.com/build.sh
-
-# copy in CNAME file
-cp -rf CNAME ../year10.cgscomputing.com
-
 # commit and push generated content to `gh-pages' branch
 # since repository was cloned in write mode with token auth - we can push there
 cd ../year10.cgscomputing.com

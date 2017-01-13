@@ -21,5 +21,6 @@ exclude:
 - Makefile
 - README.md
 - vendor
+- build.sh
 gems:
 - jekyll-asciidoc
