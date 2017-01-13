@@ -20,5 +20,6 @@ exclude:
 - Gemfile.lock
 - Makefile
 - README.md
+- vendor
 gems:
 - jekyll-asciidoc
