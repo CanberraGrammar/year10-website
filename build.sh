@@ -13,18 +13,19 @@ set -e
 bundle exec jekyll build
 
 # cleanup
-rm -rf ../year10.cgscomputing.com.gh-pages
+rm -rf ../year10.cgscomputing.com
 
-#clone `gh-pages' branch of the repository using encrypted GH_TOKEN for authentication
-git clone -b gh-pages https://${GH_TOKEN}@github.com/CanberraGrammar/year10-website.git ../year10.cgscomputing.com.gh-pages
+# clone repository using encrypted GH_TOKEN for authentication
+git clone https://${GH_TOKEN}@github.com/CanberraGrammar/year10-website.git ../year10.cgscomputing.com
 
-ls
+# change to the gh-pages branch
+git checkout gh-pages
 
 # delete all files in cloned copy (in case this commit has deleted files)
-rm -rf ../year10.cgscomputing.com.gh-pages/*
+rm -rf ../year10.cgscomputing.com/*
 
 # copy generated HTML site to `gh-pages' branch
-cp -rf _site/* ../year10.cgscomputing.com.gh-pages
+cp -rf _site/* ../year10.cgscomputing.com
 
 # commit and push generated content to `gh-pages' branch
 # since repository was cloned in write mode with token auth - we can push there
@@ -33,4 +34,4 @@ git config user.email "cgscomputing@cgs.act.edu.au"
 git config user.name "CGSComputing"
 git add -A .
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git push --quiet origin master > /dev/null 2>&1
+git push --quiet origin gh-pages > /dev/null 2>&1
