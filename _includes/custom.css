@@ -5,3 +5,7 @@ table.tableblock.frame-all.grid-all tr td {
 table.tableblock.frame-all.grid-all {
 	border-collapse: collapse;
 }
+
+table {
+	font-size: 14px;
+}
