@@ -45,7 +45,7 @@ matthew.purcell@cgs.act.edu.au
 
 .^|*Common Test: iOS and Swift Development*
 .^|Monday 15 May 2017 (Week 14)
-.^|Thursday 5 June 2017 (Week 17)
+.^|Monday 5 June 2017 (Week 17)
 ^.^|35%
 
 |===
@@ -80,7 +80,7 @@ matthew.purcell@cgs.act.edu.au
 
 .^|*Assignment: Project Implementation*
 .^|Monday 24 July 2017 (Week 2)
-.^|Tuesday 26 October 2017 (Week 13) by 8:45am
+.^|Thursday 26 October 2017 (Week 13) by 8:45am
 ^.^|45%
 
 .^|*Common Test: TBC*
