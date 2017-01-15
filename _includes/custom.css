@@ -9,3 +9,8 @@ table.tableblock.frame-all.grid-all {
 table {
 	font-size: 14px;
 }
+
+.footnote {
+	font-size: 14px;
+	font-style: italic;
+}

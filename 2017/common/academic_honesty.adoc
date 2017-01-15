@@ -37,4 +37,4 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 * Turning to humans (besides your teacher) for help or receiving help from humans (besides your teacher) during a quiz or test.
 * Viewing another's solution to a problem set's problem and basing your own solution on it.
 
-_Based upon Harvard University https://cs50.harvard.edu/[CS50's] Academic Honesty Policy, used and adapted with permission._
+[footnote]##Based upon Harvard University https://cs50.harvard.edu/[CS50's^] Academic Honesty Policy, used and adapted with permission. Thanks to Prof. David J. Malan.##

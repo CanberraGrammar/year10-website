@@ -1,5 +1,5 @@
 :page-layout: standard_fork
-:page-title: Year 10 IST 2017 - Course Overview
+:page-title: Year 10 IST - iOS Application Development
 :icons: font
 
 = Year 10 IST - iOS Application Development
@@ -22,7 +22,9 @@ matthew.purcell@cgs.act.edu.au
 
 ==== Assessment Tasks
 
-[cols="5,5,5,1"]
+===== Semester One
+
+[cols="5,4,5,1"]
 |===
 
 ^|*Task*
@@ -47,3 +49,44 @@ matthew.purcell@cgs.act.edu.au
 ^.^|35%
 
 |===
+
+===== Semester Two
+
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Assignment: Project Pre-Proposal*
+.^|Monday 24 July 2017 (Week 2)
+.^|Friday 4 August 2017 (Week 3) by 8:45am
+^.^|0%*
+
+.^|*Assignment: Project Proposal*
+.^|Monday 24 July 2017 (Week 2)
+.^|Thursday 24 August 2017 (Week 6) by 8:45am
+^.^|25%
+
+.^|*Assignment: Project Status Update*
+.^|Monday 24 July 2017 (Week 2)
+.^|Tuesday 10 October 2017 (Week 11) by 8:45am
+^.^|0%*
+
+4+^.^|*CGS Computing Hackathon*: 5:00pm Saturday 21 October 2017 - 9:00am Sunday 22 October 2017
+
+.^|*Assignment: Project Implementation*
+.^|Monday 24 July 2017 (Week 2)
+.^|Tuesday 26 October 2017 (Week 13) by 8:45am
+^.^|45%
+
+.^|*Common Test: TBC*
+.^|Monday 9 October 2017 (Week 11)
+.^|Thursday 1 November 2017 (Week 14)
+^.^|30%
+|===
+
+[footnote]##Note that tasks denoted with an * are worth 0% of your final grade. These tasks are designed to keep the teachers apprised of your progress, and also keep you on track. These tasks only require you to answer a few questions about your project - they are not major tasks. However, **they will contribute towards your effort grade for the subject** so you need to treat these tasks seriously.##
