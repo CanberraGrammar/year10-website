@@ -1,5 +1,5 @@
 :page-layout: standard_toc
-:page-title: Year 10 IST 2017 - Course Overview
+:page-title: Year 10 IST - Course Overview
 
 = Year 10 IST
 
