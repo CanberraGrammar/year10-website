@@ -33,8 +33,8 @@ matthew.purcell@cgs.act.edu.au
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Assignment: Swift Playgrounds*
-.^|Monday 20 February 2017 (Week 4)
+.^|*<<s1assign1/index.adoc#, Assignment: Swift Playgrounds>>*
+.^|Sunday 19 February 2017 (Week 3)
 .^|Tuesday 28 March 2017 (Week 9) by 8:45am
 ^.^|30%
 

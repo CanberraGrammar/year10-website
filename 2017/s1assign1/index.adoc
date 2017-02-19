@@ -1,0 +1,83 @@
+:page-layout: standard_toc
+:page-title: Year 10 IST - Assignment One
+:icons: font
+
+= Year 10 IST - Assignment One =
+
+*Weight:* 30% +
+*Due:* Tuesday 28 March 2017 (Week 9) by 8:45am
+
+== Changelog ==
+
+This assignment was last updated on *Sunday 19 February 2017*.
+
+If any changes are made to the assignment they will be itemised here for ease of identification.
+
+== What to Do ==
+
+Download the link:PlaygroundsAssignment.zip[`PlaygroundsAssignment`] Xcode Playground. This contains all the tasks for this assignment.
+
+There are six tasks in the Playground. However, you only need to complete three:
+
+1. Implement either of:
+* Mario Pyramid (less comfortable)
+* Spiral in a Box (more comfortable)
+
+2. Implement either of:
+* Change (less comfortable)
+* Change (more comfortable)
+
+3. Implement either of:
+* Check Digit (less comfortable)
+* Hash Cracker (more comfortable)
+
+In terms of the marks for this assignment, there are no additional marks if you complete the _more comfortable_ (advanced) activities over the _less comfortable_ (basic) activities. For those students who are not as confident in programming, it's totally fine to do the _less comfortable_ tasks. However, I would encourage students who are more confident to attempt the _more comfortable_ tasks.
+
+== Submission Instructions ==
+
+This assignment is worth 30% of your Semester One assessment for this subject.
+
+To submit, ZIP your `PlaygroundAssignment` file and upload the file to http://submit.cgscomputing.com/year10-s1assign1. Make sure to correctly enter your name and school email address, so that your submission can be located.
+
+== Marking Guidelines ==
+
+We have changed the way that programming-style tasks will be marked. This is in recognition that some students are stronger programmers than others, and we want to reward not only the final product you produce, but also the effort that you invest in your submission.
+
+This assignment will be marked according to four axis:
+
+* *Scope:* To what extend does your submission implement (or attempt to implement) the features required by the specification?
+** We are interested in whether you made an *effort* to get your code to match the requirements.
+** This doesn't necessary mean that your solution has to work, but you need to show that you have thought through the steps to _try_ to make it work.
+** There's no reason that you should not always receive a 5 for scope, as you should always be putting in effort.
+* *Correctness:* To what extend is your code consistent with the specifications and free of bugs?
+* *Design:* To what extent is your code written well (i.e. clearly, efficiently, elegantly, and/or logically)?
+* *Style:* To what extend is your code readable (i.e. commented and intended with variables appropriately named)?
+
+Each axis will be marked on a five point scale:
+
+* 5 = Excellent, essentially no room for improvement
+* 4 = Very good, minor room for improvement
+* 3 = Good, some room for improvement
+* 2 = Fair, ample room for improvement
+* 1 = Poor
+* 0 = No attempt
+
+Your final mark for this assignment will be calculated using the following formula:
+`Final Mark = Scope × (3 × Correctness + 2 × Design + 1 × Style)`
+
+As you can see, we place the most importance and weighting on scope - the effort which you invest in your submission to try and meet the requirements.
+
+[footnote]##Based upon Harvard University https://cs50.harvard.edu/[CS50's^] grading, used and adapted with permission. Thanks to Prof. David J. Malan.##
+
+=== Outcomes/Assessment Criteria ===
+
+* 5.1.1 select and justify the application of appropriate software programs to a range of tasks
+* 5.2.1 describe and apply problem-solving processes when creating solutions
+* 5.2.2 design, produce and evaluate appropriate solutions to a range of challenging problems
+* 5.3.2 acquire and manipulate data and information in an ethical manner
+* 5.5.2 communicate ideas, processes and solutions to a targeted audience
+
+[#_academic_honesty]
+== Academic Honesty
+
+include::../common/academic_honesty.adoc[]
