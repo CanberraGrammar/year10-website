@@ -9,9 +9,11 @@
 
 == Changelog ==
 
-This assignment was last updated on *Sunday 19 February 2017*.
+This assignment was last updated on *Sunday 4 March 2017*.
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
+
+* *UPDATE 4 March:* There is a slight mistake in the _Change (Advanced)_ activity. In the example output, there should NOT be a $20 note - that should instead be a $30 note. Additionally, text below the example is therefore also incorrect. It should say _For example, it should dispense 1x $30 note rather than 3x $10 notes._
 
 == What to Do ==
 
