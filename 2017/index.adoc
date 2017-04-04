@@ -38,8 +38,8 @@ matthew.purcell@cgs.act.edu.au
 .^|Tuesday 28 March 2017 (Week 9) by 8:45am
 ^.^|30%
 
-.^|*Assignment: Game Development*
-.^|Monday 3 April 2017 (Week 10)
+.^|*<<s1assign2/index.adoc#, Assignment: Game Development>>*
+.^|Tuesday 4 April 2017 (Week 10)
 .^|Thursday 18 May 2017 (Week 14) by 8:45am
 ^.^|35%
 
