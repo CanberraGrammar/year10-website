@@ -17,7 +17,7 @@ If any changes are made to the assignment they will be itemised here for ease of
 
 == Solution ==
 
-The link:PlaygroundsAssignment-Solution.zip[`assignment solution is availble here`].
+The link:PlaygroundsAssignment-Solution.zip[assignment solution is available here].
 
 == What to Do ==
 
