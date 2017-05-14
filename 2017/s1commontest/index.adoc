@@ -1,5 +1,5 @@
 :page-layout: standard_toc
-:page-title: Year 10 IST - Assignment Two
+:page-title: Year 10 IST - Common Test
 :icons: font
 
 = Year 10 IST - Common Test =
@@ -19,7 +19,7 @@ If any changes are made to the task they will be itemised here for ease of ident
 * This is a take-home common test which will be issued at 4:00pm on Monday 5 June 2017 and due by 8:45am on Tuesday 6 June 2017.
 * *The task will be available on this page from 5:00pm on Monday 5 June 2017.*
 * If you are familiar with the content it is expected that it should take you approximately 60 minutes to complete the task.
-* Students are required to use their Macbook laptops and Xcode to complete a series of Swift and iOS programming activities. All students must ensure that their laptop is fully charged, working, and has the latest version of Xcode installed to complete the task. Internet access is also strongly recommended.
+* Students are required to use their Macbook and Xcode to complete a series of Swift and iOS programming activities. All students must ensure that their laptop is fully charged, working, and has the latest version of Xcode installed to complete the task. Internet access is also strongly recommended.
 * Your code in the test does not need to be commented. However, proper naming of variables (to reflect their purpose) is required, along with correct indentation of code.
 * In preparation for this task, students should review all concepts relating to Swift and iOS programming that we have covered during Term One, Assignment One, and Assignment Two. This includes, but is not limited to, loops, if statements, actions, outlets, functions, objects, optionals, etc. Students must also be familiar with the user of the `Timer` class.
 * The test is completely open-resource. Any resources (including the internet, textbooks, handwritten or electronic notes) may be used. However, email and any other form of real-time (or near real-time) communication must not be used - while students can use resources to research how to solve the questions they may not communicate with anyone else during the test.
