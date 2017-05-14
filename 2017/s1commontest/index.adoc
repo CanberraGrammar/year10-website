@@ -1,0 +1,52 @@
+:page-layout: standard_toc
+:page-title: Year 10 IST - Assignment Two
+:icons: font
+
+= Year 10 IST - Common Test =
+
+*Weight:* 35% +
+*Issued:* Monday 5 June 2017 (Week 17) at 4:00pm +
+*Due:* Tuesday 6 June 2017 (Week 17) at 8:45am
+
+== Changelog ==
+
+This task was last updated on *Sunday 14 May 2017*.
+
+If any changes are made to the task they will be itemised here for ease of identification.
+
+== Task Description ==
+
+* This is a take-home common test which will be issued at 4:00pm on Monday 5 June 2017 and due by 8:45am on Tuesday 6 June 2017.
+* *The task will be available on this page from 5:00pm on Monday 5 June 2017.*
+* If you are familiar with the content it is expected that it should take you approximately 60 minutes to complete the task.
+* Students are required to use their Macbook laptops and Xcode to complete a series of Swift and iOS programming activities. All students must ensure that their laptop is fully charged, working, and has the latest version of Xcode installed to complete the task. Internet access is also strongly recommended.
+* Your code in the test does not need to be commented. However, proper naming of variables (to reflect their purpose) is required, along with correct indentation of code.
+* In preparation for this task, students should review all concepts relating to Swift and iOS programming that we have covered during Term One, Assignment One, and Assignment Two. This includes, but is not limited to, loops, if statements, actions, outlets, functions, objects, optionals, etc. Students must also be familiar with the user of the `Timer` class.
+* The test is completely open-resource. Any resources (including the internet, textbooks, handwritten or electronic notes) may be used. However, email and any other form of real-time (or near real-time) communication must not be used - while students can use resources to research how to solve the questions they may not communicate with anyone else during the test.
+* Keep in mind that even though this test is open-resource, it is essential that all students undertake sufficient revision. Referring to other resources is only useful if you need to quickly reference or look-up something. If you do not already have a firm grasp of Swift and iOS development then you cannot expect to research and understand completely new concepts, then answer the questions, in order to complete this task within the timeframe.
+
+[#_academic_honesty]
+== Academic Honesty
+
+Unlike assignments where you can seek help from others, and collaborate (at a high-level) over the assignment, as this is a take-home test *YOU MAY NOT COLLABORATE WITH ANYONE ELSE ABOUT THIS TASK*. It must be purely done by yourself and you cannot seek help from anyone, apart from researching online (as discussed in the previous section about the test being open-resource).
+
+It is very clear when someone has collaborated with others on a task, so if any source code bears similarities to other people they will be issued with an immediate zero without any further discussion.
+
+NOTE: Those students who have already received warnings about working too closely with other students on assignments will have their submission for this assignment under particular scrutiny for potential collaboration.
+
+== Outcomes to be Assessed ==
+
+* 5.1.1 selects and justifies the application of appropriate software programs to a range of tasks
+* 5.2.1 describes and applies problem-solving processes when creating solutions
+* 5.2.2 designs, produces and evaluates appropriate solutions to a range of challenging problems
+
+== Context for the Task ==
+
+The focus of this task is to allow students to demonstrate their level of Swift and iOS development.
+
+== Hints and Pro Tips ==
+
+Here you can find various hints and tips to help with your preparation for the common test.
+
+* It is highly advisable that you create some kind of notes page (also known as a "cheat-sheet") and/or electronic versions of common code (with an explanation as to their purpose). This will provide a extremely valuable and quick reference for you during the test, saving you from having to search through your book or online. It also has the added benefit that by compiling this information you will essentially be revising all these items!
+* Use Post-It tabs to put tabs throughout your textbook (or virtual post it notes, in the case of the PDF text book) allowing you quick and easy reference to particularly important sections of your book.

@@ -43,7 +43,7 @@ matthew.purcell@cgs.act.edu.au
 .^|Thursday 18 May 2017 (Week 14) by 8:45am
 ^.^|35%
 
-.^|*Common Test: iOS and Swift Development*
+.^|*<<s1commontest/index.adoc#, Common Test: iOS and Swift Development>>*
 .^|Monday 15 May 2017 (Week 14)
 .^|Monday 5 June 2017 (Week 17)
 ^.^|35%
