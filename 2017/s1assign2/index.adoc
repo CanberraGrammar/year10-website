@@ -5,7 +5,7 @@
 = Year 10 IST - Assignment Two =
 
 *Weight:* 35% +
-*Due:* Tuesday 18 May 2017 (Week 14) by 8:45am
+*Due:* Thursday 18 May 2017 (Week 14) by 8:45am
 
 == Changelog ==
 
