@@ -17,7 +17,7 @@ If any changes are made to the task they will be itemised here for ease of ident
 == Task Description ==
 
 * This is a take-home common test which will be issued at 4:00pm on Monday 5 June 2017 and due by 8:45am on Tuesday 6 June 2017.
-* *The task will be available on this page from 5:00pm on Monday 5 June 2017.*
+* *The task will be available on this page from 4:00pm on Monday 5 June 2017.*
 * If you are familiar with the content it is expected that it should take you approximately 60 minutes to complete the task.
 * Students are required to use their Macbook and Xcode to complete a series of Swift and iOS programming activities. All students must ensure that their laptop is fully charged, working, and has the latest version of Xcode installed to complete the task. Internet access is also strongly recommended.
 * Your code in the test does not need to be commented. However, proper naming of variables (to reflect their purpose) is required, along with correct indentation of code.
