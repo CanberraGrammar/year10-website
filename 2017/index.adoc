@@ -20,6 +20,11 @@ matthew.purcell@cgs.act.edu.au
 - http://it1001.work[IT1001 Google Doc^]
 - http://it1002.work[IT1002 Google Doc^]
 
+==== Activities
+
+- <<s1activities/activity1_tappity.adoc#, Activity 1: Tappity>>
+- <<s1activities/activity2_tmg.adoc#, Activity 2: The Memory Game>>
+
 ==== Assessment Tasks
 
 ===== Semester One

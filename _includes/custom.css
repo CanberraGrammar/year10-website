@@ -14,3 +14,7 @@ table {
 	font-size: 14px;
 	font-style: italic;
 }
+
+.image-border img {
+	border: 1px solid black;
+}
