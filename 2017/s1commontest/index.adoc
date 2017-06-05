@@ -8,24 +8,74 @@
 *Issued:* Monday 5 June 2017 (Week 17) at 4:00pm +
 *Due:* Tuesday 6 June 2017 (Week 17) at 8:45am
 
-== Changelog ==
+== Task Requirements ==
 
-This task was last updated on *Sunday 14 May 2017*.
+Your company is designing an iPhone app which provides a countdown to new year celebrations! Unfortunately, the software engineer looking after this project has gone on holidays and the boss needs this app completed as soon as possible to meet their deadline. The software engineer has left quite a bit to be done, and you'll need to finish these so the app fully works.
 
-If any changes are made to the task they will be itemised here for ease of identification.
+link:CountdownTimer_Template.zip[You can download the incomplete project (which you need to finish) from here].
 
-== Task Description ==
+The app looks like this:
 
-* This is a take-home common test which will be issued at 4:00pm on Monday 5 June 2017 and due by 8:45am on Tuesday 6 June 2017.
-* *The task will be available on this page from 4:00pm on Monday 5 June 2017.*
-* If you are familiar with the content it is expected that it should take you approximately 60 minutes to complete the task.
-* Students are required to use their Macbook and Xcode to complete a series of Swift and iOS programming activities. All students must ensure that their laptop is fully charged, working, and has the latest version of Xcode installed to complete the task. Internet access is also strongly recommended.
-* Your code in the test does not need to be commented. However, proper naming of variables (to reflect their purpose) is required, along with correct indentation of code.
-* In preparation for this task, students should review all concepts relating to Swift and iOS programming that we have covered during Term One, Assignment One, and Assignment Two. This includes, but is not limited to, loops, if statements, actions, outlets, functions, objects, optionals, etc. Students must also be familiar with the user of the `Timer` class.
-* The test is completely open-resource. Any resources (including the internet, textbooks, handwritten or electronic notes) may be used. However, email and any other form of real-time (or near real-time) communication must not be used - while students can use resources to research how to solve the questions they may not communicate with anyone else during the test.
-* Keep in mind that even though this test is open-resource, it is essential that all students undertake sufficient revision. Referring to other resources is only useful if you need to quickly reference or look-up something. If you do not already have a firm grasp of Swift and iOS development then you cannot expect to research and understand completely new concepts, then answer the questions, in order to complete this task within the timeframe.
+[.image-border]
+image::app1.jpg[App]
 
-[#_academic_honesty]
+All the user interface design has been completed, so you just need to hook-up the UI and write the code to make it work. Note, it is your responsbility to create the necessary `IBOutlets` and `IBActions` in the view controller and hook those up - they are not provided.
+
+*There are no auto layout constraints on the storyboard, so this only needs to display on the iPhone 7 simulator.*
+
+There are four tasks you need to attempt, each worth a certain number of marks.
+
+=== Task 1: Countdown in Seconds (5 marks) ===
+When the app launches it calculates the number of seconds between now and 31 December 2017 at 11:59:59pm (i.e. midnight, and the new year). This is done in the `viewDidLoad` method and is stored in a variable called `interval`. This has already been done for you.
+
+You need to write code so that this interval decrements every second (which makes sense, since every second brings us closer to new years) and updates the label on the view. This results in the label counting down and displaying the real-time number of seconds until the new year.
+
+See the example below:
+
+[.image-border]
+image::activity1_video.gif[Activity 1 Video]
+
+=== Task 2: Stop at Zero (4 marks) ===
+
+This is pretty simple. Write code so that when the countdown reaches zero (i.e. new years) it stops and does not continue decrementing into negative values!
+
+=== Task 3: l33t Hacker Mode(TM) (10 marks) ===
+
+Write code so that when the *l33t Hacker Mode* button is tapped it toggles between light mode and dark mode. Make sure you look carefully at the example below to see what needs to change on the UI in response to l33t Hacker Mode(TM) being enabled or disabled.
+
+Note, all colours are either `UIColor.black` or `UIColor.white`. There are no other colours.
+
+[.image-border]
+image::activity3_video.gif[Activity 3 Video]
+
+=== Task 4: Friendly Time Format (10 marks) ===
+
+Not everyone can easily do a conversion in their head from seconds into days, hours, minutes, and seconds. To make this easier, you have decided to implement this conversion and display the countdown in an easier to understand format.
+
+Write code so that below the countdown in seconds there is a more user-friendly time format - which displays the real-time countdown in days, hours, minutes, and seconds.
+
+See the example below:
+
+[.image-border]
+image::activity4_video.gif[Activity 4 Video]
+
+You *do not* need to account for daylight savings, when a hour is lost between now and new years.
+
+=== Code Style (6 marks) ===
+
+The final 6 marks of this assignment are for code style - such as good variable/constant naming, whitespace, and indentation.
+
+*You do not need to comment your code for this task.*
+
+== Submission ==
+
+This task is marked out of 35 and will form 35% of your assessment for Semester One.
+
+You need to ZIP the *entire* Xcode project folder and submit to http://submit.cgscomputing.com/year10-commontest[http://submit.cgscomputing.com/year10-commontest^] by 8:45am on Tuesday 6 June 2017.
+
+[.image-border]
+image::submission_zip.png[Submission ZIP]
+
 == Academic Honesty
 
 Unlike assignments where you can seek help from others, and collaborate (at a high-level) over the assignment, as this is a take-home test *YOU MAY NOT COLLABORATE WITH ANYONE ELSE ABOUT THIS TASK*. It must be purely done by yourself and you cannot seek help from anyone, apart from researching online (as discussed in the previous section about the test being open-resource).
@@ -39,14 +89,3 @@ NOTE: Those students who have already received warnings about working too closel
 * 5.1.1 selects and justifies the application of appropriate software programs to a range of tasks
 * 5.2.1 describes and applies problem-solving processes when creating solutions
 * 5.2.2 designs, produces and evaluates appropriate solutions to a range of challenging problems
-
-== Context for the Task ==
-
-The focus of this task is to allow students to demonstrate their level of Swift and iOS development.
-
-== Hints and Pro Tips ==
-
-Here you can find various hints and tips to help with your preparation for the common test.
-
-* It is highly advisable that you create some kind of notes page (also known as a "cheat-sheet") and/or electronic versions of common code (with an explanation as to their purpose). This will provide a extremely valuable and quick reference for you during the test, saving you from having to search through your book or online. It also has the added benefit that by compiling this information you will essentially be revising all these items!
-* Use Post-It tabs to put tabs throughout your textbook (or virtual post it notes, in the case of the PDF text book) allowing you quick and easy reference to particularly important sections of your book.
