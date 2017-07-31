@@ -1,0 +1,180 @@
+:page-layout: standard_toc
+:page-title: Year 10 IST - Major Project 2017
+:icons: font
+
+
+= Year 10 IST - Major Project 2017 =
+
+*Weight:* 70%
+
+
+== Changelog ==
+
+This assignment was last updated on *Monday 31 July 2017*.
+
+
+== Project Overview ==
+
+The major project requires you to build your own iOS app from scratch. The nature of the project is entirely up to you, subject to the teacher's approval, but you should build something that is of interest to you.
+
+Inasmuch as software development is rarely a one-person effort, you are allowed an opportunity to collaborate with one or two classmates for this final project. Needless to say, it is expected that every student in any such group contribute equally to the design and implementation of that group's project. Moreover, it is expected that the scope of a two- or three-person group's project be, respectively, twice or thrice that of a typical one-person project. Although *no more than three students may design and implement a single project together*, you are welcome to solicit advice from others, so long as you respect the course's policy on academic honesty.
+
+=== Stage 1: Project Pre-Proposal ===
+
+*Weight:* 0% +
+*Due:* Monday 7 August (Week 4) by 8:45am
+
+Intended to promote early thought, the pre-proposal is your opportunity to receive approval and counsel from your teacher before you proceed to design. By the pre-proposal's deadline, send an email to your teacher describing one or more ideas that you have for your final project. Short, casual emails are fine, but do explain the motivation behind each of your ideas (i.e., why it interests you). Treat this requirement as an opportunity for counsel. Certainly include any questions or concerns that you have in this email.
+
+The subject line of your email should be *Pre-Proposal*.
+
+You will then receive an email back with feedback and/or approval for your idea.
+
+=== Stage 2: Proposal ===
+
+*Weight:* 25% +
+*Due:* Thursday 24 August (Week 6) by 8:45am
+
+The proposal is focussed on helping you formulate and flesh-out and idea for your app. This section is easiest explained by breaking it into several sub-sections, around which you can frame your research and structure your submission.
+
+The word counts below are indicative and designed to provide you with general guidance about the level of detail expected in each section. Treat them as a guide, not as a rule.
+
+==== Problem analysis (300 words) ====
+
+To begin, you need to identify a genuine problem (need) that you envisage could somehow be made easier and addressed. For example, school teachers having difficulties in marking rolls. You should delve deeply into the problem, pinpointing exactly why this is a problem (there may be many reasons) so that you can become such an expert on this particular problem that you will be able to come-up with a resolution which can address the problem.
+
+==== Existing solutions (400 words, plus screen shots) ====
+
+Once you have settled on the need/problem you need to do substantial background research and analysis on existing solutions. This will involve analysing existing apps on the App Store (if any) together with researching more widely for apps on other platforms (such as Mac, Windows, Android, BlackBerry, HTML, etc.) and even manual (i.e. non-software) solutions for completing the task. Things that you should include are an analysis of what those do well, what they do poorly, and what they are completely lacking.
+
+NOTE: Make sure that you do not fall into the trap of simply reviewing or summarising the features in existing solutions. Instead, you need to analyse the apps. This means looking at their features and providing thoughtful and insightful discussion regarding the implications of those features (or lack thereof), particularly relating them back to how well they meet the needs of the user as described in the problem analysis section. Using the example of a school roll marking application, XYZ app may be very slow and cumbersome to create a new day for roll marking – a potential analysis could be “given that teachers are very busy people (generally standing in front of a class of 20 teenagers) they need to be able to mark the roll efficiency, and XYZ app does not provide this essential functionality”. You could also include screen captures from the app, with annotations, to elaborate and illustrate the problem in more detail.
+
+Be aware, you do not need to explain how issues with the app could be resolved. You just need to identify and analyse the issues, so they can be incorporated into the design of your own app (in other words, so you don’t make the same mistakes!). Of course, you could suggest ways for improvement if you believe that assists in your analysis.
+
+Also, make sure that you don’t just berate apps. If you find that an app has good features then make sure you also analyse those – the best way to get inspiration for your own app is looking at how other good apps work.
+
+==== Screen Designs ====
+
+Most consider the interface of the app to be "the app" – it’s what the user will interact with all the time, and is generally a good yard-stick which potential customers will use when determining whether to download your app. You need to provide screen designs for your app structured in a “storyboard” approach. This does not mean that you use the Storyboarding feature in Xcode – in fact, this is specifically not allowed. Instead, you need to draw your screen designs in drawing software and then show their workflow in a storyboard-like manner (arrows joining the screens together, etc.).
+
+There are plenty of tools available allowing you to easily mock-up iOS app designs. Do some research and find ones which work for you.
+
+Your screen designs must also be annotated and explain how the user will be interacting with the screens, what happens when buttons are pressed, sliders are moved, etc.
+
+=== Stage 3: Project Status Update ===
+
+*Weight:* 0% +
+*Due:* Tuesday 10 October (Week 11) by 8:45am
+
+Not only is the status report intended to keep the teacher apprised of your progress, it is an opportunity to keep yourself on track. It also provides an opportunity for your peers to provide feedback on your progress. You will need to give a short 2 - 3 minute demonstration of your app (in progress) to your class. Your presentation should address the following aspects (called wins and blockers):
+
+* *Wins:* what have you done so far? What is still to do?
+* *Blockers:* What challenges have you encountered? How were they overcome? Do you need any help with particular aspects?
+
+Even though this is an informal presentation, you should still prepare appropriately. This will count towards your effort grade.
+
+=== Stage 4: Implementation ===
+
+*Weight:* 45% +
+*Due:* Tuesday 26 October (Week 13) by 8:45am
+
+Ultimately due is the implementation of your final project. There are a few requirements to which your app must meet, which are outlined below:
+
+* Good object-oriented design practices must be used. Make sure you represent entities within your app using objects, classes, etc. together with using complex data structures such as arrays.
+
+* Designed with a clean, intuitive, and polished user interface. This does not mean you need to use custom graphics — you can achieve all the previous with correct usage of stock elements. However, you are welcome to use custom graphics to improve the UI of your app, but make sure you adhere to all copyright laws (more information regarding this is provided below).
+
+* Your must comply with all app store submission guidelines (e.g. no private APIs, etc.).
+
+* Your app can be written in either Xcode 8 or Xcode 9, using either the iOS 10 or iOS 11 SDKs. However, you must be using the release version of Xcode and iOS SDK — you cannot use pre-release or beta versions of these packages. Xcode 9 and iOS 11 will be released by the time this assignment is due — so you can use the beta versions for initial development, but the final app must be compatible with the release versions.
+
+A few words about asking for help, particularly in the area of programming. This project should be substantially your own work. There is nothing wrong with asking for help when you are stuck. Where this becomes an issue is if the only time any progress gets made on your project is when me (or someone else) is helping you with it. If this is the case, it will adversely affect your mark. I will give you warning if this is the case.
+
+==== Deliverables ====
+
+The deliverables for the implementation are as follows:
+
+1. *Xcode project source code files*, uploaded to a GitHub repository for the project (this can either be a public or private repo).
+
+2. *TestFlight build of the app*, sent to matthew.purcell@cgs.act.edu.au. Note, it can take 48 - 72 hours for the initial TestFlight build off the app to be approved by Apple, so plan ahead! So long as subsequent builds are minor they should not be subject to approval.
+
+3. *A short video* (that's no more than 2 minutes in length) in which you present your project to the world, as with slides, screenshots, voiceover, and/or live action. Your video should somehow include your project’s title, your name, and any other details that you’d like to convey to viewers. Upload your video to YouTube as "public" or "unlisted" and take note of its URL.
+
+==== Third-Party Resources ====
+
+It is essential that you understand copyright law with regards to use of third-party resources within your apps. For example, you cannot do a Google search and take any images which look nice and incorporate them into your app — by doing this you are infringing on someone else’s copyright and they could sue you. Additionally, if you use code which you find on the internet you need to ensure that it is properly licensed so that you can use it within your app.
+
+If you find third-party code (on GitHub or alike) that you would like to use that’s usually fine — check the licence, as most will allow you to use that code so long as you acknowledge its incorporation within the source code and "About" screen in your app. It is important that you read the licence agreements to understand your responsibilities with regards to legally using the code. Most licences are very human-readable (rather than being written in legalese) and explain fairly clearly what you need to do. If you are unsure, then please ask me and I can help you understand what needs to be done.
+
+Note, code from Stack Overflow is licenced under http://creativecommons.org/licenses/by-sa/3.0/[Creative Commons Attribution-ShareAlike^] with http://blog.stackoverflow.com/2009/06/attribution-required/[attribution^].
+
+If you use third-party graphics you must ensure that you have permission and a licence to use the graphics. Below are some websites where you can obtain graphics that you can use within your apps. You are welcome to find/use other resources, subject to their licence agreements, but this provides you with good starting point.
+
+Make sure that you think ahead about whether your app will be a free or paid app, if you intend to publish it on the App Store, as that will affect the graphic licences.
+
+* Premium Pixels (http://www.premiumpixels.com[http://www.premiumpixels.com^]): Allowed for use in free and paid apps. All graphics are free.
+* Graphic River (http://graphicriver.net[http://graphicriver.net^]): Use in free apps allowed under a "regular licence". Use in paid apps allowed under an "extended licence". *The price of this licence is substantially more expensive than a regular licence.* Be warned!
+* Icon Finder (https://www.iconfinder.com[https://www.iconfinder.com^]): Variety of paid and free icons, check the licence on the particular resource for restrictions on use in free and paid apps.
+
+IMPORTANT: Regardless of the licence, if you incorporate work that is not your own into your apps then you must reference the work in your source code (a comment with the source URL will suffice) or similar (e.g. recognition in the About screen) — otherwise it will be considered plagarism.
+
+==== Ownership of Projects ====
+
+You will retain copyright and intellectual property rights of the project and outcomes from the project (such as the finished app).
+
+You provide a royalty-free licence for the School to use the project/app which you have built, and also allow the School to have full access to the source code of the app so that we can potentially modify it in the future. However, the School will *not* sell your project or app, or distribute the entire source code or compiled application to others without your consent.
+
+The School may also use your work as samples for the purposes of School Registration, and show samples of your work both internally within the School and externally outside of the School.
+
+
+== CGS Computing Hackathon ==
+
+The CGS Computing Hackathon is an epic all-nighter during which you can dive into your final project’s implementation alongside classmates and staff. If you choose to partake, you’ll be asked to propose three milestones for yourself that evening: a "good" one that you intend to achieve no matter what; a "better" one that you think you can achieve; and a "best" one that you hope to achieve.
+
+Dinner will be served around 7pm, second dinner will be served around 1am, and those still standing at around 7am will be treated to a BBQ breakfast.
+
+The hackathon runs from 5:00pm Saturday 21 October 2017 - 9:00am Sunday 22 October 2017. All Year 9 and 10 IT students are invited to attend.
+
+
+== How to Submit ==
+
+* Stage 1: *Project Pre-Proposal:* Send an email to matthew.purcell@cgs.act.edu.au with the subject line *Pre-Proposal* and the required information by Monday 7 August (Week 4) by 8:45am.
+
+* Stage 2: *Proposal:* Upload a PDF of your proposal to: http://submit.cgscomputing.com/year10-project-stage2[submit.cgscomputing.com/year10-project-stage2^].
+
+* Stage 3: *Project Status Update:* In class presentation.
+
+* Stage 4: *Implementation:* Send an email to matthew.purcell@cgs.act.edu.au with the subject line *Implementation* including a link to the GitHub repo containing the source code and the YouTube video. You also need to provide a TestFlight build off the app. All must be submitted by Tuesday 26 October (Week 13) by 8:45am.
+
+== Marking Guidelines ==
+
+This assignment will be marked according to four axis:
+
+* *Scope:* To what extend does your submission implement (or attempt to implement) the features required by the specification?
+** We are interested in whether you made an *effort* to get your code to match the requirements.
+** This doesn't necessary mean that your solution has to work, but you need to show that you have thought through the steps to _try_ to make it work.
+** There's no reason that you should not always receive a 5 for scope, as you should always be putting in effort.
+* *Correctness:* To what extend is your code consistent with the specifications and free of bugs?
+* *Design:* To what extent is your code written well (i.e. clearly, efficiently, elegantly, and/or logically)?
+* *Style:* To what extend is your code readable (i.e. commented and intended with variables appropriately named)?
+
+Each axis will be marked on a five point scale:
+
+* 5 = Excellent, essentially no room for improvement
+* 4 = Very good, minor room for improvement
+* 3 = Good, some room for improvement
+* 2 = Fair, ample room for improvement
+* 1 = Poor
+* 0 = No attempt
+
+Your final mark for this assignment will be calculated using the following formula:
+`Final Mark = Scope × (3 × Correctness + 2 × Design + 1 × Style)`
+
+As you can see, we place the most importance and weighting on scope - the effort which you invest in your submission to try and meet the requirements.
+
+[#_academic_honesty]
+== Academic Honesty
+
+include::../common/academic_honesty.adoc[]
+
+[footnote]##This project is based upon Harvard University https://cs50.harvard.edu/[CS50's^] grading, used and adapted with permission. Thanks to Prof. David J. Malan.##

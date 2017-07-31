@@ -27,6 +27,45 @@ matthew.purcell@cgs.act.edu.au
 
 ==== Assessment Tasks
 
+===== Semester Two
+
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*<<s2assign/index.adoc#, Assignment: Project Pre-Proposal>>*
+.^|Monday 31 July 2017 (Week 3)
+.^|Monday 7 August 2017 (Week 4) by 8:45am
+^.^|0%*
+
+.^|*<<s2assign/index.adoc#, Assignment: Project Proposal>>*
+.^|Monday 31 July 2017 (Week 3)
+.^|Thursday 24 August 2017 (Week 6) by 8:45am
+^.^|25%
+
+.^|*<<s2assign/index.adoc#, Assignment: Project Status Update>>*
+.^|Monday 31 July 2017 (Week 3)
+.^|Tuesday 10 October 2017 (Week 11) by 8:45am
+^.^|0%*
+
+4+^.^|*CGS Computing Hackathon*: 5:00pm Saturday 21 October 2017 - 9:00am Sunday 22 October 2017
+
+.^|*<<s2assign/index.adoc#, Assignment: Project Implementation>>*
+.^|Monday 31 July 2017 (Week 3)
+.^|Thursday 26 October 2017 (Week 13) by 8:45am
+^.^|45%
+
+.^|*Common Test: TBC*
+.^|Monday 9 October 2017 (Week 11)
+.^|Thursday 1 November 2017 (Week 14)
+^.^|30%
+|===
+
 ===== Semester One
 
 [cols="5,4,5,1"]
@@ -53,45 +92,6 @@ matthew.purcell@cgs.act.edu.au
 .^|Monday 5 June 2017 (Week 17)
 ^.^|35%
 
-|===
-
-===== Semester Two
-
-[cols="5,4,5,1"]
-|===
-
-^|*Task*
-^|*Published*
-^|*Due*
-^|*Weight*
-
-{set:cellbgcolor:white}
-.^|*Assignment: Project Pre-Proposal*
-.^|Monday 24 July 2017 (Week 2)
-.^|Friday 4 August 2017 (Week 3) by 8:45am
-^.^|0%*
-
-.^|*Assignment: Project Proposal*
-.^|Monday 24 July 2017 (Week 2)
-.^|Thursday 24 August 2017 (Week 6) by 8:45am
-^.^|25%
-
-.^|*Assignment: Project Status Update*
-.^|Monday 24 July 2017 (Week 2)
-.^|Tuesday 10 October 2017 (Week 11) by 8:45am
-^.^|0%*
-
-4+^.^|*CGS Computing Hackathon*: 5:00pm Saturday 21 October 2017 - 9:00am Sunday 22 October 2017
-
-.^|*Assignment: Project Implementation*
-.^|Monday 24 July 2017 (Week 2)
-.^|Thursday 26 October 2017 (Week 13) by 8:45am
-^.^|45%
-
-.^|*Common Test: TBC*
-.^|Monday 9 October 2017 (Week 11)
-.^|Thursday 1 November 2017 (Week 14)
-^.^|30%
 |===
 
 [footnote]##Note that tasks denoted with an * are worth 0% of your final grade. These tasks are designed to keep the teachers apprised of your progress, and also keep you on track. These tasks only require you to answer a few questions about your project - they are not major tasks. However, **they will contribute towards your effort grade for the subject** so you need to treat these tasks seriously.##
