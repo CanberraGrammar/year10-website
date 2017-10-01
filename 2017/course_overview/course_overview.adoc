@@ -23,7 +23,7 @@ Make sure you always bring the correct materials to class - in particular, your 
 
 === Final Project
 
-There's a major final project in Semester Two. You can work individually or in a group. There's also an epic overnight hackathon, with pizza and soft drinks!
+There's a major final project in Semester Two. You can work individually or in a group.
 
 == Course Overview
 
@@ -161,16 +161,6 @@ As noted, students must also have a paid Apple Developer Program subscription wh
 The climax of this course is the final project. The final project is your opportunity to take your newfound savvy with iOS development out for a spin and develop your very own piece of software. So long as your project draws upon the course’s lessons, the nature of your project is entirely up to you, albeit subject to your teacher's approval. All that we ask is that you build something of interest to you, that you solve an actual problem, that you impact the School, or that you change the world. Strive to create something that outlives this course.
 
 Inasmuch as software development is rarely a one-person effort, you are allowed an opportunity to collaborate with one or two classmates for this final project. Needless to say, it is expected that every student in any such group contribute equally to the design and implementation of that group’s project. Moreover, it is expected that the scope of a two- or three-person group’s project be, respectively, twice or thrice that of a typical one-person project. Although no more than three students may design and implement a given project, you are welcome to solicit advice from others, so long as you respect the course’s policy on academic honesty.
-
-=== CGS Computing Hackathon
-
-The CGS Computing Hackathon is an epic all-nighter during which you can dive into your final project’s implementation alongside classmates and staff. If you choose to partake, you’ll be asked to propose three milestones for yourself that evening: a "good" one that you intend to achieve no matter what; a "better" one that you think you can achieve; and a "best" one that you hope to achieve.
-
-Dinner will be served around 7pm, second dinner will be served around 1am, and those still standing at around 7am will be treated to a BBQ breakfast.
-
-Additional details on the CGS Computing Hackathon’s logistics will be announced when the project specifications are released early in Term 3. This event is voluntary to attend.
-
-[footnote]##Based upon Harvard University https://cs50.harvard.edu/[CS50's^] Final Project, used and adapted with permission. Thanks to Prof. David J. Malan.##
 
 == Expectations
 

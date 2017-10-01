@@ -53,16 +53,14 @@ matthew.purcell@cgs.act.edu.au
 .^|Tuesday 10 October 2017 (Week 11) by 8:45am
 ^.^|0%*
 
-4+^.^|*CGS Computing Hackathon*: 5:00pm Saturday 21 October 2017 - 9:00am Sunday 22 October 2017
-
 .^|*<<s2assign/index.adoc#, Assignment: Project Implementation>>*
 .^|Monday 31 July 2017 (Week 3)
 .^|Thursday 26 October 2017 (Week 13) by 8:45am
 ^.^|45%
 
-.^|*Common Test: TBC*
+.^|*<<s2commontest/index.adoc#, Common Test: iOS and Swift Development>>*
 .^|Monday 9 October 2017 (Week 11)
-.^|Thursday 1 November 2017 (Week 14)
+.^|Wednesday 1 November 2017 (Week 14)
 ^.^|30%
 |===
 

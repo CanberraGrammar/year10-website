@@ -127,15 +127,6 @@ You provide a royalty-free licence for the School to use the project/app which y
 The School may also use your work as samples for the purposes of School Registration, and show samples of your work both internally within the School and externally outside of the School.
 
 
-== CGS Computing Hackathon ==
-
-The CGS Computing Hackathon is an epic all-nighter during which you can dive into your final project’s implementation alongside classmates and staff. If you choose to partake, you’ll be asked to propose three milestones for yourself that evening: a "good" one that you intend to achieve no matter what; a "better" one that you think you can achieve; and a "best" one that you hope to achieve.
-
-Dinner will be served around 7pm, second dinner will be served around 1am, and those still standing at around 7am will be treated to a BBQ breakfast.
-
-The hackathon runs from 5:00pm Saturday 21 October 2017 - 9:00am Sunday 22 October 2017. All Year 9 and 10 IT students are invited to attend.
-
-
 == How to Submit ==
 
 * Stage 1: *Project Pre-Proposal:* Send an email to matthew.purcell@cgs.act.edu.au with the subject line *Pre-Proposal* and the required information by Monday 7 August (Week 4) by 8:45am.
