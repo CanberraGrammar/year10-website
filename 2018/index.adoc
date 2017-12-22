@@ -1,0 +1,94 @@
+:page-layout: standard_fork
+:page-title: Year 10 IST - iOS Application Development 2018
+:icons: font
+
+= Year 10 IST - iOS Application Development 2018
+
+==== Canberra Grammar School
+
+Matthew Purcell +
+matthew.purcell@cgs.act.edu.au
+
+==== Course Documents
+
+- Need help? Visit the https://forum.cgscomputing.com[CGS Computing Forum^].
+
+- <<course_overview/course_overview.adoc#,Course Outline>>
+
+==== Lesson Summaries
+
+- http://cgs.ist/1001[IT1001 Google Doc^]
+- http://cgs.ist/1002[IT1002 Google Doc^]
+
+==== Activities
+
+- <<activities1/new_xcode_project.adoc#,Cheat Sheet: Creating a new iOS Xcode project>>
+- https://github.com/CanberraGrammar/year10-activities/tree/AutoLayoutActivity1[Auto Layout Activity 1 (Hello!)^]
+- https://github.com/CanberraGrammar/year10-activities/tree/AutoLayoutActivity2[Auto Layout Activity 2 (Head First Lounge)^]
+- https://github.com/CanberraGrammar/year10-activities/tree/AutoLayoutActivity3[Auto Layout Activity 3 (Instogram)^]
+- https://github.com/CanberraGrammar/year10-activities/tree/AutoLayoutChallenge1[Auto Layout Challenge 1 (Instogram Profile)^]
+
+
+==== Assessment Tasks
+
+===== Semester One
+
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Assignment: CGS Visitor App*
+.^|Friday 16 February 2018 (Week 2)
+.^|Monday 26 March 2018 (Week 8) by 8:45am
+^.^|35%
+
+.^|*Assignment: UIKit Game Development*
+.^|Monday 26 March 2018 (Week 8)
+.^|Tuesday 22 May 2018 (Week 14) by 8:45am
+^.^|45%
+
+.^|*Common Test: Fundamentals of Swift*
+.^|Monday 14 May 2018 (Week 13)
+.^|*IT1001:* Tuesday 12 June 2018, P1 (Week 17)
+*IT1002:* Wednesday 13 June 2018, P1 (Week 17)
+^.^|20%
+
+|===
+
+===== Semester Two
+
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Assignment: SpriteKit Game Development*
+.^|Monday 30 July 2018 (Week 2)
+.^|Tuesday 4 September 2018 (Week 7) by 8:45am
+^.^|30%
+
+.^|*Assignment: Major Project Proposal*
+.^|Monday 3 September 2018 (Week 7)
+.^|Friday 14 September 2018 (Week 8) by 8:45am
+^.^|10%
+
+.^|*Assignment: Major Project Status Update*
+.^|Monday 3 September 2018 (Week 7)
+.^|Friday 19 October 2018 (Week 11) by 8:45am
+^.^|10%
+
+.^|*Assignment: Major Project Implementation*
+.^|Monday 3 September 2018 (Week 7)
+.^|Monday 5 November 2018 (Week 14) by 8:45am
+^.^|50%
+
+|===

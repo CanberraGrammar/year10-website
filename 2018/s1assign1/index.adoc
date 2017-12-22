@@ -1,0 +1,177 @@
+:page-layout: standard_toc
+:page-title: Year 10 IST - Assignment One
+:icons: font
+
+= Year 10 IST - Assignment One =
+
+*Weight:* 35% +
+*Due:* Monday 26 March 2018 (Week 8) by 8:45am
+
+== Changelog ==
+
+This assignment was last updated on *Friday 22 December 2017*.
+
+== What to Do ==
+
+Every week we have a lot of people visiting Canberra Grammar School. This might be because they are visiting a member of staff, attending a sport match over the weekend, or perhaps they are alumni and would like to take a look around the grounds. You are going to write a CGS Visitors App which allows visitors to CGS to have a self-guided tour around the campus.
+
+=== App Overview ===
+
+This task does not require you to write any code - the intention of this assignment is to become familiar with Xcode, Storyboards, and Auto Layout. The app which you develop needs to work on any sized iPhone which supports iOS 11, in both portrait and landscape orientation. Additionally, it should also incorporate multiple screens - necessitating the need for you to also use a navigation controller with segues to move between screens. It's likely that some screens (particularly on smaller devices) will be too small to display all the text at once, so you will also need to use scroll views.
+
+The app must not purely consist of text. A large part of your mark for this task is how you design the app to be aesthetic but also usable. Therefore, it is suggested that you go around the campus and take photos of various buildings, etc. which you can then include in your app as "stops" on the self-guided tour.
+
+It would also be worthwhile to do some research on the history of various buildings and parts of the school - as this could also make an interesting addition for the app.
+
+==== Extension Mark Band ====
+
+Similar to last year, the final 5 marks of this task are reserved for an Extension Mark Band. This is designed to reward students who go above and beyond the requirements, often incorporating things which are beyond the scope of the course at this point in time, without disadvantaging other students (as, in the grand scheme of things, the last 5 marks of this task are not going to have a substantive impact on the final grades for this semester).
+
+If you wish to attempt an assignment which qualifies for the Extension Mark Band then you need to incorporate some kind of novel Swift coding into your app. Some suggestions of aspects which you may wish to consider are:
+
+* Using MapKit to incorporate a map with points of interest.
+* Incorporating an audio tour feature, where you record some narration which visitors can listen to as they tour the campus.
+* If you _really_ want to go overboard, incorporate ARKit and have augmented reality annotations appear over real-world objects (e.g. buildings) explaining their history, purpose, etc...and maybe even superimpose future buildings as per the School's master plan.
+
+These are all just suggestions, you can alternatively choose to do something else. You may wish to check with Mr Purcell prior to embarking to ensure that your additional would qualify for this mark band, and would also be achievable.
+
+== Submission Instructions ==
+
+This assignment is worth 35% of your Semester One assessment for this subject.
+
+You must place the following declaration (in the form of a comment) at the top of your ViewController.swift file:
+
+....
+//
+// This project is submitted as part of the assessment for Year 10 IST.
+// This is all my own work. I have referenced any work used from other
+// sources and have not plagiarised the work of others.
+// (signed) Name here
+//
+....
+
+To submit, ZIP your *ENTIRE XCODE PROJECT FOLDER* and upload to http://submit.cgscomputing.com/year10-s1assign1[http://submit.cgscomputing.com/year10-s1assign1^]. Make sure to correctly enter your name and school email address, so that your submission can be located.
+
+IMPORTANT: Make sure you ZIP the ENTIRE Xcode project folder. In the past, students have only ZIPed the `.xcodeproj` file which does not contain any of the app. It is very important that you send me the correct files. If you are unsure, ask Mr Purcell.
+
+== Marking Guidelines ==
+
+[cols="<8,^1"]
+|===
+
+^|*Criteria*
+^|*Mark Range*
+
+{set:cellbgcolor:white}
+
+.^|
+*ENRICHMENT / EXTENSION BAND*
+
+*Submissions in this mark range will:*
+
+• meet all the requirements of the 35 - 31 mark band.
+
+*In addition, submissions in this mark range will:*
+
+• include functionality which is above and beyond the scope of this assignment, incorporating novel Swift coding.
+
+Students who wish to attempt this band should speak with their teacher to ensure that their chosen functionality is sufficiently complex, but will also be achievable for their skill level.
+.^|35 - 31
+
+.^|
+*Submissions in this mark range will include all of the following:*
+
+• (A) a fully working set of Xcode project files.
+
+• (B) excellent app design, both aesthetic and functional.
+
+• \(C) correct implementation of Auto Layout, navigation controller, view controllers, segues, and scroll views.
+
+*In addition, submissions in this mark range will include:*
+
+• work on all iPhone devices which support iOS 11, in both portrait and landscape orientation.
+
+• appropriately uses navigation controller and segues, pushing view controllers and dismissing them from the navigation stack - keeping the stack clean.
+
+• has no Auto Layout issues, warnings, or errors. Auto Layout displays all screen content correctly.
+
+• correctly and appropriately uses user interface elements, such as labels and buttons.
+
+• appropriate inclusion of photos and other imagery within the app, using the UIImageView interface element.
+
+• be professionally presented.
+
+• not crash or provide unusual error messages.
+.^|30 - 25
+
+.^|
+*Submissions in this mark range will include all of the following:*
+
+• a fully working set of Xcode project files.
+
+• has at least three of the following: correct implementation of Auto Layout, navigation controller, view controllers, segues, and scroll views.
+
+• work on most iPhone devices which support iOS 11, in both portrait and landscape orientation.
+
+• appropriately uses navigation controller and segues, pushing view controllers and dismissing them from the navigation stack - keeping the stack clean.
+
+• may have some Auto Layout issues, warnings, or errors - resulting in display inconsistencies.
+
+• correctly and appropriately uses user interface elements, such as labels and buttons.
+
+• appropriate inclusion of photos and other imagery within the app, using the UIImageView interface element.
+
+.^|24 - 15
+
+.^|
+*Submissions in this mark range will include all of the following:*
+
+• a mostly working set of Xcode project files.
+
+• has at least two of the following: correct implementation of Auto Layout, navigation controller, view controllers, segues, and scroll views.
+
+• works on some iPhone devices which support iOS 11, in both portrait and landscape orientation.
+
+• appropriately uses navigation controller and segues, pushing view controllers and dismissing them from the navigation stack - keeping the stack clean.
+
+• appropriate inclusion of photos and other imagery within the app, using the UIImageView interface element.
+
+OR
+
+• A non-working solution, but is a substantive attempt.
+
+.^|14 - 10
+
+.^|
+• A non-working solution.
+.^|9 - 1
+
+.^|
+• A non-serious attempt at the task.
+
+OR
+
+• A submission that is plagiarised.
+.^|0
+
+|===
+
+*Late submissions will incur penalties as per the school assessment policy:* Students will lose 10% of the total value of the assessment per day late, or part thereof. *Be aware, if you do not submit your assignment by 8:45am on Monday 26 March 2018 that is counted as a day late and will attract the 10% penalty.* Weekends equate to 2 days. On the second day of non submission parents will be informed. A student may be directed to study support to complete an overdue assessment task. After 4 days, a student who has not submitted an assessment task will receive an academic detention. Work completed during academic detention or submitted more than 4 days late will have 50% of the total value of the assessment deducted from the student's score. If the work remains incomplete despite the academic detention, the student will receive zero marks for the task.
+
+=== Draft Submissions ===
+
+You may optionally submit one draft of your assignment for review prior to formal submission. Your draft must be feature complete (i.e. not a half-done assignment) and submitted at least one week before the assignment due date - for this assignment, *drafts are due by 8:45am on Monday 19 March 2018*.
+
+Please email your draft to Mr Purcell for review.
+
+=== Outcomes/Assessment Criteria ===
+
+* 5.1.1 select and justify the application of appropriate software programs to a range of tasks
+* 5.2.1 describe and apply problem-solving processes when creating solutions
+* 5.2.2 design, produce and evaluate appropriate solutions to a range of challenging problems
+* 5.2.3 critically analyse decision making processes in a range of information and software solutions
+
+[#_academic_honesty]
+== Academic Honesty
+
+include::../common/academic_honesty.adoc[]
