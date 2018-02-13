@@ -42,7 +42,7 @@ matthew.purcell@cgs.act.edu.au
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Assignment: CGS Visitor App*
+.^|*<<s1assign1/index.adoc#, Assignment: CGS Visitor App>>*
 .^|Friday 16 February 2018 (Week 2)
 .^|Monday 26 March 2018 (Week 8) by 8:45am
 ^.^|35%
