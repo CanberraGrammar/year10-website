@@ -9,7 +9,9 @@
 
 == Changelog ==
 
-This assignment was last updated on *Friday 22 December 2017*.
+This assignment was last updated on *Thursday 15 February 2018*.
+
+* Added the <<_school_branding, School Branding>> section with material to help design the app consistent with the CGS branding and colour schemes.
 
 == What to Do ==
 
@@ -22,6 +24,14 @@ This task does not require you to write any code - the intention of this assignm
 The app must not purely consist of text. A large part of your mark for this task is how you design the app to be aesthetic but also usable. Therefore, it is suggested that you go around the campus and take photos of various buildings, etc. which you can then include in your app as "stops" on the self-guided tour.
 
 It would also be worthwhile to do some research on the history of various buildings and parts of the school - as this could also make an interesting addition for the app.
+
+[#_school_branding]
+==== School Branding ====
+
+Included below is a page from the CGS style guide which has the colour references used in the school branding, along with a high-resolution copy of the school logo.
+
+* link:cgs_brand_guidelines_colour_palette.pdf[CGS Brand Guidelines - Colour Palette]
+* link:cgs_logo.png[CGS Logo]
 
 ==== Extension Mark Band ====
 
