@@ -1,0 +1,151 @@
+:page-layout: standard
+:page-title: Year 10 IST - Introductory Swift Activities
+:icons: font
+
+= Year 10 IST - Introductory Swift Activities =
+
+== Instructions ==
+
+All these tasks should be completed in separate Xcode Playgrounds files. Name each file `activityX.playground` (e.g. activity1.playground, activity2.playground, etc.).
+
+Open *Xcode* and click *Get started with a Playground*
+
+Select the *iOS* tab and the *Blank* template, then click *Next*.
+
+Save the Playground file in a folder on your computer called *Intro Swift Activities* and name the file according to the file naming convention above (e.g. `activity1.playground`) and click *Create*.
+
+== Task One (Easy) ==
+
+Write a program that will print the numbers `0` to `10` to the console. You need to use a loop (you cannot just print the numbers 0 to 10 individually).
+
+For example:
+
+....
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+....
+
+
+== Task Two (Easy) ==
+
+Write a program that will prints out all the numbers between `1` and a value stored in the variable `n`.
+
+For example, if `var n = 8;` then the result which should be printed is:
+
+....
+1
+2
+3
+4
+5
+6
+7
+8
+....
+
+
+== Task Three (Easy) ==
+
+Write a program that counts backwards from `10` to `1`.
+
+For example, the output that should be produced is:
+
+....
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+....
+
+
+== Task Four (Easy) ==
+
+Write a function called function `addUpTo(number)` that will sum all numbers up to and including a number specified in the parameter number. You need to *return* the result from the function, and subsequently print the result.
+
+
+== Task Five (Easy) ==
+
+Write a function called function `factorial(number)` that will calculate the factorial of a given number specified in the parameter number. You need to *return* the result from the function, and subsequently print the result.
+
+
+== Task Six (Medium) ==
+
+Write a program that will print a right angled triangle using `*` characters. The height of the triangle should be specified in the variable `height`.
+
+For example, if `var height = 5;` then the following should be output:
+
+....
+*
+* *
+* * *
+* * * *
+* * * * *
+....
+
+NOTE: For presentation there is a single space between each * character.
+
+=== Extension Activity (a bit harder...but not too much) ===
+
+Modify your program so that the triangle is centre-aligned instead. For example, if `var height = 5;` then the following should be output:
+
+....
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+....
+
+
+== Task Seven (Medium) ==
+
+Write a program that rotates an array by `k` elements. For example `[1,2,3,4,5,6]` rotated by two becomes `[3,4,5,6,1,2]`.
+
+=== Extension Activity (Hard) ===
+
+Try solving this *without* creating a copy of the list. In other words, do the rotation in place on the single list. You can use temporary variables to store values, but you cannot use a second array at all.
+
+
+== Task Eight (Medium) ==
+
+Write a program which determines whether a given number, specified in the variable `number`, is a power of 2. The result should be printed to the console.
+
+For example, if `var number = 8;` then `8 is a power of 2` should be printed to the console. On the other hand, if `var number = 3;` then `3 is NOT a power of 2` should be printed to the console.
+
+NOTE: To determine whether a number is a power of 2, repeatedly divide the number by 2 until the quotient becomes 1 (in this case the number is a power of 2) or the quotient becomes an odd number before reaching 1 (in this case the number is not a power of 2).
+
+
+== Task Nine (Medium) ==
+
+Write a program which determines whether a given number, specified in the variable `number`, is a prime number. In other words, it is only divisible by itself and 1.
+
+For example, if `var number = 7;` then `7 is prime` should be printed to the console. On the other hand, if `var number = 10` then `10 is NOT prime` should be printed to the console.
+
+
+== Task Ten (Medium) ==
+
+Write a function that converts English text to Morse code and vice-versa.
+
+
+== Task Eleven (Hard) ==
+
+Given two strings as input, write a function that outputs the shortest sequence of character insertions and deletions that turn one string into the other.
+
+
+== Task Twelve (Hard) ==
+
+Write a class to implement a binary tree in Swift. Then, write a function to traverse the tree and determine whether it's a valid binary search tree.

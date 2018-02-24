@@ -22,11 +22,13 @@ matthew.purcell@cgs.act.edu.au
 
 ==== Activities
 
-- <<activities1/new_xcode_project.adoc#,Cheat Sheet: Creating a new iOS Xcode project>>
+- <<s1activities/new_xcode_project/new_xcode_project.adoc#,Cheat Sheet: Creating a new iOS Xcode project>>
 - https://github.com/CanberraGrammar/year10-activities/tree/AutoLayoutActivity1[Auto Layout Activity 1 (Hello!)^]
 - https://github.com/CanberraGrammar/year10-activities/tree/AutoLayoutActivity2[Auto Layout Activity 2 (Head First Lounge)^]
 - https://github.com/CanberraGrammar/year10-activities/tree/AutoLayoutActivity3[Auto Layout Activity 3 (Instogram)^]
 - https://github.com/CanberraGrammar/year10-activities/tree/AutoLayoutChallenge1[Auto Layout Challenge 1 (Instogram Profile)^]
+- link:resources/javascript-to-swift.pdf[Guide: JavaScript to Swift Transition Guide]
+- <<s1activities/introductory_swift_activities/index.adoc#,Introductory Swift Activities>>
 
 
 ==== Assessment Tasks
