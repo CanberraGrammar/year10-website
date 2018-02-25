@@ -27,6 +27,7 @@ matthew.purcell@cgs.act.edu.au
 - https://github.com/CanberraGrammar/year10-activities/tree/AutoLayoutActivity2[Auto Layout Activity 2 (Head First Lounge)^]
 - https://github.com/CanberraGrammar/year10-activities/tree/AutoLayoutActivity3[Auto Layout Activity 3 (Instogram)^]
 - https://github.com/CanberraGrammar/year10-activities/tree/AutoLayoutChallenge1[Auto Layout Challenge 1 (Instogram Profile)^]
+- https://www.youtube.com/watch?v=LRiSk9tk2kc[Storyboard and Scroll View Video Tutorial^]
 - link:resources/javascript-to-swift.pdf[Guide: JavaScript to Swift Transition Guide]
 - <<s1activities/introductory_swift_activities/index.adoc#,Introductory Swift Activities>>
 
