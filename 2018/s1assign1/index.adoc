@@ -35,7 +35,7 @@ Included below is a page from the CGS style guide which has the colour reference
 * link:cgs_brand_guidelines_colour_palette.pdf[CGS Brand Guidelines - Colour Palette]
 * link:cgs_logo.png[CGS Logo]
 * link:cgs_campus_map.pdf[CGS Campus Map]
-*
+
 ==== Extension Mark Band ====
 
 Similar to last year, the final 5 marks of this task are reserved for an Extension Mark Band. This is designed to reward students who go above and beyond the requirements, often incorporating things which are beyond the scope of the course at this point in time, without disadvantaging other students (as, in the grand scheme of things, the last 5 marks of this task are not going to have a substantive impact on the final grades for this semester).
