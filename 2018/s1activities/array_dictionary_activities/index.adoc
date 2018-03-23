@@ -1,0 +1,127 @@
+:page-layout: standard
+:page-title: Year 10 IST - Introductory Swift Activities
+:icons: font
+
+= Year 10 IST - Array and Dictionary Activities =
+
+== Instructions ==
+
+All these tasks should be completed in separate Xcode Playgrounds files. Name each file `activityX.playground` (e.g. activity1.playground, activity2.playground, etc.).
+
+Open *Xcode* and click *Get started with a Playground*
+
+Select the *iOS* tab and the *Blank* template, then click *Next*.
+
+Save the Playground file in a folder on your computer called *Array and Dictionary Activities* and name the file according to the file naming convention above (e.g. `activity1.playground`) and click *Create*.
+
+== Hints ==
+
+It can be useful to access each individual character in a string. If you want to loop through a string and access each character it can be done using a loop:
+
+....
+
+let sayHello = "Hello Year 10 IST";
+
+for character in sayHello {
+    print(character)
+}
+....
+
+You might also want to split a string into an array based upon a certain delimiter/seperator. This can be done using the `.split(separator:)` function on a string. For example, if you want to split a string into an array based upon the space character, then use the following code:
+
+....
+let sayHello = "Hello Year 10 IST";
+let result = sayHello.split(separator: " ")
+print(result)
+....
+
+which will print an array which looks like `["Hello", "Year", "10", "IST"]`.
+
+== Task One (Array) ==
+
+Your program stores a string in a variable `input`. You need to write code which will then determine the number of words in the string.
+
+For example, if `string` is `how many words are in this string` then the output would be `7`, as there's 7 words in the string.
+
+== Task Two (Array) ==
+
+Your program stores a string in a variable `input`. You need to write code which will then determine the longest word in the string.
+
+For example, if `string` is `what is the longest word in this string` then the output would be `longest`, as that's the longest word in the string.
+
+== Task Three (Array) ==
+
+Your program stores a word in a variable `word`. You need to write code which will then determine whether the word is the same forward and backwards (i.e. it's a palindrome).
+
+For example, if `word` is `Hannah` then the output would be `yes`, as Hannah is a palindrome (make sure you make your program case insensitive!).
+
+== Task Four (Array) ==
+
+Your program stores a string in a variable `input`. This string only contains x and o characters. You need to write code which will determine whether there are an equal number of `x`'s and `o`'s in the string. If so, it should print `Equal` otherwise it should print `Not Equal`.
+
+For example, if `input` is `xxxoxoooxoxo` then it should print `Equal` since there's an equal number of `x`'s and `o`'s in the string.
+
+== Task Five (Dictionary) ==
+
+You are given an array of strings, such as:
+
+`SCHOOL, COMPUTER, BOY, CAT, HOUSE, BOY, BOOK, COMPUTER, SCHOOL, SCHOOL`
+
+You need to write a *function* which will count the number of times each unique word appears in the array.
+
+In the above example, the output may be:
+
+....
+SCHOOL: 3
+HOUSE: 1
+BOOK: 1
+CAT: 1
+BOY: 2
+COMPUTER: 2
+....
+
+Note, the order can differ to the above as the order of the outputted items does not matter.
+
+== Task Six (Dictionary) ==
+
+You are given an array of strings, such as:
+
+`SCHOOL, COMPUTER, BOY, CAT, HOUSE, BOY, BOOK, COMPUTER, SCHOOL, SCHOOL`
+
+You need to write a function which return an array only with unique items.
+
+In the above example, the following array may be returned:
+
+`SCHOOL, HOUSE, COMPUTER, BOOK, BOY, CAT`
+
+As with the previous activity, the order can differ to the above as the order of the outputted items does not matter.
+
+== Task Seven (Dictionary) ==
+
+The same as Task Six, but you must preserve the order of the items in the resultant array. Based upon the example data in Task Six, the returned array must be:
+
+`SCHOOL, COMPUTER, BOY, CAT, HOUSE, BOOK`
+
+== Task Eight (Dictionary) ==
+
+Given two strings, write a function which will determine whether one is a permutation of the other.
+
+A permutation is a rearrangement of letters.
+
+For example, if you are given the strings "qwertty" and "wetytrq" it should return true.
+
+On the other hand, if you are given the strings "qwertty" and "wetyra" it should return false.
+
+You can assume there will be no spaces in the word.
+
+== Extension Task (Dictionary) ==
+
+Given a string, write a function to check if it's a permutation of a palindrome.
+
+A palindrome is a word or phrase that is the same forwards and backwards.
+
+A permutation is a rearrangement of letters.
+
+The palindrome does not need to be limited to just dictionary words.
+
+For example, if the input is "tact coa" then it should return true - as permutations which are palindromes are "taco cat", "atco cta", etc.

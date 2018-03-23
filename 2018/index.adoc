@@ -29,6 +29,7 @@ matthew.purcell@cgs.act.edu.au
 - https://github.com/CanberraGrammar/year10-activities/tree/AutoLayoutChallenge1[Auto Layout Challenge 1 (Instogram Profile)^]
 - link:resources/javascript-to-swift.pdf[Guide: JavaScript to Swift Transition Guide]
 - <<s1activities/introductory_swift_activities/index.adoc#,Introductory Swift Activities>>
+- <<s1activities/array_dictionary_activities/index.adoc#,Array and Dictionary Activities>>
 
 ==== Videos
 
