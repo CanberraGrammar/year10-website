@@ -1,5 +1,5 @@
 :page-layout: standard
-:page-title: Year 10 IST - Introductory Swift Activities
+:page-title: Year 10 IST - Array and Dictionary Activities
 :icons: font
 
 = Year 10 IST - Array and Dictionary Activities =
