@@ -10,7 +10,7 @@ All these tasks should be completed in separate Xcode Playgrounds files. Name ea
 
 Open *Xcode* and click *Get started with a Playground*
 
-Select the *iOS* tab and the *Blank* template, then click *Next*.
+Select the *macOS* tab and the *Blank* template, then click *Next*.
 
 Save the Playground file in a folder on your computer called *Array and Dictionary Activities* and name the file according to the file naming convention above (e.g. `activity1.playground`) and click *Create*.
 
@@ -41,13 +41,13 @@ which will print an array which looks like `["Hello", "Year", "10", "IST"]`.
 
 Your program stores a string in a variable `input`. You need to write code which will then determine the number of words in the string.
 
-For example, if `string` is `how many words are in this string` then the output would be `7`, as there's 7 words in the string.
+For example, if `input` is `how many words are in this string` then the output would be `7`, as there's 7 words in the string.
 
 == Task Two (Array) ==
 
 Your program stores a string in a variable `input`. You need to write code which will then determine the longest word in the string.
 
-For example, if `string` is `what is the longest word in this string` then the output would be `longest`, as that's the longest word in the string.
+For example, if `input` is `what is the longest word in this string` then the output would be `longest`, as that's the longest word in the string.
 
 == Task Three (Array) ==
 
