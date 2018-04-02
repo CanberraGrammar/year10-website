@@ -58,8 +58,8 @@ matthew.purcell@cgs.act.edu.au
 .^|Monday 26 March 2018 (Week 8) by 8:45am
 ^.^|35%
 
-.^|*Assignment: UIKit Game Development*
-.^|Monday 26 March 2018 (Week 8)
+.^|*<<s1assign2/index.adoc#, Assignment: UIKit Game Development>>*
+.^|Monday 2 April 2018 (Week 9)
 .^|Tuesday 22 May 2018 (Week 14) by 8:45am
 ^.^|45%
 
