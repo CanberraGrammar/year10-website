@@ -9,7 +9,9 @@
 
 == Changelog ==
 
-This assignment was last updated on *Monday 2 April 2018*.
+This assignment was last updated on *Monday 16 April 2018*.
+
+* *UPDATE 16 April 2018:* There was an issue in the template where user interaction was disabled on the first two rows of buttons. This has now been corrected. For more information, see the following forum thread: https://forum.cgscomputing.com/t/bug-in-it-assignment-and-potentially-template/312
 
 == Project Overview ==
 
