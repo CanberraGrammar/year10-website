@@ -13,6 +13,8 @@ This assignment was last updated on *Monday 16 April 2018*.
 
 * *UPDATE 16 April 2018:* There was an issue in the template where user interaction was disabled on the first two rows of buttons. This has now been corrected. For more information, see the following forum thread: https://forum.cgscomputing.com/t/bug-in-it-assignment-and-potentially-template/312
 
+* *UPDATE 14 May 2018:* Added a hint on how to connect multiple buttons to one `@IBAction`, see the following forum thread: https://forum.cgscomputing.com/t/assignment-hint-linking-multiple-buttons-to-one-ibaction/329
+
 == Project Overview ==
 
 You may recall that last year you were recruited to finish the implementation of a JavaScript version of Tic Tac Toe for the up-and-coming revival of the 1950s TV show — *Tic Tac Dough!*
@@ -85,6 +87,17 @@ Here you can find various hints and tips to complete the assignment tasks.
 
 * Additionally, you must ensure that you have sufficient whitespace and that your code is indented to assist with readability.
 
+=== Linking Buttons ===
+
+One of the first things that you might realise you need to achieve in the assignment is linking your buttons to the code with actions. You will need to link all of the buttons that are contained in the tic tac toe grid to your code. One way you might think of doing this is to link up 9 different `@IBActions`, but there is a better way.
+
+You can link multiple buttons to one `@IBAction` by dragging other buttons on top of the existing action.
+
+The problem then is how you figure out which button is being pressed inside the action. You may notice that there is a sender parameter in the `@IBAction`, when creating the action, we can change the type of this from `Any` to `UIButton`. After you have done this, you have access to the button that was pressed, through the sender argument.
+
+This is demonstrated in this video:
+
+video::button-demo.mp4[width=800]
 
 == Submission Instructions ==
 
