@@ -63,7 +63,7 @@ matthew.purcell@cgs.act.edu.au
 .^|Tuesday 22 May 2018 (Week 14) by 8:45am
 ^.^|45%
 
-.^|*Common Test: Fundamentals of Swift*
+.^|*<<s1commontest/index.adoc#, Common Test: Fundamentals of Swift>>*
 .^|Monday 14 May 2018 (Week 13)
 .^|*IT1001:* Tuesday 12 June 2018, P1 (Week 17)
 *IT1002:* Wednesday 13 June 2018, P1 (Week 17)
