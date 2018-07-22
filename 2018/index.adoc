@@ -42,35 +42,6 @@ matthew.purcell@cgs.act.edu.au
 
 ==== Assessment Tasks
 
-===== Semester One
-
-[cols="5,4,5,1"]
-|===
-
-^|*Task*
-^|*Published*
-^|*Due*
-^|*Weight*
-
-{set:cellbgcolor:white}
-.^|*<<s1assign1/index.adoc#, Assignment: CGS Visitor App>>*
-.^|Friday 16 February 2018 (Week 2)
-.^|Monday 26 March 2018 (Week 8) by 8:45am
-^.^|35%
-
-.^|*<<s1assign2/index.adoc#, Assignment: UIKit Game Development>>*
-.^|Monday 2 April 2018 (Week 9)
-.^|Tuesday 22 May 2018 (Week 14) by 8:45am
-^.^|45%
-
-.^|*<<s1commontest/index.adoc#, Common Test: Fundamentals of Swift>>*
-.^|Monday 14 May 2018 (Week 13)
-.^|*IT1001:* Tuesday 12 June 2018, P1 (Week 17)
-*IT1002:* Wednesday 13 June 2018, P1 (Week 17)
-^.^|20%
-
-|===
-
 ===== Semester Two
 
 [cols="5,4,5,1"]
@@ -101,5 +72,34 @@ matthew.purcell@cgs.act.edu.au
 .^|Monday 3 September 2018 (Week 7)
 .^|Monday 5 November 2018 (Week 14) by 8:45am
 ^.^|50%
+
+|===
+
+===== Semester One
+
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*<<s1assign1/index.adoc#, Assignment: CGS Visitor App>>*
+.^|Friday 16 February 2018 (Week 2)
+.^|Monday 26 March 2018 (Week 8) by 8:45am
+^.^|35%
+
+.^|*<<s1assign2/index.adoc#, Assignment: UIKit Game Development>>*
+.^|Monday 2 April 2018 (Week 9)
+.^|Tuesday 22 May 2018 (Week 14) by 8:45am
+^.^|45%
+
+.^|*<<s1commontest/index.adoc#, Common Test: Fundamentals of Swift>>*
+.^|Monday 14 May 2018 (Week 13)
+.^|*IT1001:* Tuesday 12 June 2018, P1 (Week 17)
+*IT1002:* Wednesday 13 June 2018, P1 (Week 17)
+^.^|20%
 
 |===
