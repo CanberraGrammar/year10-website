@@ -97,6 +97,10 @@ You can attempt any (or all) of the above extension tasks in any order (you do n
 
 IMPORTANT: *If you attempt any of the extension tasks then please put a comment at the top of your JavaScript code telling us which extension task(s) you attempted.* If you do not then it is difficult for us to tell what you have done and you will not receive any bonus marks!
 
+=== Credits ===
+
+The texture packs (zombies and ninja) were sourced from https://www.gameart2d.com/freebies.html[Game Art 2D^] and are available for use under a https://www.gameart2d.com/license.html[Creative Commons Zero licence^].
+
 === Outcomes/Assessment Criteria ===
 
 * 5.1.1 select and justify the application of appropriate software programs to a range of tasks
