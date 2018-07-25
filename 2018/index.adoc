@@ -54,7 +54,7 @@ matthew.purcell@cgs.act.edu.au
 
 {set:cellbgcolor:white}
 .^|*<<s2assign1/index.adoc#, Assignment: SpriteKit Game Development>>*
-.^|Thuresday 26 July 2018 (Week 1)
+.^|Thursday 26 July 2018 (Week 1)
 .^|Tuesday 4 September 2018 (Week 7) by 8:45am
 ^.^|30%
 
