@@ -95,7 +95,7 @@ You can attempt any (or all) of the above extension tasks in any order (you do n
 
 *For each task you successfully complete you will receive 1 bonus mark*. This kind of thing also reflects favourably on your effort report for the subject, particularly _Independent Approach to Learning_).
 
-IMPORTANT: *If you attempt any of the extension tasks then please put a comment at the top of your JavaScript code telling us which extension task(s) you attempted.* If you do not then it is difficult for us to tell what you have done and you will not receive any bonus marks!
+IMPORTANT: *If you attempt any of the extension tasks then please put a comment at the top of your GameScene.swift file telling us which extension task(s) you attempted.* If you do not then it is difficult for us to tell what you have done and you will not receive any bonus marks!
 
 === Credits ===
 
