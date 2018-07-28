@@ -40,6 +40,10 @@ matthew.purcell@cgs.act.edu.au
 
 - link:sample_code/ZoomScrollView.zip[Zoomable Image View using Scroll View]
 
+==== Resources
+
+- link:resources/StarTexture.zip[Star Textures (for Breakout custom particle effect activity)]
+
 ==== Assessment Tasks
 
 ===== Semester Two
