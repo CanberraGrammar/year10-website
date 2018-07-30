@@ -126,7 +126,7 @@ You must place the following declaration (in the form of a comment) at the top o
 
 Make sure you understand the implications of this declaration which you are including and digitally signing (see the <<_academic_honesty, Academic Honesty>> section of this document for more information).
 
-*If you do not include the student declaration at the top of your JavaScript file your assignment will not be marked and you will receive zero.*
+*If you do not include the student declaration at the top of your main view controller file your assignment will not be marked and you will receive zero.*
 
 To submit, ZIP your *entire Xcode project folder* and upload the file to http://submit.cgscomputing.com/year10-s2assign1[http://submit.cgscomputing.com/year10-s2assign1^]. Make sure to correctly enter your name and school email address, so that your submission can be located.
 
