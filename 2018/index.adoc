@@ -43,7 +43,8 @@ matthew.purcell@cgs.act.edu.au
 ==== Resources
 
 - link:resources/StarTexture.zip[Star Textures (for Breakout custom particle effect activity)]
-
+- link:resources/explosion.zip[Explosion MP3 (for Breakout custom sound effect activity)]
+-
 ==== Assessment Tasks
 
 ===== Semester Two
