@@ -44,7 +44,7 @@ matthew.purcell@cgs.act.edu.au
 
 - link:resources/StarTexture.zip[Star Textures (for Breakout custom particle effect activity)]
 - link:resources/explosion.zip[Explosion MP3 (for Breakout custom sound effect activity)] &mdash; https://freesound.org/people/JeffSheep/sounds/399303/[Credit: JeffSheep at FreeSound]
--
+
 ==== Assessment Tasks
 
 ===== Semester Two
