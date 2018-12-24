@@ -1,0 +1,31 @@
+:page-layout: standard_fork
+:page-title: Year 10 IT - Web & Mobile App Development 2019
+:icons: font
+
+= Year 10 IT - Web & Mobile App Development 2019
+
+==== Canberra Grammar School
+
+Mr Matthew Pham +
+matthew.pham@cgs.act.edu.au
+
+==== Course Documents
+
+- Need help? Visit the https://edstem.org/courses/3176/discussion[class forum^] on ED STEM.
+
+- You can also attend IT tutorials each Monday from 3:30pm - 5:00pm in SC304.
+
+- <<course_overview/course_overview.adoc#,Course Outline>>
+
+==== Lesson Summaries
+
+* http://cgs.ist/1001[IT1001 Google Doc^]
+* http://cgs.ist/1002[IT1002 Google Doc^]
+
+==== Assessment Schedule
+
+===== Semester One
+
+include::semester_one_2019_table.adoc[]
+
+<<semester_one_2019.adoc#, Semester One &mdash; Full Unit Information and Assessment Schedule>>

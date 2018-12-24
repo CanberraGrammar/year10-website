@@ -1,0 +1,26 @@
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Assignment: Intro to Linux, Vim, and ES6*
+.^|Monday 18 February 2019 (Week 3)
+.^|Monday 18 March 2019 (Week 7) by 8:45am
+^.^|25%
+
+.^|*Assignment: Node.JS App Development*
+.^|Monday 25 March 2019 (Week 8)
+.^|Tuesday 20 May 2019 (Week 14) by 8:45am
+^.^|40%
+
+.^|*Common Test: Node.JS Common Test*
+.^|Tuesday 7 May 2019 (Week 12)
+.^|IT1001: Tuesday 11 June 2019 (Week 17)
+IT1002: Wednesday 12 June 2019 (Week 17)
+^.^|35%
+
+|===
