@@ -20,10 +20,11 @@ include::semester_one_2019_table.adoc[]
 
 === Course Detail
 
-* Introduction to HTML
-* Introduction to CSS
-* CSS positioning
-* Advanced XHTML and CSS
+* Introduction to the Linux CLI
+* Introduction to Vim
+* JavaScript ES6 Syntax
+* Introduction to Node.JS
+* Writing Node.JS Web Apps
 
 === Grade Allocation
 
