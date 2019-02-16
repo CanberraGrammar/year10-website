@@ -1,0 +1,204 @@
+:page-layout: standard_toc
+:page-title: Year 10 IST - Assignment One
+:icons: font
+
+= Year 10 IST - Assignment One =
+
+*Weight:* 25% +
+*Due:* Monday 18 March 2019 (Week 7) by 8:45am
+
+== Changelog ==
+
+This assignment was last updated on *Saturday 16 February 2019*.
+
+If any changes are made to the assignment they will be itemised here for ease of identification.
+
+== Task Context ==
+
+This assignment will consolidate your knowledge of the core skills needed for the IT course this year, namely: Linux command line, using the vim editor, and common ES6 JavaScript syntax.
+
+=== Marking guidelines ===
+
+Make sure that you consult the <<_marking_guidelines, marking guidelines>> at the end of this document to ensure that your submission meets all the requirements. This specifically specifies what you need to do in order to gain every mark for this task.
+
+=== Outcomes/Assessment Criteria ===
+
+* *ACTDIK035*: Analyse simple compression of data and how content data are separated from presentation.
+* *ACTDIP037:* Analyse and visualise data to create information and address complex problems, and model processes, entities and their relationships using structured data.
+* *ACTDIP040:* Design algorithms represented diagrammatically and in structured English and validate algorithms and programs through tracing and test cases.
+* *ACTDIP041:* Implement modular programs, applying selected algorithms and data structures including using an object-oriented programming language.
+
+== Task Requirements ==
+
+Unlike other tasks, this assignment does not require any programming. Instead, you are going to be producing three cheatsheets / reference cards for common Linux commands, vim commands, and ES6 syntax. This will enable you to have ready-made reference material when completing the more advanced work throughout the course.
+
+While this is not an exercise in graphic design, they do need to be neatly designed (more so than the Linux command summary sheets you completed in the rather bland Google Doc). Here are some examples of nicely presented cheat sheets:
+
+* *Python 3 Syntax:* https://groklearning-cdn.com/resources/cheatsheet-python-1.pdf[https://groklearning-cdn.com/resources/cheatsheet-python-1.pdf^]
+* *Excel VLOOKUP:* https://download.microsoft.com/download/9/b/4/9b49c8c5-d7a9-45b1-b8b6-52067e9970a8/AF101984660_en-us_xl_qrc_vlookup%20refresher.pdf[https://download.microsoft.com/download/9/b/4/9b49c8c5-d7a9-45b1-b8b6-52067e9970a8/AF101984660_en-us_xl_qrc_vlookup%20refresher.pdf^]
+* *String Manipulation in RStudio:* https://github.com/rstudio/cheatsheets/raw/master/strings.pdf[https://github.com/rstudio/cheatsheets/raw/master/strings.pdf^]
+
+You must create your cheat sheets in either Google Docs or Google Slides (whichever is easier for you to achieve the desired design). Each sheet can be no larger than a single-sided A4 page.
+
+Note, below lists the minimum requirements. if you are aiming for a mark in the highest mark range you need to go above and beyond these requirements.
+
+=== Linux Commands Cheat Sheet ===
+
+Much of this has already been done as part of your Linux command summary sheets - but you will need to include more detail and examples. At the minimum, you should include the following commands on your cheat sheet:
+
+....
+pwd
+cd
+ls
+touch
+file
+cat
+less
+more
+history
+cp
+mv
+mkdir
+rm
+find
+help
+man
+whatis
+alias
+exit
+grep
+chmod
+ssh
+....
+
+Be sure to also include common flags/switches you might use on these commands. For example, the `-l` or `-a` flags on the `ls` command.
+
+=== vim Cheat Sheet ===
+
+vim is arguably one of the more nebulous things for a novice to learn. Your cheat sheet should provide a summary of the different modes found in vim, how to switch between the modes, and how to operate in the modes.
+
+For example, explanation and examples of how to operate in INSERT mode in order to edit text. Likewise, explanation and examples of common commands which you may find yourself using when in NORMAL (command) mode.
+
+When you are using vim throughout this year it is expected that you have this cheat sheet beside you, so you should put whatever you feel necessary to help you on the sheet.
+
+=== ES6 Cheat Sheet ===
+
+Your ES6 cheat sheet should provide a mapping from the pre-ES6 syntax you learned last year to the modern ES6 syntax - essentially allowing you to take what you already know and translate it across to ES6.
+
+At the very least, your cheat sheet needs to include:
+
+* Promises
+* Async/await
+* Arrow functions
+* Template literals (backticks)
+* Destructuring assignment
+
+Some of the above will be difficult to do a direct mapping (e.g. promises) so in that situation you can provide an explanation and examples of usage rather than a mapping from old syntax to ES6 syntax.
+
+You are also welcome to include other syntax which you encounter as you start programming in Node.JS.
+
+== Submission Instructions ==
+
+This assignment is worth 25% of your Semester One assessment for this subject.
+
+To submit your assignment create a folder within Google Drive containing your three cheat sheet files. Then, share the folder (with edit access) to your teacher. We suggest that you do this well before the due date, so you do not forget.
+
+Be sure not to modify the files after the due date/time - we will be actively checking and any modifications made after will be disregarded.
+
+*Late submissions will incur penalties as per the school assessment policy:* For assignments and non-test events a late work penalty of 10% of the total possible mark will be incurred for each day late if work is not submitted on the due date.  A loss of 30% is incurred if work due on a Friday is not submitted until the following Monday. After one week (7 days) the item will be awarded a mark of zero.
+
+=== Draft submissions ===
+
+You may optionally (but strongly encouraged) submit one draft of your assignment for review prior to formal submission. Your draft must be feature complete (i.e. not a half-done assignment) and submitted at least one week before the assignment due date - for this assignment, drafts are due by 8:45am on Monday 11 March 2019). To submit a draft email your teacher and let them know your files are ready to be reviewed.
+
+You are also welcome to ask your teacher as you are working on the assignment whether it's on the right track with the correct level of detail.
+
+[#_marking_guidelines]
+=== Marking Guidelines ===
+
+[cols="<8,^1"]
+|===
+
+^|*Criteria*
+^|*Mark Range*
+
+{set:cellbgcolor:white}
+
+.^|
+*Submissions in this mark range will:*
+
+• include three comprehensive cheat sheets.
+
+• all three cheat sheets cover the required material in sufficient detail.
+
+• include additional information (such as commands, syntax, etc), beyond that required in the task specifications, based upon the student's own experience which they would find useful.
+
+*In addition, submissions in this mark range will be:*
+
+• well-designed, with good and effective use of space available on the page.
+
+• aesthetically pleasing, with appropriate use of graphics and layout techniques.
+
+• readable and easily understandable.
+
+• free of spelling and grammar errors.
+
+.^|25 - 23
+
+.^|
+*Submissions in this mark range will:*
+
+• include three well-written cheat sheets.
+
+• most of the cheat sheets cover the required material in sufficient detail, with some minor exceptions.
+
+*In addition, submissions in this mark range will be:*
+
+• well-designed, with good and effective use of space available on the page.
+
+• aesthetically pleasing, with appropriate use of graphics and layout techniques.
+
+• readable and easily understandable.
+
+• mostly free of spelling and grammar errors.
+
+.^|22 - 15
+
+
+.^|
+*Submissions in this mark range will:*
+
+• include at least two cheat sheets.
+
+• at least one of the cheat sheets cover the required material in sufficient detail.
+
+*In addition, submissions in this mark range will be:*
+
+• reasonably well-designed, with evidence of effective use of space available on the page.
+
+.^|14 - 8
+
+.^|
+• A non-serious attempt at the task with some reference to the requirements.
+.^|1 - 9
+
+.^|
+
+• A completely non-serious attempt at the task.
+
+OR
+
+• A submission that is plagiarised.
+
+OR
+
+• A submission that uses Comic Sans MS (or variants thereof).
+.^|0
+
+|===
+
+=== All My Own Work
+
+Please note that any submitted work is to be your own. There are serious consequences for submitting work which is taken from another person, even if they give it to you voluntarily. To decide if you have written the material, we may need to question you about your understanding of the topic. Please be careful when presenting ideas which are not entirely your own; reference such material thoroughly.
+
+For more specific examples, see the <<course_overview/course_overview.adoc#academic-honesty, Academic Honesty>> section of the Course Outline.
