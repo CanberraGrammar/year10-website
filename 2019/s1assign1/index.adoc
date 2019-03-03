@@ -9,9 +9,11 @@
 
 == Changelog ==
 
-This assignment was last updated on *Saturday 16 February 2019*.
+This assignment was last updated on *Monday 4 March 2019*.
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
+
+* *UPDATE 4 MARCH:* The requirements have been changed to now allow for a *DOUBLE*-sided A4 sheet per cheat sheet, rather than a single-sided sheet.
 
 == Task Context ==
 
@@ -38,7 +40,7 @@ While this is not an exercise in graphic design, they do need to be neatly desig
 * *Excel VLOOKUP:* https://download.microsoft.com/download/9/b/4/9b49c8c5-d7a9-45b1-b8b6-52067e9970a8/AF101984660_en-us_xl_qrc_vlookup%20refresher.pdf[https://download.microsoft.com/download/9/b/4/9b49c8c5-d7a9-45b1-b8b6-52067e9970a8/AF101984660_en-us_xl_qrc_vlookup%20refresher.pdf^]
 * *String Manipulation in RStudio:* https://github.com/rstudio/cheatsheets/raw/master/strings.pdf[https://github.com/rstudio/cheatsheets/raw/master/strings.pdf^]
 
-You must create your cheat sheets in either Google Docs or Google Slides (whichever is easier for you to achieve the desired design). Each sheet can be no larger than a single-sided A4 page.
+You must create your cheat sheets in either Google Docs or Google Slides (whichever is easier for you to achieve the desired design). Each sheet can be no larger than a double-sided A4 page *(updated 4 March)*.
 
 Note, below lists the minimum requirements. if you are aiming for a mark in the highest mark range you need to go above and beyond these requirements.
 
