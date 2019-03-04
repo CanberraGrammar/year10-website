@@ -1,0 +1,62 @@
+:page-layout: standard
+:page-title: Year 9 IST - ES6 Activities
+:icons: font
+
+= Year 9 IST - ES6 Activities =
+
+== Instructions ==
+
+All these tasks should be completed in separate HTML files in your `ES6 Activities` ED STEM workspace. Name each file `activityX.html` (e.g. activity1.html, activity2.html, etc.).
+
+== Task One ==
+
+Write a function that will calculate the factorial of a given input parameter specified in the variable factorial. The result should then be printed to the console.
+
+The factorial of a number is all the numbers preceding that number multiplied together. For example, if `var factorial = 5;` then the result which should be printed is `The factorial of 5 is 120` (as `1 x 2 x 3 x 4 x 5 = 120`).
+
+You need to use template literals and an arrow function.
+
+== Task Two ==
+
+Write a program that prints an multiplication table up to 12 for a given input parameter. For example, if the input parameter is 8 then the output should be:
+
+....
+8 x 1 = 8
+8 x 2 = 16
+8 x 3 = 24
+8 x 4 = 32
+8 x 5 = 40
+8 x 6 = 48
+8 x 7 = 56
+8 x 8 = 64
+8 x 9 = 72
+8 x 10 = 80
+8 x 11 = 88
+8 x 12 = 96
+....
+
+Your program needs to generate the times table, just not print out each pre-written line!
+
+You need to use template literals and an arrow function.
+
+== Task Three ==
+
+Write a function which determines whether a given number, specified in an input parameter, is a even or odd number. The function should then return `true` or `false`.
+
+You need to write this as an arrow function.
+
+== Task Four ==
+
+Write a program which determines whether a given number, specified in the variable `number`, is a prime number. The function should then return `true` or `false`.
+
+You need to write this as an arrow function.
+
+== Task Five (Tricky) ==
+
+Passengers on long-haul flights usually like to watch movies, and often will start a second movie immediately after their first movie finishes. However, sometimes the plane will land before they can finish their second movie.
+
+Write a function which will print all combinations of movies which can be completely watched during the duration of the flight. You can assume the passengers start the first movie as soon as the flight begins. The movie lengths are stored in an array which should be passed into the function, and the length of the flight is stored as an integer which is also passed into the function.
+
+Note, the passengers cannot watch the same movie multiple times and you do not want to print the same combination of movies in a different order.
+
+You need to use template literals and an arrow function.

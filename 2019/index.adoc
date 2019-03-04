@@ -22,6 +22,15 @@ matthew.pham@cgs.act.edu.au
 * http://cgs.ist/1001[IT1001 Google Doc^]
 * http://cgs.ist/1002[IT1002 Google Doc^]
 
+==== Tutorial Sessions
+
+* Monday 3:30pm to 5pm, SC304
+* Wednesday Lunchtime, SC303
+
+==== Activities (Semester One) ====
+
+* <<s1activities/es6_activities/index.adoc#, ES6 Activities>>
+
 ==== Assessment Schedule
 
 ===== Semester One
