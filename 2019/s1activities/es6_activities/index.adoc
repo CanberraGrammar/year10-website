@@ -1,14 +1,16 @@
 :page-layout: standard
-:page-title: Year 9 IST - ES6 Activities
+:page-title: Year 10 IST - ES6 Activities
 :icons: font
 
-= Year 9 IST - ES6 Activities =
+= Year 10 IST - ES6 Activities =
 
 == Instructions ==
 
 All these tasks should be completed in separate HTML files in your `ES6 Activities` ED STEM workspace. Name each file `activityX.html` (e.g. activity1.html, activity2.html, etc.).
 
-== Task One ==
+== Arrow Functions and Template Literals ==
+
+=== Task One ===
 
 Write a function that will calculate the factorial of a given input parameter specified in the variable factorial. The result should then be printed to the console.
 
@@ -16,7 +18,7 @@ The factorial of a number is all the numbers preceding that number multiplied to
 
 You need to use template literals and an arrow function.
 
-== Task Two ==
+=== Task Two ===
 
 Write a program that prints an multiplication table up to 12 for a given input parameter. For example, if the input parameter is 8 then the output should be:
 
@@ -39,19 +41,19 @@ Your program needs to generate the times table, just not print out each pre-writ
 
 You need to use template literals and an arrow function.
 
-== Task Three ==
+=== Task Three ===
 
-Write a function which determines whether a given number, specified in an input parameter, is a even or odd number. The function should then return `true` or `false`.
+Write a function which determines whether a given number, specified in an input parameter, is a even or odd number. The function should then return `true` if the number is even, or `false` if the number is odd.
 
 You need to write this as an arrow function.
 
-== Task Four ==
+=== Task Four ===
 
 Write a program which determines whether a given number, specified in the variable `number`, is a prime number. The function should then return `true` or `false`.
 
 You need to write this as an arrow function.
 
-== Task Five (Tricky) ==
+=== Task Five (Tricky) ===
 
 Passengers on long-haul flights usually like to watch movies, and often will start a second movie immediately after their first movie finishes. However, sometimes the plane will land before they can finish their second movie.
 
@@ -60,3 +62,13 @@ Write a function which will print all combinations of movies which can be comple
 Note, the passengers cannot watch the same movie multiple times and you do not want to print the same combination of movies in a different order.
 
 You need to use template literals and an arrow function.
+
+== Promises, await, async ==
+
+=== Task One ===
+
+Write a function called `testNumber` that takes a number as an parameter `n` and returns a promise that tests if the value is less than or greater than `10`.
+
+=== Task Two ===
+
+Write two functions that use chained promises. The first function should be called `makeAllCaps` and takes an array of words and capitalises the words. The second function called `sortWords` should then sort the words in the array into alphabetical order. If the array contains anything but strings then it should throw an error.
