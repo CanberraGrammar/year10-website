@@ -13,7 +13,7 @@
 ^.^|25%
 
 .^|*Assignment: Node.JS App Development*
-.^|Monday 25 March 2019 (Week 8)
+.^|Monday 1 April 2019 (Week 10)
 .^|Tuesday 20 May 2019 (Week 14) by 8:45am
 ^.^|40%
 
