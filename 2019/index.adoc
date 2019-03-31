@@ -27,6 +27,7 @@ matthew.pham@cgs.act.edu.au
 * https://courses.wesbos.com/account[Wes Bos Course Dashboard]
 * https://docs.google.com/document/d/1n2KMQQoFl3VDgx4QYNSRZGIQGuaXXDkMqLd99AmUTxc/edit?usp=sharing[Learn Node Wes Bos - Written Instructions]
 * https://docs.google.com/document/d/1Jogz2ba23RMWJAf4NpaWi7buMp8mOeKBFCF_rA6PZ-E/edit?usp=sharing[NodeJS Cheat Sheet]
+* https://docs.google.com/document/d/1vda5SuasbqhwOeLNndJ-C5jrJyr53OsJcMlB4ASTkmM/edit[NodeJS Error Handling]
 
 ==== Installation
 * https://nodejs.org/en/[NodeJS (10.15.3 LTS)]
