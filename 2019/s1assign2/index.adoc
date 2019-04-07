@@ -56,11 +56,19 @@ link:test-urls-and-hints.pdf[Test URLs and Hints] for specific details):
 
 === Example output ===
 
-The video below shows what your output needs to look like, when accessing the test URLs:
+The videos below show what your output needs to look like, when accessing the test URLs:
 
-video::sample-video.mp4[width=380]
+*Node.js Request/Response*
 
-*Note:* The video hasn't been created yet!
+video::sample-api.mp4[width=380]
+
+*Node.js Form*
+
+video::sample-form.mp4[width=380]
+
+*Node.js & MongoDB*
+
+video::sample-mongodb.mp4[width=380]
 
 == Submission Instructions ==
 
