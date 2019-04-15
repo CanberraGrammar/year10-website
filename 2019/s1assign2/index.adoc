@@ -9,9 +9,11 @@
 
 == Changelog ==
 
-This assignment was last updated on *Monday 8 April 2019*.
+This assignment was last updated on *Monday 15th April 2019*.
 
-If any changes are made to the assignment they will be itemised here for ease of identification.
+*No external libraries are permitted*.
+
+If any further changes are made to the assignment they will be itemised here for ease of identification.
 
 == Task Context ==
 
@@ -39,6 +41,8 @@ This will involve three major components:
 *Node.js Form:* Create a GUI to request data from the API and format the display using HTML and JavaScript.
 
 *Node.js & MongoDB:* Configure Node.js and MongoDB to facilitate storage, retrieval, modification and removal of JSON objects.
+
+You are not permitted to use any external libraries such as jQuery or Axios in your assignment - only Vanilla JavaScript is allowed.
 
 There are also a number of marks allocated to enhancement and extension activities (see: <<_marking_guidelines, marking guidelines>>).
 
