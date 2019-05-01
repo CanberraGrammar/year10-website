@@ -1,0 +1,71 @@
+:page-layout: standard
+:page-title: Year 9 IST - ES6 Activities
+:icons: font
+
+= Year 10 IST - Array Activities =
+
+== Instructions ==
+
+All these tasks should be completed in separate HTML files in your `Array Activities` ED STEM workspace. Name each file `activityX.html` (e.g. activity1.html, activity2.html, etc.).
+
+=== Task One ===
+
+Write a function that takes one parameter `arr` as an array, and returns the array in the reverse order. 
+
+You may *not* use the in-built `reverse` method.
+
+For example, given the array:
+
+....
+[1, 2, 6, 3, 7]
+....
+
+Your function should return the array:
+
+....
+[7, 3, 6, 2, 1]
+....
+
+=== Task Two ===
+
+Write a function that takes one paramater `arr` as an array, and returns the array with only unique items (all duplicates removed).
+
+For example, given the array:
+
+....
+[1, 2, 3, 4, 1, 5, 2, 7, 4]
+....
+
+Your function should return the array:
+
+....
+[1, 2, 3, 4, 5, 7]
+....
+
+=== Task Three ===
+
+Write a function that takes one parameter `arr` as an array, and returns the summed values of that array.
+
+For example, given the array:
+
+....
+[1, 2, 3, 4, 5, 6, 100]
+....
+
+Your function should return `121`.
+
+=== Task Four ===
+
+Write a function that takes one parameter `arr` as an array, and returns all the *positive integers* from that array.
+
+For example, given the array:
+
+....
+[1, -2, 4, 0, 123, -1000000]
+....
+
+Your function should return the array:
+
+....
+[1, 4, 123]
+....
