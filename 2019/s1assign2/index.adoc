@@ -9,11 +9,12 @@
 
 == Changelog ==
 
-This assignment was last updated on *Wednesday 1st May 2019*.
+This assignment was last updated on *Wednesday 8 May 2019*.
 
-*No external libraries are permitted for use on the client side*.
+* 8 MAY 2019: Due date extended to Wednesday 28 May 2019.
+* 1 MAY 2019: No external libraries are permitted for use on the client side.
 
-If any changes are made to the assignment they will be itemised here for ease of identification.
+If any further changes are made to the assignment they will be itemised here for ease of identification.
 
 == Task Context ==
 
