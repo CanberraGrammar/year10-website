@@ -11,7 +11,7 @@
 
 This assignment was last updated on *Wednesday 8 May 2019*.
 
-* 8 MAY 2019: Due date extended to Wednesday 28 May 2019.
+* 8 MAY 2019: Due date extended to Tuesday 28 May 2019. Drafts are now due Tuesday 21st May (Tuesday Week 4)
 * 1 MAY 2019: No external libraries are permitted for use on the client side.
 
 If any further changes are made to the assignment they will be itemised here for ease of identification.
