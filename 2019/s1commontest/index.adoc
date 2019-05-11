@@ -1,0 +1,39 @@
+:page-layout: standard_toc
+:page-title: Year 10 IST - Common Test
+:icons: font
+
+= Year 10 IST - Common Test =
+
+*Weight:* 35% +
+*IT1001:* Tuesday 11 June 2019 (Week 17) - during your normal lesson time +
+*IT1002:* Wednesday 12 June 2019 (Week 17) - during your normal lesson time
+
+== Changelog ==
+
+This task was last updated on *Saturday 11 May 2019*.
+
+If any changes are made to the task they will be itemised here for ease of identification.
+
+== Task Description ==
+
+* Students are required to finish a partially complete Node.js app in 45 minutes. All students must ensure that their laptop is fully charged and working.
+* There will be no database interaction in this task - you will only be interacting with text files which are storing JSON content.
+* This task will be far simpler than the assignments which you have completed, given that you only have 45 minutes to complete the task.
+* Your code in the test does not need to be commented. However, proper naming of variables (to reflect their purpose) is required, along with correct indentation of code.
+* The test is completely open-resource. Any resources (including the internet, textbooks, handwritten or electronic notes) may be used. However, email and any other form of real-time (or near real-time) communication must not be used - while students can use resources to research how to solve the questions they may not communicate with anyone else during the test.
+* Keep in mind that even though this test is open-resource, it is essential that all students undertake sufficient revision. Referring to other resources is only useful if you need to quickly reference or look-up something. If you do not already have a firm grasp of Node.js development then you cannot expect to research and understand completely new concepts, then answer the questions, in order to complete this task within the time frame.
+
+== Outcomes to be Assessed ==
+
+* *ACTDIK035:* Analyse simple compression of data and how content data are separated from presentation.
+* *ACTDIP041:* Implement modular programs, applying selected algorithms and data structures including using an object-oriented programming language.
+
+== Context for the Task ==
+
+The focus of this task is to allow students to demonstrate their level of skill in Node.js development.
+
+== Hints and Pro Tips ==
+
+Here you can find various hints and tips to help with your preparation for the common test.
+
+* It is highly advisable that you create some kind of notes page (also known as a "cheat-sheet") and/or electronic versions of common code (with an explanation as to their purpose). This will provide a extremely valuable and quick reference for you during the test, saving you from having to search through your book or online. It also has the added benefit that by compiling this information you will essentially be revising all these items!
