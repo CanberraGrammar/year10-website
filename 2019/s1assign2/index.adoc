@@ -9,8 +9,9 @@
 
 == Changelog ==
 
-This assignment was last updated on *Wednesday 8 May 2019*.
+This assignment was last updated on *Friday 24 May 2019*.
 
+* 24 May 2019: Submission instructions clarified. Students to ensure their Node.js application is tested on their EC2 server.
 * 8 MAY 2019: Due date extended to Tuesday 28 May 2019. Drafts are now due Tuesday 21st May (Tuesday Week 4)
 * 1 MAY 2019: No external libraries are permitted for use on the client side.
 
@@ -80,6 +81,10 @@ video::sample-mongodb.mp4[width=380]
 This assignment is worth 40% of your Semester One assessment for this subject.
 
 To submit your assignment, you will need to deploy your Node.js files to your Amazon EC2 Linux server. Details on how to do this will be provided at the beginning of Term 2.
+
+You should also ensure that your Node.js application is running on your EC2 server and test that it works remotely, using the IP address provided to you in your email.
+
+For example, the Node.js example application for showing houses and their colours is running and can be tested by going to the URL http://54.163.34.1:3000/houses[http://54.163.34.1:3000/houses].
 
 Be sure not to modify the files after the due date/time - we will be actively checking and any modifications made after will be disregarded.
 
