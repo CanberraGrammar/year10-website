@@ -10,9 +10,11 @@
 
 == Changelog ==
 
-This task was last updated on *Saturday 11 May 2019*.
+This task was last updated on *Saturday 27 May 2019*.
 
 If any changes are made to the task they will be itemised here for ease of identification.
+
+* *27 MAY:* Additional details included below on the content being covered in the test.
 
 == Task Description ==
 
@@ -20,6 +22,7 @@ If any changes are made to the task they will be itemised here for ease of ident
 * There will be no database interaction in this task - you will only be interacting with text files which are storing JSON content.
 * This task will be far simpler than the assignments which you have completed, given that you only have 45 minutes to complete the task.
 * Your code in the test does not need to be commented. However, proper naming of variables (to reflect their purpose) is required, along with correct indentation of code.
+* *UPDATED 27 MAY:* The specific content being covered in the test is server-side templating using Pug along with writing the appropriate routes in Node.JS and Express to service these templates. This was covered in the Wes Bos tutorials in Term One, and all classes will be spending time prior to the test reviewing and going into detail about Pug templating.
 * The test is completely open-resource. Any resources (including the internet, textbooks, handwritten or electronic notes) may be used. However, email and any other form of real-time (or near real-time) communication must not be used - while students can use resources to research how to solve the questions they may not communicate with anyone else during the test.
 * Keep in mind that even though this test is open-resource, it is essential that all students undertake sufficient revision. Referring to other resources is only useful if you need to quickly reference or look-up something. If you do not already have a firm grasp of Node.js development then you cannot expect to research and understand completely new concepts, then answer the questions, in order to complete this task within the time frame.
 
