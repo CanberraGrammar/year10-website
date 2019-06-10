@@ -29,6 +29,11 @@ matthew.pham@cgs.act.edu.au
 
 ==== Resources
 
+===== Revision for Common Test
+
+* https://docs.google.com/document/d/1lReDxnDxEhTVki10tAnh-1KgmZfbodokesBCPVpZIbA/edit?usp=sharing[Rendering HTML Server-Side with Pug]
+* https://video.cgscomputing.com/[CGS Computing Lesson Recordings]
+
 ===== Learn Node Wes Bos Course
 
 * https://courses.wesbos.com/account[Wes Bos Course Dashboard]
