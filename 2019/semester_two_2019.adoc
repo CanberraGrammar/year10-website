@@ -1,0 +1,66 @@
+:page-layout: standard_toc
+:page-title: Unit Outline and Assessment Schedule
+
+= Year 10 IT &mdash; Semester Two 2019
+
+== Unit Outline and Assessment Schedule
+
+=== Report Criteria / Areas of Learning
+
+* Demonstrating a good understanding of core programming concepts and their implementation in Swift
+* Demonstrating a good working knowledge of iOS application development and the use of SwiftUI
+* Shows a good understanding of SpriteKit to develop 2D games with physics
+* Correctly using object-oriented programming practices
+* Writing neat and well-formatted code, with whitespace and indentation as appropriate
+* Demonstrating project management skills and the ability to successfully take an app from idea to implementation
+
+
+=== Assessment Schedule
+
+include::semester_two_2019_table.adoc[]
+
+=== Course Detail
+
+* Introduction to Swift
+* SwiftUI App Development
+* SpriteKit Game Development
+* App Projects
+
+=== Grade Allocation
+
+[cols="1,20"]
+|===
+
+^.^|*A*
+.^|The student demonstrates an extensive knowledge of core programming concepts and their implementation in the Swift programming language. They are able to develop apps using the SwiftUI framework, effectively implementing user interface related classes to create appropriately designed and structured apps. They have mastered the use of other Apple frameworks, particularly SpriteKit to develop 2D games with full physics capabilities. The student has demonstrated that they are able to design and develop a complex iOS app from scratch, along with having the requisite project management skills to ensure that the task is completed within the given timeframe and constraints.
+
+^.^|*B*
+.^|The student demonstrates a thorough knowledge of core programming concepts and their implementation in the Swift programming language. They are able to develop apps using the SwiftUI framework, effectively implementing user interface related classes to create appropriately designed and structured apps. They have a very good working knowledge of other Apple frameworks, particularly SpriteKit to develop 2D games with physics capabilities. The student has demonstrated that they are able to design and develop a reasonably complex iOS app from scratch, along with having the requisite project management skills to ensure that the task is completed within the given timeframe and constraints. To improve, the student should further develop their knowledge of using advanced Apple-provided classes, and also effective user interface design principles.
+
+^.^|*C*
+.^|The student demonstrates a sound knowledge of core programming concepts and their implementation in the Swift programming language. With guidance, they are able to develop apps using the SwiftUI framework, implementing user interface related classes to create appropriately designed and structured apps. They also have satisfactory knowledge to implement other Apple frameworks, particularly SpriteKit to develop 2D games with some physics capabilities. The student has also demonstrated that they are able to develop an iOS app from scratch. To improve, the student should further develop their knowledge of using the Apple-provided classes and how these can be used in custom-designed apps. They should also practise project management skills in terms of developing apps and programs from scratch.
+
+^.^|*D*
+.^|The student demonstrates a limited knowledge of core programming concepts and their implementation in the Swift programming language. They can develop apps using the SwiftUI framework, but need substantial guidance and structured steps. The student has some knowledge of Apple frameworks, such as SpriteKit, but encounters difficulties when implementing and using this technology in apps. To improve, they should further develop their knowledge of using the Apple-provided classes in their own apps where step-by-step instructions for building the program are not provided. They should also practise project management skills in terms of developing apps and programs from scratch.
+
+^.^|*E*
+.^|The student demonstrates a very limited knowledge of core programming concepts and their implementation in the Swift programming language. They have some understanding of SwiftUI, but require substantial guidance and step-by-step instruction. Their knowledge of Apple frameworks is very basic, and they are unable to implement this technology correctly within their own apps. To improve, the student should further develop their knowledge of using the Apple-provided classes, particularly the user interface related classes covered throughout the semester.
+
+^.^|*S*
+.^|Awarded to students who have been unable to complete sufficient work due to an extended period of illness or other approved absence (status).
+
+|===
+
+=== Absence from Class
+
+It is your responsibility to catch up on work missed when absent from class. We suggest you email your teacher on the day you are away to request any missed work or information.
+
+If you are away for an assessment, please consult your teacher to make arrangements to complete the assessment as soon as possible after you return to school. After 10 school days, the assessment cannot be rescheduled and either an estimate (in the case of an explained absence) or a zero will be awarded.
+
+For assignments and non-test events a late work penalty of 10% of the total possible mark will be incurred for each day late if work is not submitted on the due date.  A loss of 30% is incurred if work due on a Friday is not submitted until the following Monday. After one week (7 days) the item will be awarded a mark of zero.
+
+=== All My Own Work
+
+Please note that any submitted work is to be your own. There are serious consequences for submitting work which is taken from another person, even if they give it to you voluntarily. To decide if you have written the material, we may need to question you about your understanding of the topic. Please be careful when presenting ideas which are not entirely your own; reference such material thoroughly.
+
+For more specific examples, see the <<course_overview/course_overview.adoc#academic-honesty, Academic Honesty>> section of the Course Outline.
