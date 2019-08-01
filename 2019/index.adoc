@@ -31,6 +31,10 @@ matthew.pham@cgs.act.edu.au
 
 * Coming soon...
 
+==== Reference Material
+
+* http://year9.cgscomputing.com/2019/swift-cheatsheet[JavaScript to Swift Cheatsheet]
+
 ==== Assessment Schedule (Semester Two)
 
 include::semester_two_2019_table.adoc[]
