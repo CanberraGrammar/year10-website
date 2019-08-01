@@ -29,7 +29,7 @@ matthew.pham@cgs.act.edu.au
 
 ==== Activities (Semester Two)
 
-* Coming soon...
+* https://docs.google.com/document/d/1vXAW8Sw2TkOJakshkCIA7gbI_csYCL01siA6qaVw_aA/edit?usp=sharing[Introductory Swift Activities]
 
 ==== Reference Material
 
