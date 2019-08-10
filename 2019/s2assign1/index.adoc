@@ -1,0 +1,101 @@
+:page-layout: standard_toc
+:page-title: Year 10 IST - Assignment One
+:icons: font
+
+= Year 10 IST - Assignment One
+
+*Weight:* 40% +
+*Due:* Friday 6 September 2019 (Week 7) by 8:45am
+
+== Changelog
+
+This assignment was last updated on *Saturday 10 August 2019*.
+
+If any further changes are made to the assignment they will be itemised here for ease of identification.
+
+== Task Context
+
+This assignment will provide you with the opportunity to develop an app using the Swift programming language and the brand-new SwiftUI framework.
+
+=== Marking guidelines
+
+Make sure that you consult the <<_marking_guidelines, marking guidelines>> at the end of this document to ensure that your submission meets all the requirements. This specifically specifies what you need to do in order to gain every mark for this task.
+
+=== Outcomes/Assessment Criteria
+
+* Demonstrating a good understanding of core programming concepts and their implementation in Swift
+* Demonstrating a good working knowledge of iOS application development and the use of SwiftUI
+* Correctly using object-oriented programming practices
+* Writing neat and well-formatted code, with whitespace and indentation as appropriate
+
+== Task Requirements
+
+For this task you will be building a to-do list app, similar to your assignment completed in Node.js last semester. However, don't panic - this assignment is far less involved in terms of functionality! We instead want you to focus on designing and developing a robust application in SwiftUI, so we have cut-down the functionality requirements to allow you to focus on this core goal.
+
+Below you can see an example of the app working. The following list outlines the core features of the app:
+
+* Show a list of to do items on the main screen. The title of each item should be displayed in a list, together with an indicator of whether the task has been completed or not completed.
+* Tapping the row of a to do list item will show a detail view, with more information about that item.
+* If the user would like to view completed tasks, they can toggle the switch to show completed items.
+* To add a new to do list item, the user taps "Add" in the top right-hand corner.
+* Tasks can be deleted by swiping on the row and tapping the "Delete" button.
+
+*Note:* The data does not need to persist between executions of the app. If you add/remove items and then restart the app no changes are saved.
+
+video::app-demo.mp4[width=500]
+
+There are a few things to note:
+
+* Due to a bug in SwiftUI, dismissing the Add New Task modal sheet does not work when the "Save" button is tapped. You should tap the "Save" button to save the task, and then swipe down to dismiss the modal sheet. If this is fixed in a future Xcode and SwiftUI beta then this assignment will be updated accordingly.
+* You should pre-load your app with three or four to do list items, with some being completed and some being incomplete - as this will make it easier for your teacher to test and mark.
+
+=== Extension
+
+There are two extension tasks, which will earn you 1 additional mark each:
+
+* Allow the user to tap the indicator of whether the task has been completed (green) or not completed (red) on the main list to toggle the item between a completed and incomplete state
+* Make the data persist between executions of the app. You may wish to use a json or plist file for this purpose.
+
+=== Assets
+
+* link:blue-wallpaper.png[Detail view top image]
+
+* Green tick:
++
+```
+Image(systemName: "checkmark.rectangle.fill")
+	.imageScale(.large)
+	.foregroundColor(.green)
+```
+
+* Red cross:
++
+```
+Image(systemName: "xmark.rectangle.fill")
+	.imageScale(.large)
+	.foregroundColor(.green)
+```
+
+== Submission Instructions ==
+
+This assignment is worth 40% of your Semester One assessment for this subject.
+
+To submit, ZIP your *entire Xcode project folder* and upload the file to http://submit.cgscomputing.com/it10-s2assign1. Make sure to correctly enter your name and school email address, so that your submission can be located.
+
+*Late submissions will incur penalties as per the school assessment policy:* For assignments and non-test events a late work penalty of 10% of the total possible mark will be incurred for each day late if work is not submitted on the due date.  A loss of 30% is incurred if work due on a Friday is not submitted until the following Monday. After one week (7 days) the item will be awarded a mark of zero.
+
+=== Draft submissions ===
+
+You may optionally (but strongly encouraged) submit one draft of your assignment for review prior to formal submission. Your draft must be feature complete (i.e. not a half-done assignment) and submitted at least one week before the assignment due date - for this assignment, drafts are due by 8:45am on Friday 30 August 2019). To submit a draft email your teacher.
+
+
+[#_marking_guidelines]
+=== Marking Guidelines ===
+
+link:marking-guidelines.pdf[Your assignment will be marked following the criteria in this PDF file.^]
+
+=== All My Own Work
+
+Please note that any submitted work is to be your own. There are serious consequences for submitting work which is taken from another person, even if they give it to you voluntarily. To decide if you have written the material, we may need to question you about your understanding of the topic. Please be careful when presenting ideas which are not entirely your own; reference such material thoroughly.
+
+For more specific examples, see the <<../course_overview/course_overview.adoc#academic-honesty, Academic Honesty>> section of the Course Outline.
