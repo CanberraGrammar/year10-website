@@ -42,7 +42,9 @@ Below you can see an example of the app working. The following list outlines the
 
 *Note:* The data does not need to persist between executions of the app. If you add/remove items and then restart the app no changes are saved.
 
-video::app-demo.mp4[width=500]
+video::https://github.com/CanberraGrammar/year10-website/blob/master/2019/s2assign1/app-demo.mp4?raw=true[width=500]
+
+link:https://github.com/CanberraGrammar/year10-website/raw/master/2019/s2assign1/app-demo.mp4[If the video above does not play you can download a copy by clicking here].
 
 There are a few things to note:
 
