@@ -75,7 +75,7 @@ Image(systemName: "checkmark.rectangle.fill")
 ```
 Image(systemName: "xmark.rectangle.fill")
 	.imageScale(.large)
-	.foregroundColor(.green)
+	.foregroundColor(.red)
 ```
 
 == Submission Instructions ==
