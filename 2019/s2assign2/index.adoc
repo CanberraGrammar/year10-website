@@ -1,0 +1,214 @@
+:page-layout: standard_toc
+:page-title: Year 10 IST - Assignment Two
+:icons: font
+
+= Year 10 IST - Assignment Two =
+
+*Weight:* 50%
+
+*Proposal Due:* Monday 23 September 2019 (Week 10) by 8:45am
+
+*Project Status Update Due:* Monday 21 October 2019 (Week 12) by 8:45am
+
+*Project Implementation Due:* Monday 4 November 2019 (Week 14) by 8:45am
+
+== Changelog ==
+
+This assignment was last updated on *Friday 6 September 2019*.
+
+== Task Overview ==
+
+This assignment requires you to implement a game of your choosing (with some restrictions/guidelines) in SpriteKit using Swift.
+
+== Task Description ==
+
+You need to select a game and then implement this game in SpriteKit. The game must be an existing well-known game, and cannot be a custom game which you have devised. That said, you can implement an existing game and put your own spin on it (e.g. custom features, levels, etc.) but the implementation, as a whole, needs to largely be true to the existing game.
+
+There are certain minimum requirements which the game must satisfy:
+
+* be able to display the player's name and score.
+* keep track of the player and their score.
+* involve physics (e.g. character moving, hitting obstacles, ball bouncing, etc.).
+* be developed in SpriteKit using Swift. You must primarily use first-party (i.e. Apple provided) frameworks. However, you may use third-party libraries if you need particular functionality (e.g. network access, to access an API for some reason) but you must seek teacher approval.
+
+You are free to select a game of your choosing, but you need to make sure that it's within your skill and ability level. There are no marks for complexity of the game which you choose and implement, unless you intend to target the extension/enrichment band. This makes the assignment accessible for all students, while also providing an opportunity for those students who would like an additional challenge to attempt a more advanced and complex project.
+
+Please note, you cannot do Whack-A-Mole, Rock Paper Scissors, Battleship, Tic-Tac-Toe, The Memory Game, Pong, Guess the Number, Pong, or Breakout as these have all been done either in class this year, last year, or as assessment tasks in previous years. *You may also not do the same game that you did for your Year 9 IST project*.
+
+This is an individual project. You are welcome to collaborate and help each other, but all work must be your own. If any of your work is copied (either from another member of the class, or from a third party such as a book or the internet) then make sure you reference the source of the material, otherwise it will be considered plagiarism and you will receive zero.
+
+Most games you can think of will already have been developed in Swift and/or SpriteKit with solutions available online. *You must write your own implementation of the game, and all work must be your own* (with the exception of little bits and pieces which you may use from elsewhere, if needed, with references - but these must only be relatively very small and non-important parts of your total assignment, as you won't receive marks for code you didn't write yourself). *We will be actively checking the originality of your submitted code.* It is very obvious if you submit code which you haven't written yourself.
+
+
+== Submission Instructions ==
+
+=== Proposal ===
+
+*Weight:* 0% +
+*Due:* Monday 23 September 2019 (Week 10) by 8:45am
+
+Intended to promote early thought, the proposal is your opportunity to receive approval and counsel from your teacher before you proceed to design. By the proposal’s deadline, send an email to your teacher describing one or more ideas that you have for your final project. Make sure you explain the motivation behind each of your ideas (i.e. why it interests you). Treat this requirement as an opportunity for counsel. Certainly include any questions or concerns that you have in this email.
+
+The subject line of your email should be *Proposal*.
+
+While you are encouraged to provide multiple ideas for teacher feedback, if you are set on a single idea then it is okay to just send through that idea - bearing in mind that you would need to include a fairly detailed rationale for that one and only idea (i.e. several paragraphs, ≈100 words per paragraph as a guide).
+
+On the other hand, if you have multiple ideas (we suggest a maximum of three) then you can include a shorter rationale for each of those ideas (i.e. one paragraph, ≈100 words per paragraph as a guide).
+
+In your rationale you should also comment upon your ability to complete your chosen project, given your current level of knowledge of Swift and SpriteKit. Also mention whether you will need to do any additional independent research or study to learn new concepts which you currently do not know.
+
+You will then receive an email back with feedback and/or approval for your idea.
+
+This is not worth any part of your formal assessment, but does count towards your effort grade for the subject.
+
+
+=== Project Status Update ===
+
+*Weight:* 10% +
+*Due:* Monday 21 October 2019 (Week 12) by 8:45am
+
+Not only is the status report intended to keep the teacher apprised of your progress, it is an opportunity to keep yourself on track. You will need to provide a short 200 - 300 word email of your progress to your teacher. Your email should address the following aspects (called wins and blockers):
+
+* *Wins:* What have you done so far? What is still to do?
+
+* *Blockers:* What challenges have you encountered? How were they overcome? Do you need any help with particular aspects?
+
+* *Questions:* Do you have any questions or feedback you would like? This can help your teacher prepare to provide you with help during your future project lesson.
+
+
+=== Implementation ===
+
+*Weight:* 50% +
+*Due:* Monday 4 November 2019 (Week 14) by 8:45am
+
+To submit, ZIP your *entire Xcode project folder* and upload the file to http://submit.cgscomputing.com/it10-s2assign2. Make sure to correctly enter your name and school email address, so that your submission can be located.
+
+*Late submissions will incur penalties as per the school assessment policy:* For assignments and non-test events a late work penalty of 10% of the total possible mark will be incurred for each day late if work is not submitted on the due date. A loss of 30% is incurred if work due on a Friday is not submitted until the following Monday. After one week (7 days) the item will be awarded a mark of zero.
+
+=== Draft Submissions ===
+
+Given the custom nature of this project we will not have formal draft submissions. However, you are encouraged to ask your teacher to review your assignment during the allocated project lessons for feedback. You are also welcome to get feedback during the after school or lunchtime IT tutorial sessions.
+
+[#_marking_guidelines]
+== Marking Guidelines ==
+
+[cols="<8,^1"]
+|===
+
+^|*Criteria*
+^|*Mark Range*
+
+{set:cellbgcolor:white}
+
+.^|
+*EXTENSION/BONUS BAND*
+
+*Submissions in this mark range will:*
+
+• meet all the requirements of the 21 - 24 mark band.
+
+*In addition, submissions in this mark range will:*
+
+• be the implementation of a complex game which may include advanced physics simulation, graphics manipulation, the implementation of a computer-based AI player, and/or other advanced features.
+
+Remember, you can only use pure Swift and SpriteKit along with first-party frameworks, unless prior approval has been given by your teacher to use a third-party framework.
+
+Students who wish to attempt this band should speak with their teacher to ensure that their chosen game is sufficiently complex, but will also be achievable for their skill level.
+.^|25
+
+.^|
+*Submissions in this mark range will include all of the following:*
+
+• (A) a fully working set of source code files.
+
+• (B) excellent code style, in the form of code comments, use of whitespace, and spacing in the code.
+
+• \(C) proper and appropriate naming of all variables, functions, objects, etc.
+
+*In addition, submissions in this mark range will include:*
+
+• have physics as an integral part of the game, using `SKPhysicsBody` where appropriate.
+
+• appropriately setting properties of the physics bodies to achieve the desired behaviors.
+
+• using SpriteKit provided methods, such as `didBegin(contact:)` to detect collisions between physics bodies, if needed in the game.
+
+• correctly using and handling touch events.
+
+• appropriate use of functions to minimise repetition of code and to properly organise code.
+
+• appropriate use of variable scope, using local variables where possible and only using global variables where absolutely necessary.
+
+• use of appropriate control structures, particular if statements and loops (preferably, `for` loops where possible).
+
+• be able to display the player's name and numerical score.
+
+• keep track of individual players and their numerical scores.
+
+• be professionally presented.
+
+• not crash or provide unusual error messages (for example, in the Xcode console).
+.^|21 - 24
+
+.^|
+*Submissions in this mark range will include all of the following:*
+
+• a fully working set of source code files.
+
+• have physics as an integral part of the game, using `SKPhysicsBody` where appropriate.
+
+• appropriately setting properties of the physics bodies to achieve the desired behaviors.
+
+• using SpriteKit provided methods, such as `didBegin(contact:)` to detect collisions between physics bodies, if needed in the game.
+
+• correctly using and handling touch events.
+
+• be able to display the player's name and numerical score.
+
+• keep track of individual players and their numerical scores.
+
+• be professionally presented.
+
+• not crash or have major bugs which affect the gameplay.
+.^|17 - 20
+
+.^|
+*Submissions in this mark range will include all of the following:*
+
+• a mostly working set of source code files, which allows the game to be played.
+
+• have physics as some part of the game.
+
+• using and handling touch events.
+
+• be able to display the player's name and numerical score.
+
+• keep track of individual players and their numerical scores.
+
+• the game may have bugs which do affect the gameplay, but do not prevent the gameplay.
+
+.^|13 - 16
+
+.^|
+• A non-working solution, but is a substantive attempt.
+.^|8 - 12
+
+.^|
+• A non-working solution, showing some attempt.
+.^|1 - 7
+
+.^|
+• A non-serious attempt at the task, OR
+
+• A submission that is plagiarised, OR
+
+• A submission that utilises the Comic Sans MS font family
+.^|0
+
+|===
+
+
+[#_academic_honesty]
+== Academic Honesty
+
+include::../common/academic_honesty.adoc[]
