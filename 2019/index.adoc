@@ -29,13 +29,13 @@ matthew.pham@cgs.act.edu.au
 
 ==== Activities (Semester Two)
 
-* https://docs.google.com/document/d/1vXAW8Sw2TkOJakshkCIA7gbI_csYCL01siA6qaVw_aA/edit?usp=sharing[Introductory Swift Activities]
+* https://docs.google.com/document/d/1vXAW8Sw2TkOJakshkCIA7gbI_csYCL01siA6qaVw_aA/edit?usp=sharing[Introductory Swift Activities^]
 
 ==== Reference Material
 
-* http://year10.cgscomputing.com/2019/swift-cheatsheet[JavaScript to Swift Cheatsheet]
-* https://docs.google.com/document/d/1nELc7hfugLqJ7xC5dZQXdhuq0ki0mNX_GxnhGgIvM4U/edit?usp=sharing[Swifty Contact Cheatsheet]
-
+* http://year10.cgscomputing.com/2019/swift-cheatsheet[JavaScript to Swift Cheatsheet^]
+* https://docs.google.com/document/d/1nELc7hfugLqJ7xC5dZQXdhuq0ki0mNX_GxnhGgIvM4U/edit?usp=sharing[Swifty Contact Cheatsheet^]
+* https://docs.google.com/document/d/1pmqqNP6ezGKrKSbpdPUEltN_eDXgmvfeTrC4O6Zb0ag/edit?usp=sharing[Pong Tutorial^]
 
 ==== Assessment Schedule (Semester Two)
 
