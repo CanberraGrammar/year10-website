@@ -1,0 +1,25 @@
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Assignment*
+.^|Monday 17 February 2020 (Week 3)
+.^|Thursday 19 March 2020 (Week 7) by 8:45am
+^.^|35%
+
+.^|*Assignment*
+.^|Monday 30 March 2020 (Week 9)
+.^|Thursday 28 May 2020 (Week 15) by 8:45am
+^.^|45%
+
+.^|*In-Class Quiz*
+.^|Monday 11 May 2020 (Week 12)
+.^|Friday 12 June 2020 (Week 17)
+^.^|20%
+
+|===

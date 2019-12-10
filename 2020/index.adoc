@@ -1,0 +1,34 @@
+:page-layout: standard_fork
+:page-title: Year 10 IT - Web & Mobile App Development 2020
+:icons: font
+
+= Year 10 IT - Cybersecurity & Machine Learning 2020
+
+==== Canberra Grammar School
+
+Mr Matthew Purcell +
+matthew.purcell@cgs.act.edu.au
+
+==== Course Documents
+
+- Need help? Visit the https://edstem.org/courses/XXXX/discussion[class forum^] on ED STEM.
+
+- You can also attend any of the IT tutorial sessions listed below.
+
+- <<course_overview/course_overview.adoc#,Course Outline>>
+
+==== Tutorial Sessions
+
+* Monday 3:30pm to 5pm, SC304
+* Wednesday Lunchtimes, SC303
+
+==== Lesson Summaries
+
+* http://cgs.ist/1001[IT1001 Google Doc^]
+* http://cgs.ist/1002[IT1002 Google Doc^]
+
+==== Assessment Schedule (Semester One)
+
+include::semester_one_2020_table.adoc[]
+
+<<semester_one_2020.adoc#, Semester One &mdash; Full Unit Information and Assessment Schedule>>
