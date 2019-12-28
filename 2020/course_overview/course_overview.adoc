@@ -3,7 +3,7 @@
 
 = Year 10 IT
 
-Year 10 Web and Mobile App Development is a one year course that forms part of the Information Technology program at Canberra Grammar School. The course is aligned with the Digital Technologies curriculum from the Australian Curriculum, going into more detailed study of concepts covered in 9 IT.
+Year 10 Cybersecurity & Machine Learning is a one year course that forms part of the Information Technology program at Canberra Grammar School. The course is aligned with the Digital Technologies curriculum from the Australian Curriculum.
 
 The course requires students to have studied Year 9 IT at Canberra Grammar School or have equivalent programming knowledge.
 
@@ -11,7 +11,11 @@ The course requires students to have studied Year 9 IT at Canberra Grammar Schoo
 
 === About
 
-This course will teach you how to develop web-based apps, using a combination of JavaScript (client-side) and Node.JS (server-side), and also how to develop native mobile apps for iOS, using the Swift programming language and Xcode IDE.
+This course is split into two distinct areas of content.
+
+During Semester One, students will learn essential skills in cybersecurity and penetration testing, focusing on web exploitation through practical Capture the Flag style activities using the PentesterLab Pro platform.
+
+During Semester Two, students will learn the foundational skills of machine learning, particularly reinforcement learning using the AWS DeepRacer platform - allowing students to train their own Reinforcement Learning models on the DeepRacer vehicle and compete against other students.
 
 === Punctuality
 
@@ -30,17 +34,16 @@ Make sure you always bring the correct materials to class - in particular, your 
 === Course Structure
 
 .Semester One:
-* Introduction to the Linux CLI
-* Introduction to Vim
-* JavaScript ES6 Syntax
-* Introduction to Node.JS
-* Writing Node.JS Web Apps
+* Unix/Linux review
+* Essentials: Common web vulnerabilities
+* PCAP: Packet capture and analysis
+* White Badge: Practical web application exploitation
 
 .Semester Two:
-* Introduction to Swift
-* SwiftUI App Development
-* SpriteKit Game Development
-* App Projects
+* Introduction to Reinforcement Learning (RL)
+* Introduction to AWS SageMaker
+* Developing and training the DeepRacer model
+* AWS DeepRacer Mini League competition
 
 === Sequencing
 
@@ -61,40 +64,40 @@ Make sure you always bring the correct materials to class - in particular, your 
 {set:cellbgcolor:white}
 ^.^| *Term 1*
 2+^.^|
-*Topic 1: Introduction to the Linux CLI* +
+*Topic 1: Unix/Linux Review* +
+6+^.^|
+*Topic 2: Essentials* +
 2+^.^|
-*Topic 2: Introduction to Vim* +
-1+^.^|
-*Topic 3: ES6* +
-5+^.^|
-*Topic 4: Introduction to Node.JS* +
+*Topic 3: PCAP* +
 
 {set:cellbgcolor:white}
 ^.^| *Term 2*
-9+^.^|
-*Topic 5: Writing Node.JS Web Apps* +
+3+^.^|
+*Topic 3: PCAP* (continued) +
+6+^.^|
+*Topic 4: White Badge* +
 |
 {set:cellbgcolor:grey}
 
 ^.^| *Term 3*
 {set:cellbgcolor:white}
 2+^.^|
-*Topic 6: Introduction to Swift* +
-5+^.^|
-*Topic 7: SwiftUI App Development* +
-3+^.^|
-*Topic 8: SpriteKit Game Development* +
+*Topic 6: Introduction to Reinforcement Learning* +
+2+^.^|
+*Topic 7: Introduction to AWS SageMaker* +
+6+^.^|
+*Topic 8: Developing and Training the DeepRacer Model* +
 
 {set:cellbgcolor:white}
 ^.^| *Term 4*
-3+^.^|
-*Topic 9: App Projects* +
-^.^| *Assessment Week*
+4+^.^|
+*Topic 9: AWS DeepRacer Mini League Competition* +
+^.^| *Exam Week*
 {set:cellbgcolor:grey}
-^.^|
-*Finish Advanced Topics* +
+1+^.^|
+*Finish Mini League* +
 {set:cellbgcolor:white}
-2+^.^| *Camp*
+1+^.^| *Camp*
 {set:cellbgcolor:grey}
 ^.^|
 *Prepare for 2020 Courses* +
@@ -108,13 +111,13 @@ Make sure you always bring the correct materials to class - in particular, your 
 
 To develop students' knowledge and understanding, confidence and creativity in analysing, designing, developing and evaluating information technology solutions by:
 
-. developing an understanding of how to use the Linux command line together with common text editing tools, particularly Vim, found on all systems
+. developing an understanding of common web-based vulnerabilities and their exploitation, together with how to protect against such attacks
 
-. learning how to write server-side application code in Node.JS to develop full client-server web-based applications
+. learning how to assess and enumerate a system to gather information which can be used to identify weak points in system security
 
-. learning how to develop native mobile applications for iOS using Swift and the Xcode IDE
+. learning the foundational skills of machine learning, particularly in the field of Reinforcement Learning (RL)
 
-. developing mobile games using SpriteKit and learning how the framework provides advanced features such as collision detection and physics simulation
+. developing and training machine learning models which can be applied to authentic, real-world use cases (such as the AWS DeepRacer platform)
 
 === Content Descriptors
 
@@ -137,23 +140,25 @@ Students learn to:
 This course will use the following materials and resources:
 
 * MacBook laptop computer
+* ED STEM IDE
 
 * *Semester One:*
 ** Google Chrome
-** ED STEM IDE
-** Amazon EC2 Linux on t3.nano Instance*
+** https://pentesterlab.com/pro[PentesterLab Pro platform^]
 
 * *Semester Two:*
-** Xcode
-
+** AWS Account, covering the following services:
+*** Amazon SageMaker
+*** AWS RoboMaker
+*** Amazon S3
+*** Amazon Kinesis Video Streams
+*** Amazon CloudWatch
 
 *The ED STEM IDE costs $20 for the year* and will be charged to your school account.
 
-*The Amazon EC2 Linux on t3.nano instance costs $35 for Semester One* and will be also charged to your school account.
+*The AWS Account costs $35 for Semester Two* and will be also charged to your school account.
 
-== Final Project
-
-The climax of this course is the final project. The final project is your opportunity to take your newfound savvy with app development out for a spin and develop an app using either SwiftUI or SpriteKit for iOS. So long as your project draws upon the course’s lessons, the nature of your project is entirely up to you, albeit subject to your teacher's approval.
+We are very fortunate that PentesterLab have generously donated a subscription to their Pro service to each student at no cost for use throughout Semester One.
 
 == Expectations
 
@@ -205,11 +210,11 @@ The same penalties as homework non-completion apply towards not bringing the cor
 
 Given the technical nature of this course you may sometimes have difficulty understanding concepts or completing the set work. There are several ways you can seek assistance should you need help.
 
-* *ED STEM Online Forum (https://edstem.org/courses/3175/discussion).* This is your first point of call for assistance if you are having difficulty. All Year 10 IT students have access to the forum, along with the teachers and also senior student mentors (who have done this course in the past). Posting on the forum is a much faster way to get help than emailing your teacher, as more people monitor the forum so if you post a question then it will likely be answered by either another student or your teacher. However, you need to make a substantive attempt yourself before posting — if you are posting just to get an easy answer (because you can't be bothered figuring out something yourself) that will be pretty obvious to everyone, so don’t expect much help in that situation!
+* *ED STEM Online Forum (https://edstem.org/courses/3878/discussion).* This is your first point of call for assistance if you are having difficulty. All Year 10 IT students have access to the forum, along with the teachers and also senior student mentors (who have done this course in the past). Posting on the forum is a much faster way to get help than emailing your teacher, as more people monitor the forum so if you post a question then it will likely be answered by either another student or your teacher. However, you need to make a substantive attempt yourself before posting — if you are posting just to get an easy answer (because you can't be bothered figuring out something yourself) that will be pretty obvious to everyone, so don’t expect much help in that situation!
 
 * *Email the Teacher.* If you have posted on the forum, but not received a satisfactory response, then you are welcome to email the teacher to follow-up. Of course, you can also email you teacher if you want to talk to them about something privately.
 
-* *After School IT Tutorials.* Each week on Monday from 3:30pm - 5:00pm in Room SC304 there are IT tutorials where you can get assistance from senior students (in Year 11) who completed this course in past years. Alternatively, you are also welcome to come to quietly work on IT-related homework or revision. Note, these are *quiet* study sessions where you are expected to work individually or quietly with your peers.
+* *After School IT Tutorials.* Each week on Monday from 3:30pm - 5:00pm in Room SC304 there are IT tutorials where you can get assistance from tutors (former students, now at university studying software engineering). Alternatively, you are also welcome to come to quietly work on IT-related homework or revision. Note, these are *quiet* study sessions where you are expected to work individually or quietly with your peers.
 
 == Academic Honesty
 

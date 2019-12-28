@@ -7,7 +7,11 @@
 
 === Report Criteria / Areas of Learning
 
-TBC
+* Demonstrating a good understanding of Linux commands and permission structures
+* Demonstrating a good knowledge of common web-based vulnerabilities and their practical exploitation
+* Assessing and enumerating systems to gather information which can be used to identify weak points and potential attack vectors
+* Using packet capturing techniques to intercept and interpret web-based traffic
+* Correctly selecting and applying penetration testing techniques to address scenarios and exercises
 
 === Assessment Schedule
 
@@ -15,11 +19,14 @@ include::semester_one_2020_table.adoc[]
 
 === Course Detail
 
-TBC
+* Unix/Linux review
+* Essentials: Common web vulnerabilities
+* PCAP: Packet capture and analysis
+* White Badge: Practical web application exploitation
 
 === Grade Allocation
 
-include::grade_descriptors.adoc[]
+include::grade_descriptors_2020_s1.adoc[]
 
 === Absence from Class
 

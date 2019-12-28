@@ -1,5 +1,5 @@
 :page-layout: standard_fork
-:page-title: Year 10 IT - Web & Mobile App Development 2020
+:page-title: Year 10 IT - Cybersecurity & Machine Learning 2020
 :icons: font
 
 = Year 10 IT - Cybersecurity & Machine Learning 2020
@@ -11,7 +11,7 @@ matthew.purcell@cgs.act.edu.au
 
 ==== Course Documents
 
-- Need help? Visit the https://edstem.org/courses/XXXX/discussion[class forum^] on ED STEM.
+- Need help? Visit the https://edstem.org/courses/3878/discussion[class forum^] on ED STEM.
 
 - You can also attend any of the IT tutorial sessions listed below.
 
