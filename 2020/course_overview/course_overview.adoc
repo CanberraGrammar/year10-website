@@ -82,16 +82,16 @@ Make sure you always bring the correct materials to class - in particular, your 
 ^.^| *Term 3*
 {set:cellbgcolor:white}
 2+^.^|
-*Topic 6: Introduction to Reinforcement Learning* +
+*Topic 5: Introduction to Reinforcement Learning* +
 2+^.^|
-*Topic 7: Introduction to AWS SageMaker* +
+*Topic 6: Introduction to AWS SageMaker* +
 6+^.^|
-*Topic 8: Developing and Training the DeepRacer Model* +
+*Topic 7: Developing and Training the DeepRacer Model* +
 
 {set:cellbgcolor:white}
 ^.^| *Term 4*
 4+^.^|
-*Topic 9: AWS DeepRacer Mini League Competition* +
+*Topic 8: AWS DeepRacer Mini League Competition* +
 ^.^| *Exam Week*
 {set:cellbgcolor:grey}
 1+^.^|
