@@ -7,7 +7,7 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Assignment: System Exploitation and Report*
+.^|*<<s1assign1/index.adoc#, Assignment: System Exploitation and Report>>*
 .^|Monday 17 February 2020 (Week 3)
 .^|Thursday 19 March 2020 (Week 7) by 8:45am
 ^.^|35%
