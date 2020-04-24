@@ -13,7 +13,7 @@
 ^.^|35%
 
 .^|*<<s1assign2/index.adoc#, Assignment: Binary Exploitation and Report>>*
-.^|Monday 30 March 2020 (Week 9)
+.^|Friday 24 April 2020 (Week 11)
 .^|Thursday 28 May 2020 (Week 15) by 8:45am
 ^.^|45%
 
