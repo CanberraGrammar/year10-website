@@ -1,0 +1,109 @@
+:page-layout: standard_toc
+:page-title: Year 10 IST - Assignment One
+:icons: font
+
+= Year 10 IST - Assignment Two
+
+*Weight:* 45% +
+*Due:* Thursday 28 May 2020 (Week 15) by 8:45am
+
+== Changelog
+
+This assignment was last updated on *Friday 24 April 2020*.
+
+If any changes are made to the assignment they will be itemised here for ease of identification.
+
+== Task Context
+
+This assignment will allow you to try your newfound cybersecurity skills at exploiting a series of Windows binary files using the techniques of reverse engineering which you have been learning.
+
+=== Marking guidelines
+
+Make sure that you consult the <<_marking_guidelines, marking guidelines>> at the end of this document to ensure that your submission meets all the requirements.
+
+=== Outcomes/Assessment Criteria
+
+* *ACTDIK034*: Investigate the role of hardware and software in managing, controlling and securing the movement of and access to data in networked digital systems.
+* *ACTDIK035*: Analyse simple compression of data and how content data are separated from presentation.
+* *ACTDIP036*: Develop techniques for acquiring, storing and validating quantitative and qualitative data from a range of sources, considering privacy and security requirements.
+* *ACTDIP040:* Design algorithms represented diagrammatically and in structured English and validate algorithms and programs through tracing and test cases.
+* *ACTDIP041*: Implement modular programs, applying selected algorithms and data structures including using an object-oriented programming language.
+
+== Task Requirements
+
+There are five binary files which you need to exploit to achieve a certain goal. The binaries are ordered in difficulty, with the marks allocated to each binary reflective of their respective difficulty level. The exception is the final binary (Challenge) which is designed as an extension task and is only worth 2 marks as it's not expected that all students will attempt that task.
+
+For each binary once you have achieved the objective you need to provide a deliverable, which is what you submit for marking to prove you cracked the binary and understand the process.
+
+For the deliverables requiring a write-up, this is similar to the write-ups you did for the previous assignment - although they might be briefer, depending on the complexity of the particular binary.
+
+None of the activities below require you to patch a file.
+
+=== Password1 (5 marks)
+
+* *Download:* link:password1.exe[password1.exe]
+* *Type:* CLI binary (written in C).
+* *Objective:* Determine the system used for validating the password for an entered user name.
+* *Deliverable:* Provide a brief write-up explaining the exploitation process and describing the password validation system being used.
+
+=== SerialKey1 (5 marks)
+
+* *Download:* link:SerialKey1.exe[SerialKey1.exe]
+* *Type:* Win32 binary (written in C++).
+* *Objective:* Determine the correct serial key to "register" the software.
+* *Deliverable:* Provide a brief write-up explaining the exploitation process and how you found the correct serial key.
+
+=== SerialKey2 (12 marks)
+
+* *Download:* link:SerialKey2.exe[SerialKey2.exe]
+* *Type:* Win32 binary (written in C++).
+* *Objective:* Determine how the binary validates serial numbers and write a keygen to generate a valid serial key for any name. You can assume the name is always 4 or more characters, and less than 100 characters (this is not a hint, it's just a memory restriction on the data type holding the name).
+* *Deliverables:* Provide a write-up explaining the exploitation process *and* provide the source code for a keygen which will generate a serial number for a given name.
+** The keygen can be written in a language of your choice, so long as an interpreter or compiler is readily available.
+** The keygen should be written as a self-contained function, which takes the name as a string parameter and returns a string which is a valid serial number.
+
+=== SerialKey3 (10 marks)
+
+* *Download:* link:SerialKey3.exe[SerialKey3.exe]
+* *Type:* Win32 binary (written in C++).
+* *Objective:* Determine the method being used to determine whether the software should be "registered" or not.
+* *Deliverable:* Provide a write-up explaining the exploitation process and how you determined the criteria upon which it is determined whether the software should be "registered".
+
+=== Challenge (2 marks)
+
+* *Download:* link:Challenge.exe[Challenge.exe]
+* *Type:* Win32 binary (written in C++).
+* *Objective:* Determine how the binary validates serial numbers *and* write a keygen to generate a valid serial key for any name.
+* *Deliverable:* Provide a write-up explaining the exploitation process and how you found the correct serial key *and* provide the source code for a keygen which will generate a serial number for a given name.
+** The keygen can be written in a language of your choice, so long as an interpreter or compiler is readily available.
+** The keygen should be written as a self-contained function, which takes the name as a string parameter and returns a string which is a valid serial number.
+
+== Submission Instructions
+
+This assignment is worth 45% of your Semester One assessment for this subject.
+
+To submit your assignment create a Google Doc for your write-up called *Lastname Firstname - Binary Report* (e.g. _Purcell Matthew - Binary Report_) and share with Mr Purcell.
+
+Put your keygen code into this document as well, using monospaced font (such as Roboto Mono). Make sure the code is pasted as text and *not* a screen shot. You must also specify the language of the code.
+
+Be sure not to modify the Google Doc after the due date/time - I will be actively checking and any modifications made after will be disregarded.
+
+*Late submissions will incur penalties as per the school assessment policy:* For assignments and non-test events a late work penalty of 10% of the total possible mark will be incurred for each day late if work is not submitted on the due date.  A loss of 30% is incurred if work due on a Friday is not submitted until the following Monday. After one week (7 days) the item will be awarded a mark of zero.
+
+=== Draft Submissions
+
+You may optionally (but strongly encouraged) submit one draft of your assignment for review prior to formal submission. Your draft must be feature complete (i.e. not a half-done assignment) and submitted at least one week before the assignment due date - for this assignment, drafts are due by 8:45am on Thursday 21 May 2020). To submit a draft, email Mr Purcell and let him know that your Google Doc is ready for review.
+
+You are also welcome to ask me as you're working on the assignment whether it's on the right track with the correct level of detail.
+
+[#_marking_guidelines]
+=== Marking Guidelines
+
+link:2020_s1assign2_marksheet.pdf[Your assignment will be marked following the criteria in this PDF file.^]
+
+
+=== All My Own Work
+
+Please note that any submitted work is to be your own. There are serious consequences for submitting work which is taken from another person, even if they give it to you voluntarily. To decide if you have written the material, we may need to question you about your understanding of the topic. Please be careful when presenting ideas which are not entirely your own; reference such material thoroughly.
+
+For more specific examples, see the <<course_overview/course_overview.adoc#academic-honesty, Academic Honesty>> section of the Course Outline.
