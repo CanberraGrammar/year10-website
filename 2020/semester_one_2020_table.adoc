@@ -17,9 +17,10 @@
 .^|Thursday 28 May 2020 (Week 15) by 8:45am
 ^.^|45%
 
-.^|*In-Class Quiz*
+.^|*<<s1commontest/index.adoc#, In-Class Quiz>>*
 .^|Monday 11 May 2020 (Week 12)
-.^|Friday 12 June 2020 (Week 17)
+.^|Friday 12 June 2020 (Week 17)+
+Period 1 (IT1002) & Period 5 (IT1001)
 ^.^|20%
 
 |===
