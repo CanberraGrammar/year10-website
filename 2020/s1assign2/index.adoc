@@ -9,9 +9,11 @@
 
 == Changelog
 
-This assignment was last updated on *Friday 24 April 2020*.
+This assignment was last updated on *Wednesday 13 May 2020*.
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
+
+* The binaries are now zipped with the password `cgscomputing.com`. This is to prevent issues when downloading the files on the school network, as the firewall was blocking them due to misdetection as malicious files.
 
 == Task Context
 
@@ -39,23 +41,25 @@ For the deliverables requiring a write-up, this is similar to the write-ups you 
 
 None of the activities below require you to patch a file.
 
+*The password for the ZIP files is `cgscomputing.com`*
+
 === Password1 (5 marks)
 
-* *Download:* link:password1.exe[password1.exe]
+* *Download:* link:password1.exe[password1.zip]
 * *Type:* CLI binary (written in C).
 * *Objective:* Determine the system used for validating the password for an entered user name.
 * *Deliverable:* Provide a brief write-up explaining the exploitation process and describing the password validation system being used.
 
 === SerialKey1 (5 marks)
 
-* *Download:* link:SerialKey1.exe[SerialKey1.exe]
+* *Download:* link:SerialKey1.exe[SerialKey1.zip]
 * *Type:* Win32 binary (written in C++).
 * *Objective:* Determine the correct serial key to "register" the software.
 * *Deliverable:* Provide a brief write-up explaining the exploitation process and how you found the correct serial key.
 
 === SerialKey2 (12 marks)
 
-* *Download:* link:SerialKey2.exe[SerialKey2.exe]
+* *Download:* link:SerialKey2.exe[SerialKey2.zip]
 * *Type:* Win32 binary (written in C++).
 * *Objective:* Determine how the binary validates serial numbers and write a keygen to generate a valid serial key for any name. You can assume the name is always 4 or more characters, and less than 100 characters (this is not a hint, it's just a memory restriction on the data type holding the name).
 * *Deliverables:* Provide a write-up explaining the exploitation process *and* provide the source code for a keygen which will generate a serial number for a given name.
@@ -64,14 +68,14 @@ None of the activities below require you to patch a file.
 
 === SerialKey3 (10 marks)
 
-* *Download:* link:SerialKey3.exe[SerialKey3.exe]
+* *Download:* link:SerialKey3.exe[SerialKey3.zip]
 * *Type:* Win32 binary (written in C++).
 * *Objective:* Determine the method being used to determine whether the software should be "registered" or not.
 * *Deliverable:* Provide a write-up explaining the exploitation process and how you determined the criteria upon which it is determined whether the software should be "registered".
 
 === Challenge (2 marks)
 
-* *Download:* link:Challenge.exe[Challenge.exe]
+* *Download:* link:Challenge.exe[Challenge.zip]
 * *Type:* Win32 binary (written in C++).
 * *Objective:* Determine how the binary validates serial numbers *and* write a keygen to generate a valid serial key for any name.
 * *Deliverable:* Provide a write-up explaining the exploitation process and how you found the correct serial key *and* provide the source code for a keygen which will generate a serial number for a given name.
