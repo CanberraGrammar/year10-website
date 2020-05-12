@@ -45,21 +45,21 @@ None of the activities below require you to patch a file.
 
 === Password1 (5 marks)
 
-* *Download:* link:password1.exe[password1.zip]
+* *Download:* link:password1.zip[password1.zip]
 * *Type:* CLI binary (written in C).
 * *Objective:* Determine the system used for validating the password for an entered user name.
 * *Deliverable:* Provide a brief write-up explaining the exploitation process and describing the password validation system being used.
 
 === SerialKey1 (5 marks)
 
-* *Download:* link:SerialKey1.exe[SerialKey1.zip]
+* *Download:* link:SerialKey1.zip[SerialKey1.zip]
 * *Type:* Win32 binary (written in C++).
 * *Objective:* Determine the correct serial key to "register" the software.
 * *Deliverable:* Provide a brief write-up explaining the exploitation process and how you found the correct serial key.
 
 === SerialKey2 (12 marks)
 
-* *Download:* link:SerialKey2.exe[SerialKey2.zip]
+* *Download:* link:SerialKey2.zip[SerialKey2.zip]
 * *Type:* Win32 binary (written in C++).
 * *Objective:* Determine how the binary validates serial numbers and write a keygen to generate a valid serial key for any name. You can assume the name is always 4 or more characters, and less than 100 characters (this is not a hint, it's just a memory restriction on the data type holding the name).
 * *Deliverables:* Provide a write-up explaining the exploitation process *and* provide the source code for a keygen which will generate a serial number for a given name.
@@ -68,14 +68,14 @@ None of the activities below require you to patch a file.
 
 === SerialKey3 (10 marks)
 
-* *Download:* link:SerialKey3.exe[SerialKey3.zip]
+* *Download:* link:SerialKey3.zip[SerialKey3.zip]
 * *Type:* Win32 binary (written in C++).
 * *Objective:* Determine the method being used to determine whether the software should be "registered" or not.
 * *Deliverable:* Provide a write-up explaining the exploitation process and how you determined the criteria upon which it is determined whether the software should be "registered".
 
 === Challenge (2 marks)
 
-* *Download:* link:Challenge.exe[Challenge.zip]
+* *Download:* link:Challenge.zip[Challenge.zip]
 * *Type:* Win32 binary (written in C++).
 * *Objective:* Determine how the binary validates serial numbers *and* write a keygen to generate a valid serial key for any name.
 * *Deliverable:* Provide a write-up explaining the exploitation process and how you found the correct serial key *and* provide the source code for a keygen which will generate a serial number for a given name.
