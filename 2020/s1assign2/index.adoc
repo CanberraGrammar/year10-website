@@ -9,11 +9,13 @@
 
 == Changelog
 
-This assignment was last updated on *Wednesday 13 May 2020*.
+This assignment was last updated on *Wednesday 20 May 2020*.
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
 
-* The binaries are now zipped with the password `cgscomputing.com`. This is to prevent issues when downloading the files on the school network, as the firewall was blocking them due to misdetection as malicious files.
+* *UPDATE 20 MAY:* A student brought to my attention that there are certain situations in SerialKey2 when the keygen cannot generate a valid serial key for a given name, due to the system used to determine the serial key. In these situations, the keygen should return `NULL`.
+
+* *UPDATE 12 MAY:* The binaries are now zipped with the password `cgscomputing.com`. This is to prevent issues when downloading the files on the school network, as the firewall was blocking them due to misdetection as malicious files.
 
 == Task Context
 
@@ -65,6 +67,7 @@ None of the activities below require you to patch a file.
 * *Deliverables:* Provide a write-up explaining the exploitation process *and* provide the source code for a keygen which will generate a serial number for a given name.
 ** The keygen can be written in a language of your choice, so long as an interpreter or compiler is readily available.
 ** The keygen should be written as a self-contained function, which takes the name as a string parameter and returns a string which is a valid serial number.
+** *UPDATE:* There are certain situation when the keygen cannot generate a valid serial key for a given name. In these situations, the keygen should return `NULL`.
 
 === SerialKey3 (10 marks)
 
