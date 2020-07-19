@@ -7,17 +7,17 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Assignment: DeepRacer Training>>*
+.^|*Assignment: DeepRacer Training*
 .^|Monday 3 August 2020 (Week 3)
 .^|Thursday 3 September 2020 (Week 7) by 8:45am
 ^.^|35%
 
-.^|*Assignment: DeepRacer Competition>>*
+.^|*Assignment: DeepRacer Competition*
 .^|Monday 14 September 2020 (Week 9)
 .^|Thursday 29 October 2020 (Week 13) by 8:45am
 ^.^|45%
 
-.^|*Exam Week Quiz>>*
+.^|*Exam Week Quiz*
 .^|Monday 12 October 2020 (Week 11)
 .^|TBC - Exam Week
 ^.^|20%
