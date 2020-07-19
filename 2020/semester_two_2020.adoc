@@ -11,7 +11,7 @@
 * Correctly uses AWS tools to train models for the AWS DeepRacer
 * A good working knowledge of parameters available on the AWS DeepRacer platform
 * Building reward functions which incentivize desired behaviours
-* Effectively tuning hyperparameters and reward functions to improve model performance
+* Effectively tuning hyperparameters and reward functions to optimise model performance
 
 === Assessment Schedule
 
