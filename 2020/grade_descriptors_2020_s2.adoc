@@ -1,0 +1,22 @@
+[cols="1,20"]
+|===
+
+^.^|*A*
+.^|
+The student demonstrates an extensive knowledge of machine learning concepts, particularly reinforcement learning. They are able to develop effective machine learning models, implemented using Python and the AWS technology stack for use on the AWS DeepRacer platform. They have demonstrated an excellent ability to write reward functions which incentivize correct behaviours. Additionally, they have a deep knowledge of available parameters allowing them to fine-tune their reward functions to further enhance performance and optimise their models. They have also mastered the use of hyperparameters, using judgement combined with an iterative approach, for further adjustment and refinement of how the model is trained to maximise performance.
+^.^|*B*
+.^|
+The student demonstrates a thorough knowledge of machine learning concepts, particularly reinforcement learning. They are able to develop effective machine learning models, implemented using Python and the AWS technology stack for use on the AWS DeepRacer platform. They have demonstrated a very good ability to write reward functions which incentivize correct behaviours. Additionally, they have a good knowledge of available parameters and hyperparameters which are used in reward functions. To improve, the student should further develop their knowledge of parameters and hyperparameters, particularly how these can be used together for optimisation of model training in conjunction with refinements to the reward function.
+^.^|*C*
+.^|
+The student demonstrates a sound knowledge of machine learning concepts, particularly reinforcement learning. They are able to develop basic machine learning models, implemented using Python and the AWS technology stack for use on the AWS DeepRacer platform. They have demonstrated the ability to write reward functions which incentivize correct behaviours. They have a sound knowledge of available parameters and hyperparameters which are used in reward functions. To improve, the student should further develop their skills in writing reward functions in Python and the parameters which can be used in those functions. Additionally, they should also revise the purpose and use of hyperparameters, particularly how these can be used for optimisation of model training.
+^.^|*D*
+.^|
+The student demonstrates a limited knowledge of machine learning concepts, particularly reinforcement learning. They are able to develop basic machine learning models, implemented using Python and the AWS technology stack for use on the AWS DeepRacer platform. They have demonstrated the ability to write simple reward functions but they have difficulty incentivizing correct behaviour. They have some knowledge of available parameters and hyperparameters which are used in reward functions. To improve, the student should further develop their skills in writing reward functions in Python and the parameters which can be used in those functions. Additionally, they should also revise the purpose and use of hyperparameters, particularly how these can be used for optimisation of model training.
+^.^|*E*
+.^|
+The student demonstrates a very limited knowledge of machine learning concepts, particularly reinforcement learning. They are unable to develop basic machine learning models, implemented using Python and the AWS technology stack for use on the AWS DeepRacer platform. They have some understanding of reward functions, but are not able to write simple reward functions to incentivize correct behaviour. To improve, the student should further develop their skills in writing reward functions in Python and learn the purpose and use of parameters used in those functions. Additionally, they should also learn the purpose and use of hyperparameters, particularly how these can be used for optimisation of model training.
+^.^|*S*
+.^|Awarded to students who have been unable to complete sufficient work due to an extended period of illness or other approved absence (status).
+
+|===
