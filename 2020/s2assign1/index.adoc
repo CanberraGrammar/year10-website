@@ -1,0 +1,195 @@
+:page-layout: standard_toc
+:page-title: Year 10 IST - Assignment One
+:icons: font
+
+= Year 10 IST - Assignment One
+
+*Weight:* 35% +
+*Due:* Thursday 3 September 2020 (Week 7) by 8:45am
+
+== Changelog
+
+This assignment was last updated on *Friday 31 July 2020*.
+
+If any changes are made to the assignment they will be itemised here for ease of identification.
+
+== Task Context
+
+This assignment involves training a model for the AWS DeepRacer to autonomously drive around a race track.
+
+=== Marking guidelines
+
+Make sure that you consult the <<_marking_guidelines, marking guidelines>> at the end of this document to ensure that your submission meets all the requirements.
+
+=== Outcomes/Assessment Criteria
+
+* *ACTDIK034*: Investigate the role of hardware and software in managing, controlling and securing the movement of and access to data in networked digital systems.
+* *ACTDIP036*: Develop techniques for acquiring, storing and validating quantitative and qualitative data from a range of sources, considering privacy and security requirements.
+* *ACTDIK038*: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs.
+* *ACTDIK040*: Design algorithms represented diagrammatically and in structured English and validate algorithms and programs through tracing and test cases
+* *ACTDIP041*: Implement modular programs, applying selected algorithms and data structures including using an object-oriented programming language.
+
+== Task Requirements
+
+In class you have been introduced to the basics of training a machine learning model to autonomously drive the AWS DeepRacer around a simulated and real-world race track. In this assignment you will continue to further develop your model through tuning of the reward function, together with exploring the various parameters and hyperparameters available to help with this process of refinement.
+
+The deliverable for this assignment is a trained model along with a report explaining the process.
+
+You are *not* being marked on the reliability or speed of the model, but you are instead being marked on the process and decisions you made during the training process. That said, if your model is highly unreliable or unstable then there's likely something wrong with your training approach, which will obviously cost you marks.
+
+*Even though you are not being marked on reliability or speed, the goal is to get the car around the track as reliability and fast as possible* - and this should be your ultimate goal when tuning and refining the way you train the model. However, we didn't want to make your mark dependent on this aspect as there is a degree of entropy involved in machine learning training...so we still want to reward you if you did all the right things to train the model well, but (due to luck) the training itself didn't pan out (but it likely would if you were not subject to the training time limits imposed for this assignment).
+
+During class you have implemented the basic (default) reward function provided by the AWS DeepRacer console. Subsequently, in https://classroom.udacity.com/courses/ud014/lessons/0afdbee8-cf7a-4966-b8ed-f860f3d68cb6/concepts/e54b4097-d5f4-4bf5-bcfd-288ff80ead34[Lesson 5 (Chapters 15 and 16)] this was further tuned through using the advanced reward function followed by modifying hyperparameters. In this assignment you must start by using either the basic or advanced reward function as a basis, training on the reInvent:2018 track.
+
+1. You should create a new model, using the unmodified basic or advanced reward function and the default hyperparameter values. The model should then be trained for 1 hour. This will provide you with a baseline model.
+
+2. Simulate the model at least three times (three test runs per simulation = nine test runs total) and report on the results. This may include analysis of the reward function and success rate of the model when simulated on the track.
+
+3. You should then clone the model and start your process of refinement and tuning, changing one thing at a time (such as parameters or hyperparameters). At this stage you can start rewriting/modifying/adapting the reward function as you see fit. However, you *must* be able to justify your decisions as you must report on everything in your written report. This should include code excerpts, possibly code annotations, etc. along with why you those certain decisions, referencing any sources as needed (e.g. the DeepRacer developer guide).
+
+4. After you have finished the first iteration then put the model into training for 1 hour, simulate the model at least three times, and report on the results.
+
+5. Repeat this process to continue tuning your model another four times (so you have done a total of six rounds of training, including the initial round on the default reward function).
+
+6. Report on the final results, along with providing a copy of your final reward function. There is no need to provide a copy of your model, as we will load these onto the vehicle in class after the assignment is due for real-world testing.
+
+[NOTE]
+====
+*For equity, you can only train your model six times total, each time for 1 hour.* This is to avoid a situation where some students might pay for additional training time themselves which provides them with an advantage over other students.
+====
+
+=== Report Formatting
+
+A few words on formatting of the reports, based upon submissions from last semester. Your report should be professionally presented with all of the following:
+
+* Title page
+* Automatically generated table of contents
+* Automatic page numbering in the footer
+* Page breaks where appropriate
+* Use heading styles (this will assist in the generation of a table of contents)
+
+You should also be careful with your placement of images, to ensure that they are readable and also do not look out of place with the text. This might necessitate the need for changes to the position of text or using page breaks. Also, make sure you look at the document and its overall layout to ensure it looks professional. This may involve things such as wrapping text around smaller images where appropriate, using fully justified text to fill the entire width of the document, etc.
+
+== Submission Instructions
+
+This assignment is worth 35% of your Semester One assessment for this subject.
+
+A blank Google Doc template will be provided in Google Classroom in which you can complete the assignment. When you are ready to submit, click the *TURN IN* button.
+
+*Late submissions will incur penalties as per the school assessment policy:* For assignments and non-test events a late work penalty of 10% of the total possible mark will be incurred for each day late if work is not submitted on the due date.  A loss of 30% is incurred if work due on a Friday is not submitted until the following Monday. After one week (7 days) the item will be awarded a mark of zero.
+
+=== Draft Submissions
+
+You may optionally (but strongly encouraged) submit one draft of your assignment for review prior to formal submission. Your draft must be feature complete (i.e. not a half-done assignment) and submitted at least one week before the assignment due date - for this assignment, drafts are due by 8:45am on Thursday 27 August 2020). To submit a draft, just submit your Google Classroom assignment as you would for the real submission. I will then review your draft, with comments within Google Classroom, and then return the assignment so you can make any necessary corrections. You can then submit the assignment again for your real submission.
+
+You are also welcome to ask me as you're working on the assignment whether it's on the right track with the correct level of detail.
+
+[#_marking_guidelines]
+=== Marking Guidelines
+
+[cols="<8,^1"]
+|===
+
+^|*Criteria*
+^|*Mark Range*
+
+{set:cellbgcolor:white}
+
+.^|
+*A report submitted in this mark range will include all the following:*
+
+• in-depth, step-by-step detail of the iterative development of the reward function.
+
+• demonstration of a deep understanding of the available parameters and hyperparameters.
+
+• correct use of parameters to balance the purpose of both reliability and speed of the agent around the track.
+
+• correct use of hyperparameters to tune and refine the training of the model.
+
+• detailed justification and explanation of the decisions involving the design of the reward function and use of parameters and hyperparameters.
+
+• detailed reporting of the results of the simulations and subsequent adjustments made to improve model performance.
+
+• screen shots, code examples, etc. to assist in understanding the development process.
+
+• the final reward function with concluding statements about its efficacy.
+
+*In addition, submissions in this mark range will be:*
+
+• meet all the formatting requirements of the report.
+
+• aesthetically pleasing, with appropriate use of layout techniques.
+
+• readable and easily understandable.
+
+• free of spelling and grammar errors.
+
+.^|15 - 13
+
+.^|
+*A report submitted in this mark range will most of the following:*
+
+• details of the iterative development of the reward function.
+
+• demonstration of an understanding of the available parameters and hyperparameters.
+
+• good use of parameters to balance the purpose of both reliability and speed of the agent around the track.
+
+• use of hyperparameters to tune and refine the training of the model.
+
+• justification or explanation of the decisions involving the design of the reward function and use of parameters and hyperparameters.
+
+• reporting of the results of the simulations and subsequent adjustments made to improve model performance.
+
+• screen shots, code examples, etc. to assist in understanding the development process.
+
+• the final reward function with concluding statements about its efficacy.
+
+*In addition, submissions in this mark range should:*
+
+• use headings to separate out the report into logical sections.
+
+• be aesthetically pleasing, with appropriate use of layout techniques.
+
+.^|13 - 8
+
+
+.^|
+*A report submitted in this mark range will include some of the following:*
+
+• details of the development of the reward function.
+
+• some understanding of the available parameters and hyperparameters.
+
+• some explanation of the decisions involving the design of the reward function and use of parameters and hyperparameters.
+
+• reporting of the results of the simulations and subsequent adjustments made to improve model performance.
+
+.^|8 - 4
+
+.^|
+*A report submitted in this mark range will most of the following:*
+
+• some details of the development of the reward function.
+
+• use of some parameters and hyperparameters to write a custom reward function.
+
+.^|4 - 1
+
+.^|
+
+• A completely non-serious attempt at the task.
+
+OR
+
+• A submission that is plagiarised.
+
+.^|0
+
+|===
+
+=== All My Own Work
+
+Please note that any submitted work is to be your own. There are serious consequences for submitting work which is taken from another person, even if they give it to you voluntarily. To decide if you have written the material, we may need to question you about your understanding of the topic. Please be careful when presenting ideas which are not entirely your own; reference such material thoroughly.
+
+For more specific examples, see the <<course_overview/course_overview.adoc#academic-honesty, Academic Honesty>> section of the Course Outline.
