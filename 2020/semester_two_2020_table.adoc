@@ -9,7 +9,7 @@
 {set:cellbgcolor:white}
 .^|*<<s2assign1/index.adoc#, Assignment: DeepRacer Training>>*
 .^|Friday 31 July 2020 (Week 2)
-.^|Thursday 3 September 2020 (Week 7) by 8:45am
+.^|Tuesday 8 September 2020 (Week 8) by 8:45am
 ^.^|35%
 
 .^|*Assignment: DeepRacer Competition*

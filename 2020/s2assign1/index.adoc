@@ -5,13 +5,15 @@
 = Year 10 IST - Assignment One
 
 *Weight:* 35% +
-*Due:* Thursday 3 September 2020 (Week 7) by 8:45am
+*Due:* Thursday 8 September 2020 (Week 8) by 8:45am
 
 == Changelog
 
 This assignment was last updated on *Friday 31 July 2020*.
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
+
+* *UPDATE 10 AUGUST 2020:* The due date of the assignment has been extended to Thursday 8 September 2020 (8:45am) since we are going through the coursework a bit slower than expected due to our preparation for, and participation in, the CyberTaipan competition.
 
 * *UPDATE 3 AUGUST 2020:* Some students have asked whether you can use a custom action space. *For this assignment you must use the default action space provided by the default DeepRacer vehicle in the garage.* This is to keep the model as general as possible and avoid incorporating environment-specific knowledge of the reInvent:2018 track, along with keeping the scope of this first assignment reasonably narrow. In the next assignment you will have the opportunity to modify the action space if needed.
 
