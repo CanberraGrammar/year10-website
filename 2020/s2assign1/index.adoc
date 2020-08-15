@@ -13,7 +13,7 @@ This assignment was last updated on *Friday 31 July 2020*.
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
 
-* UPDATE 15 AUGUST 2020:* Your first initial training of the model (using the default reward function) does *not* count towards your six trainings.
+* *UPDATE 15 AUGUST 2020:* Your first initial training of the model (using the default reward function) does *not* count towards your six trainings.
 
 * *UPDATE 10 AUGUST 2020:* The due date of the assignment has been extended to Thursday 8 September 2020 (8:45am) since we are going through the coursework a bit slower than expected due to our preparation for, and participation in, the CyberTaipan competition.
 
