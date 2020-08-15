@@ -13,6 +13,8 @@ This assignment was last updated on *Friday 31 July 2020*.
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
 
+* UPDATE 15 AUGUST 2020:* Your first initial training of the model (using the default reward function) does *not* count towards your six trainings.
+
 * *UPDATE 10 AUGUST 2020:* The due date of the assignment has been extended to Thursday 8 September 2020 (8:45am) since we are going through the coursework a bit slower than expected due to our preparation for, and participation in, the CyberTaipan competition.
 
 * *UPDATE 3 AUGUST 2020:* Some students have asked whether you can use a custom action space. *For this assignment you must use the default action space provided by the default DeepRacer vehicle in the garage.* This is to keep the model as general as possible and avoid incorporating environment-specific knowledge of the reInvent:2018 track, along with keeping the scope of this first assignment reasonably narrow. In the next assignment you will have the opportunity to modify the action space if needed.
@@ -53,7 +55,7 @@ During class you have implemented the basic (default) reward function provided b
 
 4. After you have finished the first iteration then put the model into training for 1 hour, simulate the model at least three times, and report on the results.
 
-5. Repeat this process to continue tuning your model another four times (so you have done a total of six rounds of training, including the initial round on the default reward function).
+5. Repeat this process to continue tuning your model another four times (so you have done a total of six rounds of training, *not* including the initial round on the default reward function - *this was updated on 15 August*).
 
 6. Report on the final results, along with providing a copy of your final reward function. There is no need to provide a copy of your model, as we will load these onto the vehicle in class after the assignment is due for real-world testing.
 
