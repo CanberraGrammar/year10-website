@@ -5,17 +5,17 @@
 = Year 10 IST - Assignment One
 
 *Weight:* 35% +
-*Due:* Thursday 8 September 2020 (Week 8) by 8:45am
+*Due:* Tuesday 8 September 2020 (Week 8) by 8:45am
 
 == Changelog
 
-This assignment was last updated on *Friday 31 July 2020*.
+This assignment was last updated on *Saturday 15 August 2020*.
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
 
 * *UPDATE 15 AUGUST 2020:* Your first initial training of the model (using the default reward function) does *not* count towards your six trainings.
 
-* *UPDATE 10 AUGUST 2020:* The due date of the assignment has been extended to Thursday 8 September 2020 (8:45am) since we are going through the coursework a bit slower than expected due to our preparation for, and participation in, the CyberTaipan competition.
+* *UPDATE 10 AUGUST 2020:* The due date of the assignment has been extended to Tuesday 8 September 2020 (8:45am) since we are going through the coursework a bit slower than expected due to our preparation for, and participation in, the CyberTaipan competition.
 
 * *UPDATE 3 AUGUST 2020:* Some students have asked whether you can use a custom action space. *For this assignment you must use the default action space provided by the default DeepRacer vehicle in the garage.* This is to keep the model as general as possible and avoid incorporating environment-specific knowledge of the reInvent:2018 track, along with keeping the scope of this first assignment reasonably narrow. In the next assignment you will have the opportunity to modify the action space if needed.
 
@@ -47,7 +47,7 @@ You are *not* being marked on the reliability or speed of the model, but you are
 
 During class you have implemented the basic (default) reward function provided by the AWS DeepRacer console. Subsequently, in https://classroom.udacity.com/courses/ud014/lessons/0afdbee8-cf7a-4966-b8ed-f860f3d68cb6/concepts/e54b4097-d5f4-4bf5-bcfd-288ff80ead34[Lesson 5 (Chapters 15 and 16)] this was further tuned through using the advanced reward function followed by modifying hyperparameters. In this assignment you must start by using either the basic or advanced reward function as a basis, training on the reInvent:2018 track.
 
-1. You should create a new model, using the unmodified basic or advanced reward function and the default hyperparameter values. The model should then be trained for 1 hour. This will provide you with a baseline model.
+1. You should create a new model, using the unmodified basic or advanced reward function and the default hyperparameter values, run on the regular (non-wide) re:Invent 2018 track. The model should then be trained for 1 hour. This will provide you with a baseline model.
 
 2. Simulate the model at least three times (three test runs per simulation = nine test runs total) and report on the results. This may include analysis of the reward function and success rate of the model when simulated on the track.
 
@@ -55,13 +55,13 @@ During class you have implemented the basic (default) reward function provided b
 
 4. After you have finished the first iteration then put the model into training for 1 hour, simulate the model at least three times, and report on the results.
 
-5. Repeat this process to continue tuning your model another four times (so you have done a total of six rounds of training, *not* including the initial round on the default reward function - *this was updated on 15 August*).
+5. Repeat this process to continue tuning your model another five times (so you have done a total of six rounds of training, *not* including the initial round on the default reward function - *this was updated on 15 August*).
 
 6. Report on the final results, along with providing a copy of your final reward function. There is no need to provide a copy of your model, as we will load these onto the vehicle in class after the assignment is due for real-world testing.
 
 [NOTE]
 ====
-*For equity, you can only train your model six times total, each time for 1 hour.* This is to avoid a situation where some students might pay for additional training time themselves which provides them with an advantage over other students.
+*For equity, you can only train your model six times total (not including the default training run), each time for 1 hour.* This is to avoid a situation where some students might pay for additional training time themselves which provides them with an advantage over other students.
 ====
 
 === Report Formatting
@@ -86,7 +86,7 @@ A blank Google Doc template will be provided in Google Classroom in which you ca
 
 === Draft Submissions
 
-You may optionally (but strongly encouraged) submit one draft of your assignment for review prior to formal submission. Your draft must be feature complete (i.e. not a half-done assignment) and submitted at least one week before the assignment due date - for this assignment, drafts are due by 8:45am on Thursday 27 August 2020). To submit a draft, just submit your Google Classroom assignment as you would for the real submission. I will then review your draft, with comments within Google Classroom, and then return the assignment so you can make any necessary corrections. You can then submit the assignment again for your real submission.
+You may optionally (but strongly encouraged) submit one draft of your assignment for review prior to formal submission. Your draft must be feature complete (i.e. not a half-done assignment) and submitted at least one week before the assignment due date - for this assignment, drafts are due by 8:45am on Tueday 1 September 2020). To submit a draft, just submit your Google Classroom assignment as you would for the real submission. I will then review your draft, with comments within Google Classroom, and then return the assignment so you can make any necessary corrections. You can then submit the assignment again for your real submission.
 
 You are also welcome to ask me as you're working on the assignment whether it's on the right track with the correct level of detail.
 
