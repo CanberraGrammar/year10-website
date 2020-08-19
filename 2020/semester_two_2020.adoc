@@ -12,6 +12,7 @@
 * A good working knowledge of parameters available on the AWS DeepRacer platform
 * Building reward functions which incentivize desired behaviours
 * Effectively tuning hyperparameters and reward functions to optimise model performance
+* Effectively using the various sensors available on the DeepRacer vehicle to maximise performance of the model
 
 === Assessment Schedule
 
