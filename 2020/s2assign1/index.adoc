@@ -9,9 +9,11 @@
 
 == Changelog
 
-This assignment was last updated on *Saturday 15 August 2020*.
+This assignment was last updated on *Monday 24 August 2020*.
 
 If any changes are made to the assignment they will be itemised here for ease of identification.
+
+* *UPDATE 24 AUGUST 2020:* Comic Sans MS is not permitted to be used.
 
 * *UPDATE 15 AUGUST 2020:* Your first initial training of the model (using the default reward function) does *not* count towards your six trainings.
 
@@ -189,6 +191,10 @@ You are also welcome to ask me as you're working on the assignment whether it's 
 OR
 
 • A submission that is plagiarised.
+
+OR
+
+• A submission that uses Comic Sans MS in any way.
 
 .^|0
 
