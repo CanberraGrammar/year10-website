@@ -190,6 +190,10 @@ OR
 
 • A submission that is plagiarised.
 
+OR
+
+• A submission that uses Comic Sans MS in any way.
+
 .^|0
 
 |===
