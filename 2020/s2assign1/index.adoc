@@ -64,6 +64,8 @@ During class you have implemented the basic (default) reward function provided b
 [NOTE]
 ====
 *For equity, you can only train your model six times total (not including the default training run), each time for 1 hour.* This is to avoid a situation where some students might pay for additional training time themselves which provides them with an advantage over other students.
+
+If you train a model from a clone, and then train a separate model from the same clone, *__both__ of those trainings will count towards your total of seven trainings* (even if you only choose one clone to continue training).
 ====
 
 === Report Formatting
