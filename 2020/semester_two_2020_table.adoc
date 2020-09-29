@@ -12,8 +12,8 @@
 .^|Tuesday 8 September 2020 (Week 8) by 8:45am
 ^.^|35%
 
-.^|*Assignment: DeepRacer Competition*
-.^|Monday 14 September 2020 (Week 9)
+.^|*<<s2assign2/index.adoc#, Assignment: DeepRacer Advanced Capabilities>>*
+.^|Tuesday 29 September 2020 (Week 10)
 .^|Thursday 29 October 2020 (Week 13) by 8:45am
 ^.^|45%
 

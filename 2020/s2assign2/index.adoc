@@ -1,0 +1,188 @@
+:page-layout: standard_toc
+:page-title: Year 10 IST - Assignment Two
+:icons: font
+
+= Year 10 IST - Assignment Two
+
+*Weight:* 45% +
+*Due:* Thursday 29 October 2020 (Week 13) by 8:45am
+
+== Changelog
+
+This assignment was last updated on *Tuesday 29 September 2020*.
+
+If any changes are made to the assignment they will be itemised here for ease of identification.
+
+== Task Context
+
+This assignment involves exploring the more advanced features and capabilities of the DeepRacer platform.
+
+=== Marking guidelines
+
+Make sure that you consult the <<_marking_guidelines, marking guidelines>> at the end of this document to ensure that your submission meets all the requirements.
+
+=== Outcomes/Assessment Criteria
+
+* *ACTDIK034*: Investigate the role of hardware and software in managing, controlling and securing the movement of and access to data in networked digital systems.
+* *ACTDIP036*: Develop techniques for acquiring, storing and validating quantitative and qualitative data from a range of sources, considering privacy and security requirements.
+* *ACTDIK038*: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs.
+* *ACTDIK040*: Design algorithms represented diagrammatically and in structured English and validate algorithms and programs through tracing and test cases
+* *ACTDIP041*: Implement modular programs, applying selected algorithms and data structures including using an object-oriented programming language.
+
+== Task Requirements
+
+In class you have learned the basics of training a machine learning model to autonomously drive the AWS DeepRacer around a simulated and real-world race track, and in the first assignment you further developed these skills through tuning of the reward function, together with exploring the various parameters and hyperparameters available to help with this process of refinement.
+
+This assignment is more open-ended, in that you are going to identify an advanced feature or capability of the DeepRacer and then write a report exploring these features/capabilities in the context of developing a racing model for the DeepRacer.
+
+To provide you with some food for thought, examples of some advanced features/capabilities include:
+
+* Training and fine-tuning a model using the racing line technique (we covered this at an introductory level in the last few weeks of Term Three, but still with plenty of scope for you to further research this yourself).
+* Training a model for object avoidance (i.e. to avoid objects on the track).
+* Training a model for head-to-head racing (i.e. competing 1-on-1 with another vehicle).
+* ...these are just suggestions, if you find something else which interests you then you're welcome to pursue that (although, if it's outside of items on the list above, you might want to check with Mr Purcell to make sure it is suitable).
+
+The deliverable for this assignment is a trained model along with a report explaining the process.
+
+Similar to the first assignment, you are *not* being marked on the reliability or speed of the model, but you are instead being marked on the process, decisions, and learnings from the training process. That said, if your model is highly unreliable or unstable then there's likely something wrong with your training approach, which will obviously cost you marks.
+
+*Even though you are not being marked on reliability or speed, the ultimate goal in most cases is to get the car around the track as reliability and fast as possible* - and this should be your ultimate goal when tuning and refining the way you train the model.
+
+For this assignment you are welcome to use any track, any garage configuration, and any custom action space. You can really use whatever is at your disposal, as the goal of this assignment is to give you some independence with a cutting-edge technology and let you run with it. However, if you use any third-party resources (e.g. racing line Jupyter notebooks, online articles) then please make sure you reference those in a bibliography. It is completely fine to use such third-party resources, so long as you reference the material and they are only used in a supporting manner (i.e. it doesn't do all the work, and make all the decisions, for you - as in that case you wouldn't have much to write in your report and thus I wouldn't have much to mark you on!).
+
+In terms of the number of trainings you can complete, there is no limit and you will be issued with another $100 of AWS credit for this assignment. However, you should aim to not exceed that $100 of credit. If you do, and have a legitimate need for additional credit, that will be considered on a case-by-case basis by Mr Purcell.
+
+
+=== Report Formatting
+
+A few words on formatting of the reports, based upon submissions from last semester. Your report should be professionally presented with all of the following:
+
+* Title page
+* Automatically generated table of contents
+* Automatic page numbering in the footer
+* Page breaks where appropriate
+* Use heading styles (this will assist in the generation of a table of contents)
+
+You should also be careful with your placement of images, to ensure that they are readable and also do not look out of place with the text. This might necessitate the need for changes to the position of text or using page breaks. Also, make sure you look at the document and its overall layout to ensure it looks professional. This may involve things such as wrapping text around smaller images where appropriate, using fully justified text to fill the entire width of the document, etc.
+
+== Submission Instructions
+
+This assignment is worth 45% of your Semester One assessment for this subject.
+
+A blank Google Doc template will be provided in Google Classroom in which you can complete the assignment. When you are ready to submit, click the *TURN IN* button.
+
+IMPORTANT: *Make sure you use the blank Google Doc template from the beginning!* Some students did not last assignment and found when they copy-pasted their assignment across just before it was due the formatting messed up. You also must not just upload and submit your own Google Doc as that causes issues with the Google Classroom submission process.
+
+*Late submissions will incur penalties as per the school assessment policy:* For assignments and non-test events a late work penalty of 10% of the total possible mark will be incurred for each day late if work is not submitted on the due date.  A loss of 30% is incurred if work due on a Friday is not submitted until the following Monday. After one week (7 days) the item will be awarded a mark of zero.
+
+=== Draft Submissions
+
+You may optionally (but strongly encouraged) submit one draft of your assignment for review prior to formal submission. Your draft must be feature complete (i.e. not a half-done assignment) and submitted at least one week before the assignment due date - for this assignment, drafts are due by 8:45am on Thursday 22 October 2020). To submit a draft, just submit your Google Classroom assignment as you would for the real submission. I will then review your draft, with comments within Google Classroom, and then return the assignment so you can make any necessary corrections. You can then submit the assignment again for your real submission.
+
+You are also welcome to ask me as you're working on the assignment whether it's on the right track with the correct level of detail.
+
+[#_marking_guidelines]
+=== Marking Guidelines
+
+[cols="<8,^1"]
+|===
+
+^|*Criteria*
+^|*Mark Range*
+
+{set:cellbgcolor:white}
+
+.^|
+*A report submitted in this mark range will include all the following:*
+
+• appropriate selection of an *advanced* feature/capability upon which the report is based.
+
+• detailed explanation of the method/s and/or approach/es being used to take advantage of the feature or capability.
+
+• evidence of an iterative approach towards implementing, and experimenting with, the feature/capability.
+
+• detailed evaluation of the results of each iteration.
+
+• detailed discussion of changes to be made as a result of the evaluation of the trainings to improve model performance.
+
+• conclusion providing an overall summary of the results and lessons learned.
+
+*In addition, submissions in this mark range will be:*
+
+• meet all the formatting requirements of the report.
+
+• aesthetically pleasing, with appropriate use of layout techniques.
+
+• readable and easily understandable.
+
+• free of spelling and grammar errors.
+
+.^|15 - 13
+
+.^|
+*A report submitted in this mark range will most of the following:*
+
+• appropriate selection of an *advanced* feature/capability upon which the report is based.
+
+• explanation of the method/s and/or approach/es being used to take advantage of the feature or capability.
+
+• evidence of an iterative approach towards implementing, and experimenting with, the feature/capability.
+
+• evaluation of the results of each iteration.
+
+• discussion of changes to be made as a result of the evaluation of the trainings to improve model performance.
+
+• conclusion providing an overall summary of the results and lessons learned.
+
+*In addition, submissions in this mark range should:*
+
+• use headings to separate out the report into logical sections.
+
+• be aesthetically pleasing, with appropriate use of layout techniques.
+
+.^|12 - 8
+
+
+.^|
+*A report submitted in this mark range will include some of the following:*
+
+• appropriate selection of a feature/capability upon which the report is based.
+
+• evidence of an approach towards implementing, and experimenting with, the feature/capability.
+
+• some explanation of the method/s and/or approach/es being used to take advantage of the feature or capability.
+
+• some discussion of the results of each iteration and changes to be made.
+
+.^|8 - 4
+
+.^|
+*A report submitted in this mark range will most of the following:*
+
+• selection of feature/capability upon which the report is based.
+
+• evidence of an approach towards implementing, and experimenting with, the feature/capability.
+
+.^|3 - 1
+
+.^|
+
+• A non-serious attempt at the task.
+
+OR
+
+• A submission that is plagiarised.
+
+OR
+
+• A submission that uses Comic Sans MS (or variants thereof) in any way.
+
+.^|0
+
+|===
+
+=== All My Own Work
+
+Please note that any submitted work is to be your own. There are serious consequences for submitting work which is taken from another person, even if they give it to you voluntarily. To decide if you have written the material, we may need to question you about your understanding of the topic. Please be careful when presenting ideas which are not entirely your own; reference such material thoroughly.
+
+For more specific examples, see the <<course_overview/course_overview.adoc#academic-honesty, Academic Honesty>> section of the Course Outline.
