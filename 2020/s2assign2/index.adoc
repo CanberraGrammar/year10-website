@@ -46,7 +46,7 @@ The deliverable for this assignment is a trained model along with a report expla
 
 Similar to the first assignment, you are *not* being marked on the reliability or speed of the model, but you are instead being marked on the process, decisions, and learnings from the training process. That said, if your model is highly unreliable or unstable then there's likely something wrong with your training approach, which will obviously cost you marks.
 
-*Even though you are not being marked on reliability or speed, the ultimate goal in most cases is to get the car around the track as reliability and fast as possible* - and this should be your ultimate goal when tuning and refining the way you train the model.
+*Even though you are not being marked on reliability or speed, the ultimate goal in most cases is to get the car around the track as reliably and fast as possible* - and this should be your ultimate goal when tuning and refining the way you train the model.
 
 For this assignment you are welcome to use any track, any garage configuration, and any custom action space. You can really use whatever is at your disposal, as the goal of this assignment is to give you some independence with a cutting-edge technology and let you run with it. However, if you use any third-party resources (e.g. racing line Jupyter notebooks, online articles) then please make sure you reference those in a bibliography. It is completely fine to use such third-party resources, so long as you reference the material and they are only used in a supporting manner (i.e. it doesn't do all the work, and make all the decisions, for you - as in that case you wouldn't have much to write in your report and thus I wouldn't have much to mark you on!).
 
@@ -67,7 +67,7 @@ You should also be careful with your placement of images, to ensure that they ar
 
 == Submission Instructions
 
-This assignment is worth 45% of your Semester One assessment for this subject.
+This assignment is worth 45% of your Semester Two assessment for this subject.
 
 A blank Google Doc template will be provided in Google Classroom in which you can complete the assignment. When you are ready to submit, click the *TURN IN* button.
 
