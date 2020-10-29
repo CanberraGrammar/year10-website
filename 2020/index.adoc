@@ -13,8 +13,6 @@ matthew.purcell@cgs.act.edu.au
 
 - Need help? Visit the https://edstem.org/courses/3878/discussion[class forum^] on ED STEM.
 
-- You can also attend any of the IT tutorial sessions listed below.
-
 - <<course_overview/course_overview.adoc#,Course Outline>>
 
 ==== Lesson Summaries
