@@ -1,0 +1,43 @@
+:page-layout: standard_toc
+:page-title: Year 10 IST - Common Test
+:icons: font
+
+= Year 10 IST - Common Test =
+
+*Weight:* 20% +
+*IT1001:* Tuesday 17 November 2020 (Week 16), Period 1 +
+*IT1002:* Wednesday 18 November 2020 (Week 16), Period 5
+
+== Changelog ==
+
+This task was last updated on *Saturday 31 May 2020*.
+
+If any changes are made to the task they will be itemised here for ease of identification.
+
+== Task Description ==
+
+* This is a 20 question online multiple-choice quiz.
+* You will have 45 minutes to complete the quiz.
+* The quiz can potentially cover all content that has been completed throughout Semester Two.
+* Some questions may require you to answer specific facts, and other questions may require problem-solving. For example, you may be provided with a reward function in Python and asked questions on that function.
+* The test is completely open-resource. Any resources (including the internet, past activities, handwritten or electronic notes) may be used. However, email and any other form of real-time (or near real-time) communication must not be used - while students can use resources to research how to solve the questions they may not communicate with anyone else during the test.
+* Keep in mind that even though this test is open-resource, it is essential that all students undertake sufficient revision. Referring to other resources is only useful if you need to quickly reference or look-up something. If you do not already have a firm grasp of machine learning and DeepRacer concepts and tools then you cannot expect to research and understand completely new concepts, then answer the questions, in order to complete this task within the time frame.
+
+== Outcomes to be Assessed ==
+
+* *ACTDIK034:* Investigate the role of hardware and software in managing, controlling and securing the movement of and access to data in networked digital systems.
+* *ACTDIP036:* Develop techniques for acquiring, storing and validating quantitative and qualitative data from a range of sources, considering privacy and security requirements.
+* *ACTDIP040:* Design algorithms represented diagrammatically and in structured English and validate algorithms and programs through tracing and test cases.
+* *ACTDIP041*: Implement modular programs, applying selected algorithms and data structures including using an object-oriented programming language.
+
+
+== Context for the Task ==
+
+The focus of this task is to allow students to demonstrate their level of skill and knowledge in machine learning and DeepRacer.
+
+== Hints and Pro Tips ==
+
+Here you can find various hints and tips to help with your preparation for the common test.
+
+* In terms of how to review for this assessment task, if you have been able to do all the activities and assignments we have completed throughout this semester, and have a firm grasp of the concepts underpinning these tasks, then you should feel quite comfortable with that level of knowledge going into the quiz.
+* Should you have found any of these tasks challenging, or have been unable to complete them, then I strongly encourage you to go back and review those tasks. In particular, look at the comments which I left on your recent assignment which might highlight gaps in your knowledge.
