@@ -1,0 +1,223 @@
+:page-layout: standard_toc
+:page-title: Year 10 IT - Course Overview
+
+= Year 10 IT
+
+Year 10 Cybersecurity & Machine Learning is a one year course that forms part of the Information Technology program at Canberra Grammar School. The course is aligned with the Digital Technologies curriculum from the Australian Curriculum.
+
+The course requires students to have studied Year 9 IT at Canberra Grammar School or have equivalent programming knowledge.
+
+== tl;dr
+
+=== About
+
+This course is split into two distinct areas of content.
+
+During Semester One, students will learn essential skills in cybersecurity and penetration testing, focusing on web exploitation through practical Capture the Flag style activities using the PentesterLab Pro platform.
+
+During Semester Two, students will learn the foundational skills of machine learning, particularly reinforcement learning using the AWS DeepRacer platform - allowing students to train their own Reinforcement Learning models on the DeepRacer vehicle and compete against other students.
+
+=== Punctuality
+
+You need to be on-time for class. It's very disruptive for everyone if there are latecomers. There is a *ZERO TOLERANCE* policy for punctuality, unless you have a legitimate reason (such as a music lesson). Going to the bathroom at the end of recess, resulting in you being late for class, is an example of an excuse that is *not* legitimate!
+
+=== Homework
+
+Make sure that you always have all your homework complete. There is a *ZERO TOLERANCE* policy for homework completion. If you have difficulty completing the homework, ask for help on the class forum. If you have extenuating circumstances about why you couldn't complete the homework, see or email your teacher before the lesson when it's due - not as you are walking into the classroom.
+
+=== Materials
+
+Make sure you always bring the correct materials to class - in particular, your laptop needs to be charged and ready to complete the set work. You are responsible for ensuring that your laptop is in working order for each lesson. You must also bring your diary to each lesson, as we often use the diary to write notes to your tutor or parents.
+
+== Course Overview
+
+=== Course Structure
+
+.Semester One:
+* Unix/Linux review
+* Essentials: Common web vulnerabilities
+* Binary exploitation
+* PCAP: Packet capture and analysis
+
+.Semester Two:
+* Introduction to Reinforcement Learning (RL)
+* Introduction to AWS SageMaker
+* Developing and training the DeepRacer model
+* AWS DeepRacer League competition
+
+=== Sequencing
+
+[cols="11"]
+|===
+|
+^|*Week 1*
+^|*Week 2*
+^|*Week 3*
+^|*Week 4*
+^|*Week 5*
+^|*Week 6*
+^|*Week 7*
+^|*Week 8*
+^|*Week 9*
+^|*Week 10*
+
+{set:cellbgcolor:white}
+^.^| *Term 1*
+2+^.^|
+*Topic 1: Unix/Linux Review* +
+5+^.^|
+*Topic 2: Essentials* +
+2+^.^|
+*Topic 3: Binary Exploitation* +
+{set:cellbgcolor:white}
+1+|
+{set:cellbgcolor:grey}
+
+{set:cellbgcolor:white}
+^.^| *Term 2*
+4+^.^|
+*Topic 3: Binary Exploitation* (continued) +
+6+^.^|
+*Topic 4: PCAP (Packet Capture and Analysis)* +
+
+^.^| *Term 3*
+{set:cellbgcolor:white}
+2+^.^|
+*Topic 5: Introduction to Reinforcement Learning* +
+2+^.^|
+*Topic 6: Introduction to AWS SageMaker* +
+5+^.^|
+*Topic 7: Developing and Training the DeepRacer Model* +
+{set:cellbgcolor:white}
+1+|
+{set:cellbgcolor:grey}
+
+{set:cellbgcolor:white}
+^.^| *Term 4*
+^.^|
+*Camp Week*
+{set:cellbgcolor:grey}
+5+^.^|
+*Topic 8: AWS DeepRacer League Competition* +
+{set:cellbgcolor:white}
+^.^| *Exam Week*
+{set:cellbgcolor:grey}
+2+^.^|
+*Prepare for 2022 Courses* +
+{set:cellbgcolor:white}
+1+|
+{set:cellbgcolor:grey}
+
+|===
+
+=== Aims
+
+To develop students' knowledge and understanding, confidence and creativity in analysing, designing, developing and evaluating information technology solutions by:
+
+. developing an understanding of common web-based vulnerabilities and their exploitation, together with how to protect against such attacks
+
+. learning how to assess and enumerate a system to gather information which can be used to identify weak points in system security
+
+. learning the foundational skills of machine learning, particularly in the field of Reinforcement Learning (RL)
+
+. developing and training machine learning models which can be applied to authentic, real-world use cases (such as the AWS DeepRacer platform)
+
+=== Content Descriptors
+
+Students learn to:
+
+* *ACTDIK034:* Investigate the role of hardware and software in managing, controlling and securing the movement of and access to data in networked digital systems.
+* *ACTDIK035:* Analyse simple compression of data and how content data are separated from presentation.
+* *ACTDIP036:* Develop techniques for acquiring, storing and validating quantitative and qualitative data from a range of sources, considering privacy and security requirements.
+* *ACTDIP037:* Analyse and visualise data to create information and address complex problems, and model processes, entities and their relationships using structured data.
+* *ACTDIP038:* Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs.
+* *ACTDIP039:* Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics.
+* *ACTDIP040:* Design algorithms represented diagrammatically and in structured English and validate algorithms and programs through tracing and test cases.
+* *ACTDIP041:* Implement modular programs, applying selected algorithms and data structures including using an object-oriented programming language.
+* *ACTDIP042:* Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise.
+* *ACTDIP043:* Create interactive solutions for sharing ideas and information online, taking into account safety, social contexts and legal responsibilities.
+* *ACTDIP044:* Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability.
+
+== Materials and Resources
+
+This course will use the following materials and resources:
+
+* MacBook laptop computer
+* ED STEM IDE
+
+* *Semester One:*
+** Google Chrome
+** https://pentesterlab.com/pro[PentesterLab Pro platform^]
+
+* *Semester Two:*
+** AWS Account, covering the following services:
+*** AWS DeepRacer
+*** AWS EC2
+*** AWS S3
+*** Amazon Kinesis Video Streams
+
+*The ED STEM IDE costs $20 for the year* and will be charged to your school account.
+
+*The AWS Account costs $35 for Semester Two* and will be also charged to your school account.
+
+We are very fortunate that PentesterLab have generously donated a subscription to their Pro service to each student at no cost for use throughout Semester One.
+
+== Expectations
+
+=== Class and Conduct Expectations
+
+* Wait in an orderly manner outside the classroom for the teacher to arrive.
+
+* When instructed, move into the classroom and stand behind your chair until you have been greeted by the teacher and invited to sit down.
+
+* If another staff member visits the class, stand as a matter of courtesy.
+
+* You must be punctual for class. If you arrive after the second bell, you are late - and do not expect to get 100% for "Punctuality and Organisation" on your term report (unless you have a legitimate excuse).
+
+* Show respect for the person who is talking in the room. When the teacher is addressing the entire class, no one else speaks. If one of your peers is answering a question, do not talk at the same time.
+
+* All homework is to be recorded in your school diary and completed to a satisfactory standard. Homework completion and quality will be checked every lesson. If you have not completed *ALL* the set homework to a satisfactory standard, or made a substantive attempt at the set work, then your homework (as a whole) will be recorded as incomplete.
+
+** There is a *ZERO TOLERANCE* policy on homework completion. Do not expect to get 100% for "Meeting Deadlines" on your term report if you have missed homework. Furthermore, on the first instance your homework is incomplete a note will be written in your diary. On the second instance an email will be sent home and you will be directed to a Period 6 session. On the third (and subsequent) instances you will receive a detention &mdash; there's no reason you should be turning-up to class with your homework incomplete and without a reason. However...
+
+** It is understood that sometimes you may encounter difficulties completing the homework. This is fine, so long as you must make a substantive attempt to seek assistance and gain help to complete the work before the lesson — this does not mean just before the lesson as you are walking into the room. There are plenty of ways to seek assistance if you need help.
+
+*** **For example:** if you found the homework difficult and it's not fully complete, but you sought help on the forum asking a geniune and informed question (not _"How do I do the homework?"_ or copy-paste your code and ask _"What's wrong with my code?"_), you asked well in advance of when the work was due (not late the night before, or early the morning of, the due date), and you made an attempt to implement the suggestions and advice you received, then that's totally fine as you clearly made a good effort to complete the work.
+
+** We also understand that on rare occasions you may be unable to complete your homework due to circumstances beyond your control. We are usually reasonable, if you are reasonable and let your teacher know in advance before the next lesson when the homework is due — you can't just turn-up to the lesson with your homework not done, that will not be accepted. However, note that this excuse will only be accepted on rare occasions for legitimate reasons (e.g. you had interstate relatives visiting and went out for dinner, only getting home late) and likely would not be accepted if you had multiple days to complete the homework before the next lesson. Our willingness to accept such excuses also depends on your prior track record of homework completion.
+
+* Only pack up your books and equipment when instructed — the bell is an indication to the teacher that the period has finished, it is not an invitation for you to packup.
+
+* Bags are not to be brought to class unless it's Period 5. You can bring a small shoulder bag for your laptop, but no large bags or backpacks.
+
+* Only commence working on the computers if permission has been given by the teacher.
+
+* When using the computers you must stay on task. If you are coding in Xcode there is no reason to have your email open. At no point must any games be open on your laptops, even in the background/minimised.
+
+* If you need to contact the teacher via email then you need to ensure your email is properly addressed (with Dear Mr or Dear Sir) and written with proper English. If you do not write your email properly then it will be returned and you will need to re-write the email properly before a response or acknowledgement will be given.
+
+=== Equipment Expectations
+
+You must bring to each lesson:
+
+* School diary
+
+* Laptop computer — you must ensure that your laptop computer is always charged and ready to use in class. **You will not have access to power in the classroom to charge your laptop as for safety reasons we cannot have laptop power supply cables running across the floor to the desks.** This means that you will need to plan ahead to ensure that your laptop has sufficient charge for your IT lesson, even if it's at the end of the day. It is also your responsibility to ensure that your laptop is always in a fully working state for class and homework.
+
+* A pen and pencil
+
+The same penalties as homework non-completion apply towards not bringing the correct materials to class. On the first instance a note will be written in your diary. On the second instance an email will be sent home. On the third (and subsequent) instances you will receive a detention.
+
+== Getting Help
+
+Given the technical nature of this course you may sometimes have difficulty understanding concepts or completing the set work. There are several ways you can seek assistance should you need help.
+
+* *ED STEM Online Forum (https://edstem.org).* This is your first point of call for assistance if you are having difficulty. All Year 10 IT students have access to the forum, along with the teachers and also senior student mentors (who have done this course in the past). Posting on the forum is a much faster way to get help than emailing your teacher, as more people monitor the forum so if you post a question then it will likely be answered by either another student or your teacher. However, you need to make a substantive attempt yourself before posting — if you are posting just to get an easy answer (because you can't be bothered figuring out something yourself) that will be pretty obvious to everyone, so don’t expect much help in that situation!
+
+* *Email the Teacher.* If you have posted on the forum, but not received a satisfactory response, then you are welcome to email the teacher to follow-up. Of course, you can also email you teacher if you want to talk to them about something privately.
+
+* *After School IT Tutorials.* Each week on Wednesday from 3:30pm - 5:00pm in Room SC304 there are IT tutorials where you can get assistance from teachers and tutors. You are also welcome to come to quietly work on IT-related homework or revision. Note, these are *quiet* study sessions where you are expected to work individually or quietly with your peers.
+
+== Academic Honesty
+
+include::../common/academic_honesty.adoc[]

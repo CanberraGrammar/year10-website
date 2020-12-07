@@ -1,0 +1,43 @@
+:page-layout: standard_toc
+:page-title: Unit Outline and Assessment Schedule
+
+= Year 10 IT &mdash; Semester One 2020
+
+== Unit Outline and Assessment Schedule
+
+=== Report Criteria / Areas of Learning
+
+* Demonstrating a good understanding of Linux commands and permission structures
+* Demonstrating a good knowledge of common web-based vulnerabilities and their practical exploitation
+* Assessing and enumerating systems to gather information which can be used to identify weak points and potential attack vectors
+* Using packet capturing techniques to intercept and interpret web-based traffic
+* Correctly selecting and applying penetration testing techniques to address scenarios and exercises
+
+=== Assessment Schedule
+
+include::semester_one_2021_table.adoc[]
+
+=== Course Detail
+
+* Unix/Linux review
+* Essentials: Common web vulnerabilities
+* Binary exploitation
+* PCAP: Packet capture and analysis
+
+=== Grade Allocation
+
+include::grade_descriptors_2021_s1.adoc[]
+
+=== Absence from Class
+
+It is your responsibility to catch up on work missed when absent from class. We suggest you email your teacher on the day you are away to request any missed work or information.
+
+If you are away for an assessment, please consult your teacher to make arrangements to complete the assessment as soon as possible after you return to school. After 10 school days, the assessment cannot be rescheduled and either an estimate (in the case of an explained absence) or a zero will be awarded.
+
+For assignments and non-test events a late work penalty of 10% of the total possible mark will be incurred for each day late if work is not submitted on the due date.  A loss of 30% is incurred if work due on a Friday is not submitted until the following Monday. After one week (7 days) the item will be awarded a mark of zero.
+
+=== All My Own Work
+
+Please note that any submitted work is to be your own. There are serious consequences for submitting work which is taken from another person, even if they give it to you voluntarily. To decide if you have written the material, we may need to question you about your understanding of the topic. Please be careful when presenting ideas which are not entirely your own; reference such material thoroughly.
+
+For more specific examples, see the <<course_overview/course_overview.adoc#academic-honesty, Academic Honesty>> section of the Course Outline.

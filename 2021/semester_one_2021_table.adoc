@@ -1,0 +1,26 @@
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Assignment: System Exploitation*
+.^|Monday 15 February 2021 (Week 3)
+.^|Thursday 18 March 2021 (Week 7) by 8:45am
+^.^|40%
+
+.^|*Assignment: Binary Exploitation*
+.^|Monday 19 April 2021 (Week 10)
+.^|Thursday 20 May 2021 (Week 14) by 8:45am
+^.^|40%
+
+.^|*In-Class InfoSec Quiz*
+.^|Monday 11 May 2020 (Week 12)
+.^|IT1001: Monday 7 June 2021 (Week 17), Period 4
+IT1002: Monday 7 June 2021 (Week 17), Period 1
+^.^|20%
+
+|===
