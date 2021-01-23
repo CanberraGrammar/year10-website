@@ -1,0 +1,22 @@
+asciidoc:
+  ext: adoc
+asciidoctor:
+  attributes:
+  - data-uri
+  - icons=font
+  - idprefix=
+  - imagesdir=.
+  - linkcss
+  - sectlinks
+  - showtitle
+  - stem
+  - stylesdir=css
+  - toclevels=3
+  base_dir: :docdir
+  safe: 0
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.md
+gems:
+- jekyll-asciidoc
