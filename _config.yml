@@ -14,9 +14,6 @@ asciidoctor:
   - toclevels=3
   base_dir: :docdir
   safe: 0
-exclude:
-- Gemfile
-- Gemfile.lock
-- README.md
+exclude: [vendor]
 gems:
 - jekyll-asciidoc
