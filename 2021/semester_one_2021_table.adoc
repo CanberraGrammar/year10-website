@@ -19,8 +19,8 @@
 
 .^|*In-Class InfoSec Quiz*
 .^|Monday 11 May 2020 (Week 12)
-.^|IT1001: Monday 7 June 2021 (Week 17), Period 4
-IT1002: Monday 7 June 2021 (Week 17), Period 1
+.^|IT1001: Monday 7 Jun 2021 (Week 17), Period 4 +
+IT1002: Monday 7 Jun 2021 (Week 17), Period 1
 ^.^|20%
 
 |===

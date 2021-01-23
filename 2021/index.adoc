@@ -11,7 +11,7 @@ matthew.purcell@cgs.act.edu.au
 
 ==== Course Documents
 
-- Need help? Visit the https://edstem.org[class forum^] on ED STEM.
+- Need help? Visit the https://edstem.org/courses/5084/discussion/[class forum^] on ED STEM.
 
 - <<course_overview/course_overview.adoc#,Course Outline>>
 
