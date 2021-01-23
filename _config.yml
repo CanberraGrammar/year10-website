@@ -15,7 +15,7 @@ asciidoctor:
   base_dir: :docdir
   safe: 0
 exclude:
-  - [vendor]
+  - vendor
   - .nojekyll
   - CNAME
   - Gemfile
