@@ -16,8 +16,6 @@ asciidoctor:
   safe: 0
 exclude:
   - vendor
-  - .nojekyll
-  - CNAME
   - Gemfile
   - Gemfile.lock
   - README.md
