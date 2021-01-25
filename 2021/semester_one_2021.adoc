@@ -1,7 +1,7 @@
 :page-layout: standard_toc
 :page-title: Unit Outline and Assessment Schedule
 
-= Year 10 IT &mdash; Semester One 2020
+= Year 10 IT &mdash; Semester One 2021
 
 == Unit Outline and Assessment Schedule
 
