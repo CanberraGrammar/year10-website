@@ -7,8 +7,8 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Assignment: System Exploitation*
-.^|Monday 15 February 2021 (Week 3)
+.^|*<<s1assign1/index.adoc#, Assignment: System Exploitation>>*
+.^|Wednesday 17 February 2021 (Week 3)
 .^|Thursday 18 March 2021 (Week 7) by 8:45am
 ^.^|40%
 

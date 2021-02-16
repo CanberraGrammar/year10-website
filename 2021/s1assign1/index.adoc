@@ -1,0 +1,219 @@
+:page-layout: standard_toc
+:page-title: Year 10 IST - Assignment One
+:icons: font
+
+= Year 10 IST - Assignment One
+
+*Weight:* 40% +
+*Due:* Thursday 18 March 2021 (Week 7) by 8:45am
+
+== Changelog
+
+This assignment was last updated on *Wednesday 17 February 2021*.
+
+If any changes are made to the assignment they will be itemised here for ease of identification.
+
+== Task Context
+
+This assignment will allow you to try your newfound cybersecurity skills at exploiting a live web-based system which has been setup for you. Additionally, you also need to write a penetration test report outlining the vulnerability/vulnerabilities in the system, how you found and exploited those, and recommendations for securing the system.
+
+=== Marking guidelines
+
+Make sure that you consult the <<_marking_guidelines, marking guidelines>> at the end of this document to ensure that your submission meets all the requirements.
+
+=== Outcomes/Assessment Criteria
+
+* *ACTDIK034*: Investigate the role of hardware and software in managing, controlling and securing the movement of and access to data in networked digital systems.
+* *ACTDIK035*: Analyse simple compression of data and how content data are separated from presentation.
+* *ACTDIP036*: Develop techniques for acquiring, storing and validating quantitative and qualitative data from a range of sources, considering privacy and security requirements.
+* *ACTDIP041*: Implement modular programs, applying selected algorithms and data structures including using an object-oriented programming language.
+
+== Task Requirements
+
+A brand new social network has just been launched called *Snapgram*: http://snapgram.cgscomputing.com[https://snapgram.cgscomputing.com^]. Rumor has it that this social network will be bigger than Facebook, Instagram, Snapchat, and Tik Tok combined...and the founders have big ambitions, as do the investors who have put over $100 billion of venture capital to make this platform a reality.
+
+As you are aware, security and user privacy in social networks is a founder's top priority (despite the fact that the administrators of Snapgram seem to browse the profiles of their users on a regular basis...sometimes as frequently as every 5 minutes!?!). Nevertheless, you have been engaged to do a penetration test on the system and write a report to ensure no-one else can do the same kind of thing!
+
+The founders have set you three challenges.
+
+=== Task 1 (5 marks)
+
+There is an account in Snapgram under the name of Mike Wheeler. You need to somehow login to Mike Wheeler's account. If you succeed it will be quite obvious and there is a message informing that you have been successful.
+
+=== Task 2 (10 marks)
+
+You need to login to Snapgram as an administrator. Once again, if you succeed it will be quite obvious and there is a message informing you about your success.
+
+=== Task 3 (10 marks)
+
+There is a file somewhere on the server's file system called `theFlag`. You need to locate this file and read its contents. Note, if you just get garbage when reading the file then you have not read the file correctly.
+
+== Penetration Test Report
+
+The deliverable for this assignment is a report detailing the penetration testing process. This needs to be a technical walk-through of the exploitation process with a detailed outline of the steps taken. This should include screen shots, sample commands, evidence of reaching the goals, etc. *This should also include things which you tried but didn't work* as it is important to see your thought process and what potential avenues you explored.
+
+For examples of how to author a write-up, and the required level of detail, see the Code Cadets blog for their write-ups from previous BSides Canberra CTF competitions: https://codecadets.blog[http://codecadets.blog^]
+
+*The write-up should be written in first-person (i.e. from your perspective).*
+
+Your write-up should be completed in the assigned Google Classroom assignment. *Ensure that you use the provided Google Doc template and do not upload your own Google Doc.*
+
+[NOTE]
+====
+Just a word on how this task will be marked. *Even if you are not able to fully complete the penetration tests you are still able to pass this assignment* (and perhaps even get a high mark) depending on how far through you managed to get. This is why your write-up is so important, as it will allow me to assess your progress through the task and assign marks accordingly (e.g. if you are 90% the way to completion then you could potentially get 90% of the marks).
+
+However, this depends on you writing a high quality write-up explaining your progress and, importantly, your thought process. *This is also relevant to those students who do successfully complete the challenge and retrieve the flag &mdash; if you do not provide a detailed and high quality report then you will not receive a high mark, regardless of the fact that you completed the challenge*, since you cannot demonstrate that you understood what you were doing.
+====
+
+[TIP]
+====
+*Pro Tip:* Be sure to get started on this task early. You don't want to be stressing the weekend before it's due that you cannot complete the challenges!
+====
+
+=== Rules of Engagement
+
+* When you initially visit http://snapgram.cgscomputing.com[https://snapgram.cgscomputing.com^] it will show a pop up, prompting you for a username and password. *This is not part of the challenge* and is just basic security to prevent non-CGS people from accessing an intentionally vulnerable server over the open internet. The username is `year10` and password is `cgs`.
+
+* At some stage in the assignment you will have the ability to delete some server-based files. Please don't, there is no reason to go deleting things.
+
+* At other stages in the assignment you will also be able to change text and upload images to the website. The site does track your IP address so please do not upload anything inappropriate.
+
+* Denial of service (DOS) attacks against the server are strictly prohibited and will result in your IP address being blocked, and your subsequent inability to complete the assignment as a result of your recklessness.
+
+* Do not conduct a brute-force attack against the live server. If you need to complete a brute-force then download the required hashes (or similar) locally and complete this on your own computer.
+
+* If you believe you have found an unintentional vulnerability or issue with the server then please report this to Mr Purcell. Bug bounty (chocolate) prizes are offered.
+
+=== How to Get Started?
+
+When presented with a challenge like this it can initially be daunting, but you just need to think through it logically. Remember, unlike if you were doing this professionally with a real client on a real system, you know that this system can definitely be exploited...you just need to figure out how.
+
+First, just play around with the system. Click around, change things, ask questions like _"I wonder why that looks like that"_ and try to figure out why!
+
+Exploring the attack surface is the first step to exploitation. Determine what you've got to play with, and then try to figure out how to can exploit that.
+
+== Submission Instructions
+
+This assignment is worth 40% of your Semester One assessment for this subject.
+
+Your write-up should be completed in the assigned Google Classroom assignment. *Ensure that you use the provided Google Doc template and do not upload your own Google Doc.*
+
+When you are done, submit your assignment via Google Classroom.
+
+*Late submissions will incur penalties as per the school assessment policy.*
+
+=== Draft Submissions
+
+You may optionally (but strongly encouraged) submit one draft of your assignment for review prior to formal submission. Your draft must be feature complete (i.e. not a half-done assignment) and submitted at least one week before the assignment due date - for this assignment, drafts are due by 8:45am on Thursday 11 March 2021). To submit a draft, submit your Google Classroom assignment as if it was the final submission.
+
+You are also welcome to ask me as you're working on the assignment whether it's on the right track with the correct level of detail.
+
+[#_marking_guidelines]
+=== Marking Guidelines
+
+[cols="<8,^1"]
+|===
+
+^|*Criteria*
+^|*Mark Range*
+
+{set:cellbgcolor:white}
+
+.^|
+*Submissions in this mark range will:*
+
+• have successfully exploited all three tasks.
+
+*A report submitted in this mark range will include all the following:*
+
+• in-depth, step-by-step detail of the successful exploitation.
+
+• discussion of the thought process during the exercise, including rationale for certain decisions and things which were tried but didn't work out.
+
+• screen shots at various important steps of the exploitation process.
+
+• examples of the commands used, and how they were determined.
+
+*In addition, submissions in this mark range will be:*
+
+• use headings to separate out the report into logical sections.
+
+• aesthetically pleasing, with appropriate use of layout techniques.
+
+• readable and easily understandable.
+
+• free of spelling and grammar errors.
+
+.^|25 - 23
+
+.^|
+*Submissions in this mark range will:*
+
+• have successfully exploited at least two of the tasks, and made good progress with the third.
+
+*A report submitted in this mark range will include all of the following:*
+
+• detail of the successful exploitation.
+
+• discussion of the thought process during the exercise.
+
+• screen shots at some steps of the exploitation process.
+
+• some examples of the commands used, and how they were determined.
+
+*In addition, submissions in this mark range should:*
+
+• use headings to separate out the report into logical sections.
+
+• be aesthetically pleasing, with appropriate use of layout techniques.
+
+• be readable and easily understandable.
+
+• be free of spelling and grammar errors.
+
+.^|18 - 22
+
+
+.^|
+*Submissions in this mark range will:*
+
+• have made an attempt to exploit the tasks, but did not finish.
+
+*A report submitted in this mark range will include some of the following:*
+
+• detail of the successful exploitation.
+
+• discussion of the thought process during the exercise.
+
+• screen shots at some steps of the exploitation process.
+
+• some examples of the commands used, and how they were determined.
+
+*Students who successfully exploit the tasks, but submit a sub-standard report, will also fall into this mark range.*
+
+.^|10 - 17
+
+.^|
+• A non-serious attempt at the task with some reference to the requirements.
+.^|1 - 9
+
+.^|
+
+• A completely non-serious attempt at the task.
+
+OR
+
+• A submission that is plagiarised.
+
+OR
+
+• Breaching the rules of engagement.
+.^|0
+
+|===
+
+=== All My Own Work
+
+Please note that any submitted work is to be your own. There are serious consequences for submitting work which is taken from another person, even if they give it to you voluntarily. To decide if you have written the material, we may need to question you about your understanding of the topic. Please be careful when presenting ideas which are not entirely your own; reference such material thoroughly.
+
+For more specific examples, see the <<course_overview/course_overview.adoc#academic-honesty, Academic Honesty>> section of the Course Outline.
