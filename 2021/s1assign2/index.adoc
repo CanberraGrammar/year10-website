@@ -77,6 +77,7 @@ Important: None of the binary activities here require the binary to be patched. 
 * *Deliverable:* Provide a write-up explaining the exploitation process *and* provide the source code for the keygen.
 ** The keygen can be written in a language of your choice, so long as an interpreter or compiler is readily available.
 ** To clarify, each time you run the keygen you should generate a new list of valid serial numbers. *Hint:* This might seem strange, but once you understand how this challenge works you’ll understand how you can randomly generate 10 valid serial numbers.
+* This activity is tricky, but certainly achievable. Even if you don't completely figure out the binary then make sure you write-up the process you completed as you will still get marks, even for an unsuccessful final outcome.
 
 == Submission Instructions
 
