@@ -12,9 +12,9 @@
 .^|Thursday 18 March 2021 (Week 7) by 8:45am
 ^.^|40%
 
-.^|*Assignment: Binary Exploitation*
-.^|Monday 19 April 2021 (Week 10)
-.^|Thursday 20 May 2021 (Week 14) by 8:45am
+.^|*<<s1assign2/index.adoc#, Assignment: Binary Exploitation>>*
+.^|Saturday 24 April 2021 (Week 10)
+.^|Thursday 20 May 2021 (Week 15) by 8:45am
 ^.^|40%
 
 .^|*In-Class InfoSec Quiz*

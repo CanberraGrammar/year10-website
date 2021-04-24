@@ -1,0 +1,107 @@
+:page-layout: standard_toc
+:page-title: Year 10 IST - Assignment One
+:icons: font
+
+= Year 10 IST - Assignment Two
+
+*Weight:* 40% +
+*Due:* Thursday 20 May 2021 (Week 15) by 8:45am
+
+== Changelog
+
+This assignment was last updated on *Saturday 24 April 2021*.
+
+If any changes are made to the assignment they will be itemised here for ease of identification.
+
+== Task Context
+
+This assignment will allow you to try your newfound cybersecurity skills at exploiting a series of Windows binary files using the techniques of reverse engineering which you have been learning.
+
+=== Marking guidelines
+
+Make sure that you consult the <<_marking_guidelines, marking guidelines>> at the end of this document to ensure that your submission meets all the requirements.
+
+=== Outcomes/Assessment Criteria
+
+* *ACTDIK034*: Investigate the role of hardware and software in managing, controlling and securing the movement of and access to data in networked digital systems.
+* *ACTDIK035*: Analyse simple compression of data and how content data are separated from presentation.
+* *ACTDIP036*: Develop techniques for acquiring, storing and validating quantitative and qualitative data from a range of sources, considering privacy and security requirements.
+* *ACTDIP040:* Design algorithms represented diagrammatically and in structured English and validate algorithms and programs through tracing and test cases.
+* *ACTDIP041*: Implement modular programs, applying selected algorithms and data structures including using an object-oriented programming language.
+
+== Task Requirements
+
+There are five binary files which you need to exploit to achieve a certain goal. The binaries are generally ordered in difficulty, with the marks allocated to each binary reflective of their respective difficulty level.
+
+For each binary once you have achieved the objective you need to provide a deliverable, which is what you submit for marking to prove you cracked the binary and understand the process.
+
+For the deliverables requiring a write-up, this is similar to the write-ups you did for the previous assignment - although they might be briefer, depending on the complexity of the particular binary.
+
+Important: None of the binary activities here require the binary to be patched. You need to determine the password, register the software, etc. *without* changing the binaries. In other words, you cannot change any of the assembler instructions. You can certainly change instructions during your analysis of the binaries, but the final attack should not require any changes or modifications to the binaries themselves.
+
+*The password for the ZIP files is `cgscomputing.com`*
+
+=== Password1 (Easy, 5 marks)
+
+* *Download:* link:password1.zip[password1.zip]
+* *Type:* CLI binary (written in C).
+* *Objective:* Determine the correct password.
+* *Deliverable:* Provide a write-up explaining the exploitation process.
+
+=== Password2 (Easyish, 5 marks)
+
+* *Download:* link:password2.zip[password2.zip]
+* *Type:* CLI binary (written in C).
+* *Objective:* Determine the correct password.
+* *Deliverable:* Provide a write-up explaining the exploitation process.
+
+=== SerialKey1 (Easy, 5 marks)
+
+* *Download:* link:SerialKey1.zip[SerialKey1.zip]
+* *Type:* Win32 binary (written in C++).
+* *Objective:* Determine the correct serial key to register the software.
+* *Deliverables:* Provide a write-up explaining the exploitation process.
+
+=== SerialKey2 (Medium, 10 marks)
+
+* *Download:* link:SerialKey2.zip[SerialKey2.zip]
+* *Type:* Win32 binary (written in C++).
+* *Objective:* Determine the method being employed to determine whether the software should be registered or not and then register the software.
+* *Deliverables:* Provide a write-up explaining the exploitation process.
+
+=== SerialKey3 (Hard, 15 marks)
+
+* *Download:* link:SerialKey3.zip[SerialKey3.zip]
+* *Type:* Win32 binary (written in C++).
+* *Objective:* Determine how the binary validates serial numbers *and* write a keygen which will generate a random list of 10 valid serial numbers.
+* *Deliverable:* Provide a write-up explaining the exploitation process *and* provide the source code for the keygen.
+** The keygen can be written in a language of your choice, so long as an interpreter or compiler is readily available.
+** To clarify, each time you run the keygen you should generate a new list of valid serial numbers. *Hint:* This might seem strange, but once you understand how this challenge works you’ll understand how you can randomly generate 10 valid serial numbers.
+
+== Submission Instructions
+
+This assignment is worth 40% of your Semester One assessment for this subject.
+
+You must complete your write-up of the challenges in the assigned Google Classroom assignment, and click the _Turn In_ button before the due date.
+
+Put your keygen code into this document as well, using monospaced font (such as Roboto Mono). Make sure the code is pasted as text and *not* a screen shot. You must also specify the language of the code.
+
+*Late submissions will incur penalties as per the school assessment policy.*
+
+=== Draft Submissions
+
+You may optionally (but strongly encouraged) submit one draft of your assignment for review prior to formal submission. Your draft must be feature complete (i.e. not a half-done assignment) and submitted at least one week before the assignment due date - for this assignment, drafts are due by 8:45am on Thursday 13 May 2021). To submit a draft, _Turn In_ your Google Classroom submission (as you would for the final submission) and email Mr Purcell and let him know that your submission is ready for review.
+
+You are also welcome to ask me as you're working on the assignment whether it's on the right track with the correct level of detail.
+
+[#_marking_guidelines]
+=== Marking Guidelines
+
+link:2021_s1assign2_marksheet.pdf[Your assignment will be marked following the criteria in this PDF file.^]
+
+
+=== All My Own Work
+
+Please note that any submitted work is to be your own. There are serious consequences for submitting work which is taken from another person, even if they give it to you voluntarily. To decide if you have written the material, we may need to question you about your understanding of the topic. Please be careful when presenting ideas which are not entirely your own; reference such material thoroughly.
+
+For more specific examples, see the <<course_overview/course_overview.adoc#academic-honesty, Academic Honesty>> section of the Course Outline.
