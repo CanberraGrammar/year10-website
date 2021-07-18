@@ -19,7 +19,7 @@
 
 .^|*DeepRacer Quiz*
 .^|Monday 18 October 2021 (Week 3)
-.^|IT1001: Monday 8 November 2021 (Week 6), Period 4
+.^|IT1001: Monday 8 November 2021 (Week 6), Period 4 +
 IT1002: Monday 8 November 2021 (Week 6), Period 2
 ^.^|20%
 
