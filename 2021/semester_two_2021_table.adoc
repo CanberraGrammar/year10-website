@@ -1,0 +1,26 @@
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Assignment: DeepRacer Training*
+.^|Monday 2 August 2021 (Week 3)
+.^|Thursday 2 September 2021 (Week 7) by 8:45am
+^.^|40%
+
+.^|*Assignment: DeepRacer Advanced Capabilities*
+.^|Monday 13 September 2021 (Week 9)
+.^|Thursday 28 October 2021 (Week 4) by 8:45am
+^.^|40%
+
+.^|*DeepRacer Quiz*
+.^|Monday 18 October 2021 (Week 3)
+.^|IT1001: Monday 8 November 2021 (Week 6), Period 4
+IT1002: Monday 8 November 2021 (Week 6), Period 2
+^.^|20%
+
+|===
