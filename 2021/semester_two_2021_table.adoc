@@ -7,8 +7,8 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Assignment: DeepRacer Training*
-.^|Monday 2 August 2021 (Week 3)
+.^|*<<s2assign1/index.adoc#, Assignment: DeepRacer Training>>*
+.^|Tuesday 3 August 2021 (Week 3)
 .^|Thursday 2 September 2021 (Week 7) by 8:45am
 ^.^|40%
 
